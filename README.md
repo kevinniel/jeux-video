@@ -12,7 +12,7 @@ Renseigner le contexte
 	- périphériques
 	- langages de programmation	
 
-### creation
+### Création
 	- différents genres
 	- style graphique
 	- musique
