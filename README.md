@@ -21,14 +21,14 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- inspirations (films, livres, etc...)
 	- temps de développement moyen d'un JV / temps de production & comparaison avec d'autres milieux (cinéma, ...)
 
-### finances
+### Finances
 	- marketing
 	- sponsoring
 	- (partenariat)
 	- méthodes de rémunérations (abonnements, boutique in game, etc...)
 	- budget des jeux vidéos
 
-### communautaire
+### Communautaire
 	- communauté
 	- évènements
 	- streaming
@@ -36,7 +36,7 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- critiques
 	- la pensée geek
 
-### histoire
+### Histoire
 	- TOP / FLOP
 	- influence dans la culture
 	- l'évolution des modes
@@ -46,14 +46,13 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- prix des meilleurs JV
 	- rétrogaming
 
-### acteurs
+### Acteurs
 	- plateformes
 	- boites de développement
 	- les métiers en lien avec le JV et leurs rôles respectifs
 	- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
 
-
-### l'humain dans les JV
+### L'humain dans les JV
 	- avantages et inconvénients sur le corp humain
 	- accessibilité
 	- médecine - jeux à utilité thérapeuthique
