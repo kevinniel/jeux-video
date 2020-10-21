@@ -4,6 +4,20 @@
 
 Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été décidé de réaliser un projet visant à informer les utilisateurs quant au monde du jeu vidéo.
 
+## Travail à réaliser
+
+Par groupe, les étudiants devront mener des recherches et organiser celles-ci de manière professionnelle et rédiger les informations qu'ils auront trouvé dans des fichiers de type "markdown". Il sera possible d'inclure des images et / ou des documents divers pour justifier de leurs écrits dans des dossiers de sources.
+
+L'utilisation du markdown est obligatoire, vous pourrez utiliser cette documentation : [guide markdown](https://guides.github.com/features/mastering-markdown/)
+
+Chaque catégorie de recherche devra comprendre un dossier qui contiendra l'ensemble des informations relatives audit sujet. Ces dossiers devront être créés par les équipes qui gèrent les catégories.
+
+Le plan n'est pas figé, et chaque groupe est libre de le modifié, du moins pour les sous parties de chaque catégorie.
+
+A chaque fois que le plan est modifié par une équipe, elle devra le répercuter sur le plan ci-dessous.
+
+A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégrer un lien du plan, vers le document.
+
 ## Plan
 
 ### Technique
