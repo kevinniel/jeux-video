@@ -6,7 +6,7 @@ Renseigner le contexte
 
 ## Plan
 
-### technique
+### Technique
 	- moteurs
 	- matériel
 	- périphériques
