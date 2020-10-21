@@ -1,20 +1,25 @@
 ## 3D:
     - réaliste
     - cell shading
+    Caméra:
+        - 3D fixe
+        - première personne
+        - troisième personne
+        - réalité virtuelle
 
-### caméra:
-    - 3D fixe
-    - première personne
-    - troisième personne
 
+### bonus:
+jeu stéréoscopique
 
 ## 2D:
+    - fmv
     - pixel art (différentes définitions)
     - dessin
     - cartoon
+    caméra:
+        - vue de 3/4
+        - vue de dessus
+        - vue de côté
 
-### caméra:
-    - vue de 3/4
-    - vue de dessus
-    - vue de côté
-
+### Bonus :
+jeu textuel
