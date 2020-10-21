@@ -19,6 +19,7 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- scénario
 	- différentes mécaniques
 	- inspirations (films, livres, etc...)
+	- temps de développement moyen d'un JV / temps de production & comparaison avec d'autres milieux (cinéma, ...)
 
 ### finances
 	- marketing
@@ -51,10 +52,6 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- les métiers en lien avec le JV et leurs rôles respectifs
 	- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
 
-### statistiques
-	- le temps de jeu moyen
-	- temps de développement moyen d'un JV / temps de production & comparaison avec d'autres milieux (cinéma, ...)
-
 
 ### l'humain dans les JV
 	- avantages et inconvénients sur le corp humain
@@ -64,3 +61,4 @@ Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été 
 	- les intentions véhiculées / morales / mise en exergue de problèmes sociétaux
 	- façon d'appréhendre le jeu vidéo au quotidien
 	- addiction
+	- le temps de jeu moyen
