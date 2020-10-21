@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Renseignez le contexte
+Renseigner le contexte
 
 ## Plan
 
