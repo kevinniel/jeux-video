@@ -1,6 +1,6 @@
 ## 3D:
     - réaliste
-    - cell shading
+    - cel shading
     Caméra:
         - 3D fixe
         - première personne
@@ -14,8 +14,12 @@ jeu stéréoscopique
 ## 2D:
     - fmv
     - pixel art (différentes définitions)
+    - vector art
+    - cutout art (style papier genre paper mario ou don't starve)
+    - flat art
     - dessin
     - cartoon
+    - monochrome (style limbo)
     caméra:
         - vue de 3/4
         - vue de dessus
