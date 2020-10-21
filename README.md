@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Renseigner le contexte
+Dans le cadre de l'apprentissage de GIT, et du travail collaboratif, il a été décidé de réaliser un projet visant à informer les utilisateurs quant au monde du jeu vidéo.
 
 ## Plan
 
