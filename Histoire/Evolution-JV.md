@@ -29,4 +29,13 @@ La WII ne sortit qu'en fin d'année 2006 partout dans le monde qui fut un autre 
 - **_C'est en 1991_** que le premier Civilization sort, et connait déjà une grande popoularité auprès des joueurs, en plus d'innover dans les jeux de stratégies au tour par tour.
 - **_En 1992_** id Software décide de sortir le premier jeu de tir à la première personne qui va créer un engouement intense autour de ce genre : Wolfenstein 3D
 - **_A partir de 1993_** Doom sort enfin, qui introduit le gore dans les jeux-vidéos, et popularise le jeu de tir à la première personne.
-- **_Ce n'est qu'en 1995_** que l'E3 fut créer 
+- **_Ce n'est qu'en 1995_** que l'E3 fut créer, le plus gros salon de jeux-vidéos et de console au monde à l'heure actuelle.
+- **_C'est en 1996_** que sort enfin Quake, qui marque un grand pas vers la 3D (premier FPS entièrement en 3D) et vers le jeu en ligne mulitjoueurs.
+- **_En 1997_** sort le tout premier MMORPG (jeu de rôle massivement multijoueurs), Ultima Online, qui va donc populariser le genre aussi.
+- **_L'âge d'or de 1998_** permit la sortie de Half Life, qui va lui aussi marquer, de façon bien différente, le milieu du FPS avec histoire. Au même moment, Blizzard sortent *Starcraft*, le premier jeu de stratégie en temps réel jouable en ligne. Il fut le jeu le plus vendu de son époque, avec 11 millions de ventes. Il deviendra en plus de ça un grand phénoméne en Corée du Sud.
+- **_Grâce à l'année 1999_** Counter-Strike voit le jour, qui connaît le plus grand succès de son genre, le FPS, en plus d'être le jeu en ligne le plus joué pendant plusieurs années. Il marquera aussi le monde de l'e-sport avec sa scène compétitive la plus active de son époque.
+- **_Pour le début des années 2000_**, Will Wright eu l'idée de créer le genre : simulation sociale avec Sims. En parallèles, l'e-sport de Starcraft et Counter-Strike ne fait que d'évoluer.
+- **_Ce n'est qu'en 2002_** que Warcraft 3 sort, qui deviendra très rapidement le RTS le plus joué et le plus populaire.
+- **_2003 marquera un grand moment_**, Steam est créer, qui à pour but d'être une plâteforme de téléchargement des jeux pour PC via internet. Il deviendra très rapidement la plateforme la plus populaire et la plus utilisées.
+- **_Ce n'est qu'en 2005_**, soit 1 an après sa sortie, que World of Warcraft deviendra le MMORPS le plus populaire au monde, avec plus de dix millions de joueurs actifs. Malgré le nombre de MMORPG émergent suite à WoW, il restera indétronable dans son genre.
+- **_Par la suite_** les jeux-vidéos sur PC se sont développés, des grosses licences ont émergés (Assasins Creed, Call of Duty,), des anciennes licences comme World of Warcraft, Starcraft, Counter-Strike continuent de perdurer dans le temps et de s'imposer comme les meilleurs dans leurs genre. D'autres plateformes de téléchargement, comme Steam, sont apparus, mais seulement Epic Games à su leurs faire concurrence. 
