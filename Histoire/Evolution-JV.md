@@ -22,3 +22,11 @@ La WII ne sortit qu'en fin d'année 2006 partout dans le monde qui fut un autre 
 - **_Durant l'E3 2019_**, La neuvième génération de console est annoncé par Microsoft avec la Xbox Series X, suivis par Sony début 2020 avec la Playstation 5.
 
 # PC STEAM & CO
+
+- **_Le premier jeu sur PC_** à être apparu est "_Turochamp_", un programme de simulation d'échecs, développé en 1948, le jeu ne sera fonctionnel au grand public uniquement à partir de **1952**
+- **_Durant une longue période_** les jeux vidéos sur ordinateurs ne connaîtront pas un énorme succès du à l'accessibilité restreinte et aux temps de développement des jeux.
+- **_A partir des années 1990_** les jeux sur PC se développent énormément, surtout grâce aux potentiels des ordinateurs qui ont énormément évolués.
+- **_C'est en 1991_** que le premier Civilization sort, et connait déjà une grande popoularité auprès des joueurs, en plus d'innover dans les jeux de stratégies au tour par tour.
+- **_En 1992_** id Software décide de sortir le premier jeu de tir à la première personne qui va créer un engouement intense autour de ce genre : Wolfenstein 3D
+- **_A partir de 1993_** Doom sort enfin, qui introduit le gore dans les jeux-vidéos, et popularise le jeu de tir à la première personne.
+- **_Ce n'est qu'en 1995_** que l'E3 fut créer 
