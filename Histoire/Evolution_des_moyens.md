@@ -1,16 +1,14 @@
-# En cours 1/3 #
+# En cours 2/3 #
 
 # **Introduction :**
 
 Nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
-Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distributions**. Et enfin de la **rémunération** des studios/développeurs.
+Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distribution**. Et enfin de la **rémunération** des studios/développeurs.
 
 
 # **Le marché des consoles :**
- 
-Il faut savoir que le marché des consoles fonctionne par cycles, nous arrivons à la **9e génération** (*PS5 / XBOX Series X*).  
-Ce marché peut être séparé en quatres segments stratégiques :
 
+Ce marché peut être séparé en quatres segments stratégiques :  
 * Les **consoles de salon**, qui se branchent sur un téléviseur pour afficher le jeu et auxquelles on connecte accessoirement des mannetes de jeu.
 * Les **consoles portables**, qui possèdent leur propre écran et sont de ce fait autonomes et facilement transportables.
 * Les **téléphones mobiles**, qui sont une autre alternative de consoles portables, faisant grandement partie de notre société vis-à-vis de notre utilisation quotidienne.
@@ -54,7 +52,9 @@ De nouveaux modèles de distribution et de revenus ont donc vu le jour à la sui
 
 # **Types de distribution :**
 
-Il existe 
+Il existe deux types de distribution des jeux-vidéo :
+*La distribution physique.
+*La distribution dématérialisée.
 
 
 # **La rémunération :**
