@@ -1,6 +1,6 @@
 ### En cours ###
 
-# Le marché des consoles :
+# __Le marché des consoles :__
 
 Dans cette partie nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
 Dans un premier temps nous parlerons du **produit**, du marché des consoles.
@@ -31,10 +31,10 @@ Avec un prix plus bas que celui de la PSP, la Nintendo DS séduit un public beau
 
 Sony a lancé la console portable connectée en Octobre 2009 avec la PSP Go qui possède la technologie Wi-Fi et Bluetooth. Grâce à 16 Go de mémoire disponible sur la nouvelle PSP, les utilisateurs peuvent ainsi acheter et télécharger des jeux « dématérialisés » directement via Internet. En Avril 2009, Nintendo propose également une console connectée à Internet avec la DSi qui permet de télécharger les jeux Nintendo directement en ligne. Seul Microsoft reste pour l’instant absent du marché des consoles de jeu portables. 
 
-
-
-
-
 ### **_Téléphones mobiles_**
 
 ### **_PC_**
+
+# __Types de distribution :__
+
+# __La rémunération :__
