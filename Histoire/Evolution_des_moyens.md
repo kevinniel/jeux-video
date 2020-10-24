@@ -3,7 +3,7 @@
 # **Introduction :**
 
 Nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
-Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distribution**. Et enfin de la **rémunération** des studios/développeurs.
+Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distribution**. Et enfin de les **modèles de revenus** des studios/développeurs.
 
 
 # **Le marché des consoles :**
@@ -78,4 +78,4 @@ La dématérialisation des jeux vidéo a permis une **disponibilité** des jeux 
 La majorité des **grands éditeurs** ont **leur propre service de distribution physique** et intègrent maintenant le service de **distribution dématérialisée**. Les jeux vidéo se vendant de plus en plus en distribution dématérialisée, les éditeurs ont l’opportunité d’assurer directement la commercialisation de leurs titres.
 
 
-# **La rémunération :**
+# **Modèles de revenus :**
