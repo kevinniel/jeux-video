@@ -23,6 +23,8 @@ On retrouve sur ce marché trois principaux acteurs :
 La cible visée pour les jeux sur consoles de salon est **jeune** et **masculine**. En effet, on observe qu’environ **60%** d’**hommes** et **40%** de **femmes** jouent à des jeux sur consoles de salon, avec une moyenne d’âge d’environ **25 ans**.  
 Avec le développement d’**Internet**, toutes les consoles nouvelle génération sont aujourd’hui connectées en réseau afin de **jouer en ligne** avec d’autres joueurs du **monde entier**.
 
+! [Chronologie et durée de comercialisation des consoles de jeu] (https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)
+
 ### **_Consoles portables_**
 
 De même que pour les consoles de salon, les consoles portables sont également des systèmes fermés avec des environnements de développement propres. La différence principale avec les consoles de salon est que les consoles portables ont été conçues pour être transportées afin de jouer n’importe où. Ainsi toutes les fonctions sont regroupées dans un petit appareil électronique facilement transportable.  
