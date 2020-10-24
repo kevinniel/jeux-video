@@ -53,8 +53,8 @@ De nouveaux modèles de distribution et de revenus ont donc vu le jour à la sui
 # **Types de distribution :**
 
 Il existe deux types de distribution des jeux-vidéo :
-*La distribution physique.
-*La distribution dématérialisée.
+* La distribution physique.
+* La distribution dématérialisée.
 
 
 # **La rémunération :**
