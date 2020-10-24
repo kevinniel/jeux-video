@@ -1,9 +1,13 @@
 # En cours 1/3 #
 
-# **Le marché des consoles :**
+# **Introduction :**
 
-Dans cette partie nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
-Dans un premier temps nous parlerons du **produit**, du marché des consoles.  
+Nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
+Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distributions**. Et enfin de la **rémunération** des studios/développeurs.
+
+
+# **Le marché des consoles :**
+ 
 Il faut savoir que le marché des consoles fonctionne par cycles, nous arrivons à la **9e génération** (*PS5 / XBOX Series X*).  
 Ce marché peut être séparé en quatres segments stratégiques :
 
@@ -49,6 +53,8 @@ De nouveaux modèles de distribution et de revenus ont donc vu le jour à la sui
 
 
 # **Types de distribution :**
+
+Il existe 
 
 
 # **La rémunération :**
