@@ -8,7 +8,7 @@ Dans un premier temps nous parlerons du **produit**, du marché des consoles. Pa
 
 # **Le marché des consoles :**
 
-Ce marché peut être séparé en quatres segments stratégiques :  
+Ce marché peut être séparé en quatres segments stratégiques :
 * Les **consoles de salon**, qui se branchent sur un téléviseur pour afficher le jeu et auxquelles on connecte accessoirement des mannetes de jeu.
 * Les **consoles portables**, qui possèdent leur propre écran et sont de ce fait autonomes et facilement transportables.
 * Les **téléphones mobiles**, qui sont une autre alternative de consoles portables, faisant grandement partie de notre société vis-à-vis de notre utilisation quotidienne.
@@ -55,6 +55,19 @@ De nouveaux modèles de distribution et de revenus ont donc vu le jour à la sui
 Il existe deux types de distribution des jeux-vidéo :
 * La distribution physique.
 * La distribution dématérialisée.
+
+
+### **_Distribution physique_**
+
+On peut distinguer différents acteurs participent au circuit de distribution :
+* Les **distributeurs** (ou **diffuseurs**), qui permettent le lien entre l’**éditeur** et le **détaillant**. Ils placent le produit dans les **points de vente** et assurent une partie de sa **promotion**. La majorité des grands éditeurs dans le monde possèdent leur propre service de distribution. En revanche, d’autres font appel à des sociétés locales, parfois concurrentes dans l’édition, afin d’écouler leurs produits. Les diffuseurs externes réalisent la majeure partie de leur chiffre d’affaires dans la **diffusion pure**. Ils interviennent également parfois dans la fabrication d’un jeu et sont donc **coéditeurs**.
+* Les **centrales d’achats**, qui négocient et placent les produits auprès de la **grande distribution**, des **multi-spécialistes** et des **magasins spécialisés**. Elles sont le regroupement d’**enseignes commerciales** qui mettent en commun leurs achats afin de bénéficier de conditions plus intéressantes auprès des fournisseurs.
+* Les **grossistes**, qui se chargent de placer les produits chez les **petits détaillants**. Ils fournissent en majeure partie les petits magasins qui ne sont pas directement pris en charge par les sociétés de diffusion des jeux.
+* Les **points de ventes**, qui vendent les produits aux **consommateurs finaux**, avec la grande distribution (**Auchan**, **Carrefour**, etc.), les **multi-spécialistes** (**Fnac**, **Virgin**, etc.) et les **magasins spécialisés** (**Multimania**, **Score Game**, etc.), et enfin tous les **petits détaillants** pris en charge par les grossistes. 
+
+### **_Distribution dématérialisée_**
+
+X
 
 
 # **La rémunération :**
