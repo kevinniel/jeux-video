@@ -1,6 +1,6 @@
 ### En cours ###
 
-# ~~Le marché des consoles :~~
+# **Le marché des consoles :**
 
 Dans cette partie nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
 Dans un premier temps nous parlerons du **produit**, du marché des consoles.
@@ -35,6 +35,6 @@ Sony a lancé la console portable connectée en Octobre 2009 avec la PSP Go qui 
 
 ### **_PC_**
 
-# ~~Types de distribution :~~
+# **Types de distribution :**
 
-# ~~La rémunération :~~
+# **La rémunération :**
