@@ -23,8 +23,6 @@ On retrouve sur ce marché trois principaux acteurs :
 La cible visée pour les jeux sur consoles de salon est **jeune** et **masculine**. En effet, on observe qu’environ **60%** d’**hommes** et **40%** de **femmes** jouent à des jeux sur consoles de salon, avec une moyenne d’âge d’environ **25 ans**.  
 Avec le développement d’**Internet**, toutes les consoles nouvelle génération sont aujourd’hui connectées en réseau afin de **jouer en ligne** avec d’autres joueurs du **monde entier**.
 
-![Chronologie et durée de comercialisation des consoles de jeu](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)
-
 ### **_Consoles portables_**
 
 De même que pour les consoles de salon, les consoles portables sont également des systèmes fermés avec des environnements de développement propres. La différence principale avec les consoles de salon est que les consoles portables ont été conçues pour être transportées afin de jouer n’importe où. Ainsi toutes les fonctions sont regroupées dans un petit appareil électronique facilement transportable.  
@@ -51,6 +49,8 @@ Système d’exploitation, processeur, carte graphique, mémoire vive, carte son
 Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la **centaine de milliers** d’euro jusqu’à **des millions** d’euros. Le souci majeur rencontré par les développeurs est celui du **piratage informatique** par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.  
 De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif d'Internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux *«Online»*.
 
+![Chronologie et durée de comercialisation des consoles de jeu](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)
+
 
 # **Types de distribution :**
 
@@ -69,7 +69,13 @@ On peut distinguer différents acteurs participent au circuit de distribution :
 
 ### **_Distribution dématérialisée_**
 
-X
+Les jeux vidéo se vendent également en distribution dématérialisée via **Internet**. Le traditionnel support physique tel que le CD ou DVD a été remplacé par le téléchargement du jeu directement en ligne via son ordinateur ou sa console de jeu. Ce type de distribution permet aux éditeurs d’**économiser sur les coûts de fabrication**, de **logistique**, et de **stock**.  
+De plus, avec le fort développement des téléphones portables tactiles, les jeux mobiles se sont considérablement développés. Ces derniers sont exclusivement accessibles via la distribution dématérialisée, en téléchargeant les jeux directement via son mobile.  
+La dématérialisation des jeux vidéo a permis une **disponibilité** des jeux vidéo beaucoup **plus longue** qu’en magasin. En effet, il est ainsi possible de laisser des anciens jeux disponibles sur les serveurs.
+* Les **distributeurs**, qui sont en relation directe avec les **éditeurs** et possèdent des accords concernant exclusivement la distribution dématérialisée via le téléchargement en ligne. Ils assurent la distribution des jeux vidéo via leur **plateforme technique** gérant la **mise au format du catalogue**, le **merchandising**, le **téléchargement**, le **paiement**, le **support** et le **service client**. Ils distribuent les produits directement via leur propre boutique en ligne, ou bien indirectement via des sites web à forte audience.
+* Les **magasins dématérialisés**, qui sont en relation directe avec les **consommateurs finaux**. Ils sont le **Front Office** de la plateforme technique des distributeurs qui est mis en avant pour les consommateurs. Ils gèrent de façon **autonome** leur **audience**, leurs **actions de marketing** et la **promotion de leur site**.
+* Les **sites web**, qui sont en relation avec les **distributeurs**. Ce sont des sites web dont la marque bénéficie d’une **forte notoriété** et qui possèdent une **forte audience** qu’ils mettent à la disposition du distributeur de manière exclusive. Ils jouent le rôle des **détaillants** vis-à-vis du **distributeur** et lui permettent ainsi l’accès aux **consommateurs finaux**. On distingue des **Fournisseurs d’Accès à Internet**, les **sites e-Commerce**, ainsi que les **sites média thématique**. Un service *«clé en main»* est souvent proposé aux sites web par les distributeurs qui peuvent ainsi **vendre le service de téléchargement des jeux vidéo sous leur propre marque**.
+La majorité des **grands éditeurs** ont **leur propre service de distribution physique** et intègrent maintenant le service de **distribution dématérialisée**. Les jeux vidéo se vendant de plus en plus en distribution dématérialisée, les éditeurs ont l’opportunité d’assurer directement la commercialisation de leurs titres.
 
 
 # **La rémunération :**
