@@ -1,4 +1,4 @@
-### En cours ###
+# En cours 1/3 #
 
 # **Le marché des consoles :**
 
@@ -40,16 +40,14 @@ Trois phénomènes contribuent au succès des jeux sur mobile :
 
 ### **_PC_**
 
-Le PC est la plateforme de jeu la plus utilisée dans le monde aujourd’hui. De multiples configurations Hardware et Software des ordinateurs sont possibles : Système d’exploitation, processeur, carte graphique, mémoire vive, carte son, etc. Microsoft domine très largement le marché des systèmes d’exploitation avec Windows. Contrairement aux consoles, les PC ne sont pas des systèmes fermés. De plus, il n’est pas nécessaire de verser des indemnités à un constructeur pour le développement d’un jeu sur PC. Les PC représentent donc une opportunité pour les éditeurs et les studios.
+Le PC est la plateforme de jeu la plus utilisée dans le monde. De multiples configurations **Hardware** et **Software** des ordinateurs sont possibles :  
+Système d’exploitation, processeur, carte graphique, mémoire vive, carte son, etc.  
+**Microsoft** domine très largement le marché des systèmes d’exploitation avec **Windows**. Contrairement aux consoles, les PC ne sont pas des systèmes fermés. De plus, il n’est pas nécessaire de verser des indemnités à un constructeur pour le développement d’un jeu sur PC. Les PC représentent donc une opportunité pour les éditeurs et les studios.  
+Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la **centaine de milliers** d’euro jusqu’à **des millions** d’euros. Le souci majeur rencontré par les développeurs est celui du **piratage informatique** par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.  
+De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif d'Internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux *« Online »*.
 
-
-
-Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la centaine de milliers d’euro jusqu’à des millions d’euros. Le souci majeur rencontré par les développeurs est celui du piratage informatique par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.
-
-
-
-De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif de l'internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux « On-Line ».
 
 # **Types de distribution :**
+
 
 # **La rémunération :**
