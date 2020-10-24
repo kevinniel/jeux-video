@@ -21,17 +21,19 @@ La cible visée pour les jeux sur consoles de salon est **jeune** et **masculine
 Avec le développement d’**Internet**, toutes les consoles nouvelle génération sont aujourd’hui connectées en réseau afin de **jouer en ligne** avec d’autres joueurs du **monde entier**.
 
 ### **_Consoles portables_**
-De même que pour les consoles de salon, les consoles portables sont également des systèmes fermés avec des environnements de développement propres. La différence principale avec les consoles de salon est que les consoles portables ont été conçues pour être transportées afin de jouer n’importe où (dans la voiture, les transports en commun, etc.) Ainsi toutes les fonctions sont regroupées dans un petit appareil électronique facilement transportable.
-
-Avec plus de 160 millions de Game Boy vendues entre 1989 et 2003, c’est Nintendo qui a dominé le marché des consoles portables. Aujourd’hui, deux fabricants sont présents sur ce marché avec la PSP (Playstation Portable) de Sony et la DS (Dual Screen) de Nintendo.
-
-Les consoles portables DS et PSP ont donné la possibilité de développer des jeux à faible coût (entre 300 k€ et 600 k€) pour un temps de développement d’en moyenne 12 mois.
-
-Avec un prix plus bas que celui de la PSP, la Nintendo DS séduit un public beaucoup plus large, plus féminin, et plus familial.
-
-Sony a lancé la console portable connectée en Octobre 2009 avec la PSP Go qui possède la technologie Wi-Fi et Bluetooth. Grâce à 16 Go de mémoire disponible sur la nouvelle PSP, les utilisateurs peuvent ainsi acheter et télécharger des jeux « dématérialisés » directement via Internet. En Avril 2009, Nintendo propose également une console connectée à Internet avec la DSi qui permet de télécharger les jeux Nintendo directement en ligne. Seul Microsoft reste pour l’instant absent du marché des consoles de jeu portables. 
+De même que pour les consoles de salon, les consoles portables sont également des systèmes fermés avec des environnements de développement propres. La différence principale avec les consoles de salon est que les consoles portables ont été conçues pour être transportées afin de jouer n’importe où. Ainsi toutes les fonctions sont regroupées dans un petit appareil électronique facilement transportable.
+Avec plus de **160 millions** de *Game Boy* vendues entre **1989** et **2003**, c’est Nintendo qui a dominé le marché des consoles portables. 
 
 ### **_Téléphones mobiles_**
+L’industrie du jeu sur mobile à réellement commencée en **2002** avec l’arrivée des téléphones *« java »* qui ont permis à des applications tierces d’être installées sur les mobiles.
+Alors que le secteur du jeu sur mobile stagnait, Apple arrive soudainement sur le marché en **2008**. Il propose alors un partage de revenu équitable avec **70 %** pour l’**éditeur** et **30 %** pour **Apple**. Ceci a permis à Apple de propulser l’*iPhone* au sommet des ventes du segment des Smartphones. La concurrence est lancée avec des milliers de petits studios indépendants qui contractualisent directement avec Apple et concurrencent les grands éditeurs de jeux mobiles.
+Aujourd’hui, la domination d’**Androïd** sur le marché mondial des Smartphones est incontestable. En **2014**, il occupe **81,5 %** des parts du marché mondiale des OS mobiles. Avec le système d’exploitation **iOS** d’Apple qui possède **14,8 %** des parts du marché, ils représentent à eux deux **96,3 %** de l’ensemble des Smartphones vendus dans le monde en 2014.
+Une population d’une moyenne d’âge de **25 ans**, aussi bien **féminine** que **masculine** à 50/50, est attirée par les jeux sur mobile.
+La plupart des petits jeux peuvent être développés en **3 mois**, il faut cependant jusqu’à **9 mois** pour des jeux plus complexes qui demandent plus de développement.
+Trois phénomènes contribuent au succès des jeux sur mobile :
+* L’incroyable développement des Smartphones, avec des mobiles haut de gamme dotés de **larges écrans**, d’une **puissance d’affichage** et de **calcul élevés**, des **capacités de stockage** toujours **plus grands**.
+* Le développement des réseaux (avec la *3G* et la *4G*) et des offres à accès Internet en **illimité**.
+* Les systèmes d’exploitation mobiles de nouvelle génération (*Androïd* de **Google**, *iOS* d’**Apple**, etc.) qui mettent à disposition des *« Applications Stores »*.
 
 ### **_PC_**
 
