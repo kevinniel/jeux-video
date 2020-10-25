@@ -9,10 +9,10 @@ Dans un premier temps nous parlerons du **produit**, du marché des consoles. Pa
 # **I. Le marché des consoles :**
 
 Ce marché peut être séparé en quatres segments stratégiques :
-* Les **consoles de salon**, qui se branchent sur un téléviseur pour afficher le jeu et auxquelles on connecte accessoirement des mannetes de jeu.
-* Les **consoles portables**, qui possèdent leur propre écran et sont de ce fait autonomes et facilement transportables.
-* Les **téléphones mobiles**, qui sont une autre alternative de consoles portables, faisant grandement partie de notre société vis-à-vis de notre utilisation quotidienne.
-* Les **PC**, qui sont aujourd'hui la plateforme de jeu la plus utilisée dans le monde, permettant de jouer à la plupart des jeux avec des performances accrues.
+* Les consoles de salon, qui se branchent sur un téléviseur pour afficher le jeu et auxquelles on connecte accessoirement des mannetes de jeu.
+* Les consoles portables, qui possèdent leur propre écran et sont de ce fait autonomes et facilement transportables.
+* Les téléphones mobiles, qui sont une autre alternative de consoles portables, faisant grandement partie de notre société vis-à-vis de notre utilisation quotidienne.
+* Les PC, qui sont aujourd'hui la plateforme de jeu la plus utilisée dans le monde, permettant de jouer à la plupart des jeux avec des performances accrues.
 
 
 ### **_1. Consoles de salon_**
@@ -88,17 +88,40 @@ Depuis la consécration d’**Internet** comme pilier de la communication de don
 
 ### **_1. Vente lors du téléchargement_**
 
+Grâce à Internet, ce modèle économique s’est démocratisé car il répond à plusieurs besoins des consommateurs.
+
 #### **_1.1 Distribution numérique_**
 
+/
+
+#### **_1.2 Micro-transactions_**
+
+/
 
 ### **_2. Abonnement_**
 
-X
+Certains éditeurs proposent des jeux en évolution gratuite et constante. Pour compenser le coût d’évolution, l’abonnement à faible coût est choisi. D’autres besoins consommateurs seront sollicités.
+
+#### **_2.1 Jeu à la demande_**
+
+/
+
+#### **_2.2 Jeu à univers persistant_**
+
+/
 
 ### **_3. Publicité_**
 
-X
+Afin de financer le développement de leur jeu, certains éditeurs optent pour la publicité. Cette solution permet de limiter le coût à l’achat pour le consommateur ou d’éliminer le coût d’un abonnement pour continuer la mise à jour du jeu vidéo.
+
+#### **_3.1 Publicité intrajeu_**
+
+/
+
+#### **_3.2 Publicité sur web_**
+
+/
 
 ### **_4. Financement participatif_**
 
-X
+/
