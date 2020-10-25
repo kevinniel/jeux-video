@@ -92,11 +92,13 @@ Grâce à Internet, ce modèle économique s’est démocratisé car il répond 
 
 #### **_1.1 Distribution numérique_**
 
-/
+Les termes *«Buy and Download»* ou *«Dowload to Own»* sont utilisés pour caractériser la **distribution numérique**. Le besoin d’obtenir immédiatement un jeu vidéo, sans avoir à trouver un revendeur puis attendre l’ouverture d’un magasin, est assouvi à l’aide du *BaD*. Plusieurs **possibilités d’achat** et **plateformes** sont proposées. La souplesse d’achat et sa rapidité en font un modèle prisé par beaucoup de consommateurs. Les plateformes permettent aussi d’obtenir des **réductions** sur une partie de leurs produits ce qui rend ce modèle très concurrentiel avec le modèle économique physique. Pour finir, le dernier avantage est la bibliothèque de jeux vidéo disponibles. Sur **Steam**, leader des plateformes de divertissement, **3500 jeux** sont disponibles en comparaison à quelques **dizaines/centaines** dans un **magasin**.
 
 #### **_1.2 Micro-transactions_**
 
-/
+Les **micro-transactions** sont principalement utilisées pour ajouter un bonus au contenu déjà existant (**DLC**, *«Downloadable Content»*) ainsi que l’**Item Shop** :
+* Un **DLC** permet donc d’étendre la durée de vie d’un jeu vidéo existant par l’achat de ce contenu. Cependant, il est moins important qu’une extension d’un jeu vidéo car il représente qu’une évolution mineure et non un nouveau jeu vidéo.
+* L’**Item Shop**, aussi appelé *«Virtual Item Sell»*, est un des modèles de financement des jeux *«Free to Play»*. Ce type de jeu permet aux consommateurs d’utiliser le produit **gratuitement** mais pose certaines limites d’utilisation. Ces dernières peuvent être de différentes natures (limiter le nombre de cartes de jeux, limiter l’évolution, limiter la customisation du profil de jeu, etc.). Afin de déverrouiller toutes les options du jeu en entier, il est obligatoire de payer via une boutique en ligne. La plupart des jeux multijoueur fonctionne sur ce principe afin d’attirer une masse de joueurs élevée qui ne peuvent pas forcément payer d’abonnement.
 
 ### **_2. Abonnement_**
 
@@ -104,11 +106,11 @@ Certains éditeurs proposent des jeux en évolution gratuite et constante. Pour 
 
 #### **_2.1 Jeu à la demande_**
 
-/
+Si le consommateur exige de pouvoir jouer à de nombreux jeux sans limitation durant une période définie, l’**abonnement** est un bon investissement. Pour un **coût limité**, les jeux seront en **accès libre** à la demande du consommateur pendant la durée de l’abonnement.
 
 #### **_2.2 Jeu à univers persistant_**
 
-/
+Malgré le peu de jeux possédant un **abonnement**, la plupart de ceux-ci possèdent un environnement de jeu persistant. Cela implique de posséder des installations telles que des serveurs permettant de stocker les informations de l’univers persistant. Le consommateur se positionne donc en **loueur de connexion au serveur** et non en **acheteur d’un jeu vidéo**. En cas de rupture de paiement, le compte est suspendu et le consommateur doit se réabonner pour pouvoir continuer à jouer sur son compte. Les données ne sont cependant pas supprimées dans l’immédiat, et souvent conservées durant toute la durée d’ouverture des serveurs. Pour compenser le coût récurrent que le consommateur doit assumer, l’éditeur peut mettre en place des stratégies d’évolution de son jeu vidéo. Des **extensions** ou des **mises à jour** peuvent être apportées à intervalles réguliers pour augmenter la **qualité** et la **quantité d’objectifs** à atteindre ou apporter des **corrections d’erreurs**. A titre d’exemple, **World of Warcraft** a regroupé jusqu’à **12 millions de joueurs** sur un univers persistant. L’éditeur et développeur **Blizzard** utilise donc massivement ce modèle économique depuis **2004** afin de proposer de nouveaux contenus et d’améliorer l’expérience de jeu de leurs clients.
 
 ### **_3. Publicité_**
 
@@ -116,12 +118,15 @@ Afin de financer le développement de leur jeu, certains éditeurs optent pour l
 
 #### **_3.1 Publicité intrajeu_**
 
-/
+Ce type de monétisation est ancré dans la plupart des jeux vidéo traitant d’univers actuels ou futuristes. Ce modèle consiste à faire un **placement de produit** adapté à une société en contrepartie d’une **monétisation**. C’est ainsi que certaines sociétés peuvent proposer des **extensions gratuites** aux consommateurs et des améliorations tout en continuant à rémunérer leurs employés.  
+Cette publicité intégrée est présente sous forme explicite ou implicite. Le principal inconvénient de ce modèle est le **placement de produit incessant** qui peut nuire à l’**expérience de jeu**. En effet, une partie des consommateurs voit une échappatoire du monde réel, qui est fortement influencé par la publicité, et aimerait un jeu sans publicités et messages commerciaux. 
 
 #### **_3.2 Publicité sur web_**
 
-/
+Ce deuxième modèle de publicité est utilisé par de nombreuses entreprises car il est **facile à mettre en place** et **peu obstruant**. Cependant, il est **peu rémunérateur**. Placées sous forme d’**images**, **textes** ou **vidéos**, les publicités peuvent être diffusées sur une partie du **site web**, ou directement sur le **jeu vidéo**. Les jeux vidéo sur les smartphones utilisent beaucoup ce modèle économique.
 
 ### **_4. Financement participatif_**
 
-/
+Le **crowdfunding**, ou financement participatif, suscite l’intérêt de nombreuses entreprises de développement indépendantes à petit budget. En effet, le problème principal de ces entreprises n’est pas le manque d’idées mais surtout le **manque de fonds** nécessaires à la réalisation de jeux vidéo ainsi que de leur diffusion. À la suite de la présentation de projet de start-up ou d’entreprises indépendantes, de nouveaux jeux vidéo peuvent donc voir le jour pour le plus grand plaisir des consommateurs. Grâce à ce nouveau modèle économique, le rêve de création peut enfin avoir lieu. 
+En échange d’un montant d’engagement du consommateur, les développeurs s’engagent à offrir une compensation. Plus la **somme de dons est élevée**, plus la **récompense est élevée**. Cela peut aller du **remerciement** accompagné de fonds d’écran personnalisés du jeu jusqu’au **don du jeu en premium** avec **visite du studio de développement**.  
+L’entreprise **KickStarter** est un des **leaders** de ce modèle économique et permet le développement de nombreux jeux vidéo.
