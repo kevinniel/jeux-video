@@ -2,11 +2,11 @@
 
 # **Introduction :**
 
-Nous allons voir les moyens qui ont été mis en places pour permettre aux jeux-vidéo de monter en flèche dans notre société.
-Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distribution**. Et enfin de les **modèles de revenus** des studios/développeurs.
+Nous allons voir les moyens qui ont été mis en place pour permettre aux jeux vidéo de monter en flèche dans notre société.
+Dans un premier temps nous parlerons du **produit**, du marché des consoles. Par la suite des différents types de **distribution**. Et enfin des **modèles de revenus** des studios/développeurs.
 
 
-# **Le marché des consoles :**
+# **I. Le marché des consoles :**
 
 Ce marché peut être séparé en quatres segments stratégiques :
 * Les **consoles de salon**, qui se branchent sur un téléviseur pour afficher le jeu et auxquelles on connecte accessoirement des mannetes de jeu.
@@ -31,13 +31,13 @@ Avec plus de **160 millions** de *Game Boy* vendues entre **1989** et **2003**, 
 
 ### **_3. Téléphones mobiles_**
 
-L’industrie du jeu sur mobile à réellement commencée en **2002** avec l’arrivée des téléphones *«java»* qui ont permis à des applications tierces d’être installées sur les mobiles.  
+L’industrie du jeu sur mobile a réellement commencée en **2002** avec l’arrivée des téléphones *«java»* qui ont permis à des applications tierces d’être installées sur les mobiles.  
 Alors que le secteur du jeu sur mobile stagnait, Apple arrive soudainement sur le marché en **2008**. Il propose alors un partage de revenu équitable avec **70%** pour l’**éditeur** et **30%** pour **Apple**. Ceci a permis à Apple de propulser l’*iPhone* au sommet des ventes du segment des Smartphones. La concurrence est lancée avec des milliers de petits studios indépendants qui contractualisent directement avec Apple et concurrencent les grands éditeurs de jeux mobiles.  
 Aujourd’hui, la domination d’**Androïd** sur le marché mondial des Smartphones est incontestable. En **2014**, il occupe **81,5%** des parts du marché mondiale des OS mobiles. Avec le système d’exploitation **iOS** d’Apple qui possède **14,8%** des parts du marché, ils représentent à eux deux **96,3%** de l’ensemble des Smartphones vendus dans le monde en 2014.  
 Une population d’une moyenne d’âge de **25 ans**, aussi bien **féminine** que **masculine** à 50/50, est attirée par les jeux sur mobile.
 La plupart des petits jeux peuvent être développés en **3 mois**, il faut cependant jusqu’à **9 mois** pour des jeux plus complexes qui demandent plus de développement.  
 Trois phénomènes contribuent au succès des jeux sur mobile :
-* L’incroyable développement des Smartphones, avec des mobiles haut de gamme dotés de **larges écrans**, d’une **puissance d’affichage** et de **calcul élevés**, des **capacités de stockage** toujours **plus grands**.
+* L’incroyable développement des Smartphones, avec des mobiles haut de gamme dotés de **larges écrans**, d’une **puissance d’affichage** et de **calcul élevés**, des **capacités de stockage** toujours **plus grandes**.
 * Le développement des réseaux (avec la *3G* et la *4G*) et des offres à accès Internet en **illimité**.
 * Les systèmes d’exploitation mobiles de nouvelle génération (*Androïd* de **Google**, *iOS* d’**Apple**, etc.) qui mettent à disposition des *«Applications Stores»*.
 
@@ -46,24 +46,24 @@ Trois phénomènes contribuent au succès des jeux sur mobile :
 Le PC est la plateforme de jeu la plus utilisée au monde. De multiples configurations **Hardware** et **Software** des ordinateurs sont possibles :  
 Système d’exploitation, processeur, carte graphique, mémoire vive, carte son, etc.  
 **Microsoft** domine très largement le marché des systèmes d’exploitation avec **Windows**. Contrairement aux consoles, les PC ne sont pas des systèmes fermés. De plus, il n’est pas nécessaire de verser des indemnités à un constructeur pour le développement d’un jeu sur PC. Les PC représentent donc une opportunité pour les éditeurs et les studios.  
-Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la **centaine de milliers** d’euro jusqu’à **des millions** d’euros. Le souci majeur rencontré par les développeurs est celui du **piratage informatique** par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.  
+Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la **centaine de milliers** d’euros jusqu’à **des millions** d’euros. Le souci majeur rencontré par les développeurs est celui du **piratage informatique** par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.  
 De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif d'Internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux *«Online»*.  
 
-_Chronologie et durée de comercialisation des consoles de jeu :_
+_Chronologie et durée de commercialisation des consoles de jeu :_
 
-![Chronologie et durée de comercialisation des consoles de jeu](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)
+![Chronologie et durée de commercialisation des consoles de jeu](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)
 
 
-# **Types de distribution :**
+# **II. Types de distribution :**
 
-Il existe deux types de distribution des jeux-vidéo :
+Il existe deux types de distribution des jeux vidéo :
 * La distribution physique.
 * La distribution dématérialisée.
 
 
 ### **_1. Distribution physique_**
 
-On peut distinguer différents acteurs participent au circuit de distribution :
+On peut distinguer différents acteurs qui participent au circuit de distribution :
 * Les **distributeurs** (ou **diffuseurs**), qui permettent le lien entre l’**éditeur** et le **détaillant**. Ils placent le produit dans les **points de vente** et assurent une partie de sa **promotion**. La majorité des grands éditeurs dans le monde possèdent leur propre service de distribution. En revanche, d’autres font appel à des sociétés locales, parfois concurrentes dans l’édition, afin d’écouler leurs produits. Les diffuseurs externes réalisent la majeure partie de leur chiffre d’affaires dans la **diffusion pure**. Ils interviennent également parfois dans la fabrication d’un jeu et sont donc **coéditeurs**.
 * Les **centrales d’achats**, qui négocient et placent les produits auprès de la **grande distribution**, des **multi-spécialistes** et des **magasins spécialisés**. Elles sont le regroupement d’**enseignes commerciales** qui mettent en commun leurs achats afin de bénéficier de conditions plus intéressantes auprès des fournisseurs.
 * Les **grossistes**, qui se chargent de placer les produits chez les **petits détaillants**. Ils fournissent en majeure partie les petits magasins qui ne sont pas directement pris en charge par les sociétés de diffusion des jeux.
@@ -80,4 +80,25 @@ La dématérialisation des jeux vidéo a permis une **disponibilité** des jeux 
 La majorité des **grands éditeurs** ont **leur propre service de distribution physique** et intègrent maintenant le service de **distribution dématérialisée**. Les jeux vidéo se vendant de plus en plus en distribution dématérialisée, les éditeurs ont l’opportunité d’assurer directement la commercialisation de leurs titres.
 
 
-# **Modèles de revenus :**
+# **III. Modèles de revenus :**
+
+Traditionnellement, les consoles et ordinateurs reposent sur des **transactions physiques** que le consommateur peut acheter dans un magasin. Les jeux vidéo possèdent aussi ce modèle économique. Ce dernier est problématique car il engendre des **coûts de distribution**, des **stocks** ainsi qu’une **difficulté de négociation** des **petits éditeurs**. En effet, les gros éditeurs de jeux vidéo ont une force de négociation pour imposer leur produit au sein des rayons physiques d’un magasin.  
+Depuis la consécration d’**Internet** comme pilier de la communication de données à travers le monde, le système économique physique tend à disparaître et laisse place à de nouveaux modèles dématérialisés. Quatre de ces derniers sont fortement présents et tendent à supprimer le modèle physique et les jeux vidéo dans les magasins. 
+
+
+### **_1. Vente lors du téléchargement_**
+
+#### **_1.1 Distribution numérique_**
+
+
+### **_2. Abonnement_**
+
+X
+
+### **_3. Publicité_**
+
+X
+
+### **_4. Financement participatif_**
+
+X
