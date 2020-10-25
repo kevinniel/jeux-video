@@ -1,5 +1,3 @@
-# En cours 2/3 #
-
 # **Introduction :**
 
 Nous allons voir les moyens qui ont été mis en place pour permettre aux jeux vidéo de monter en flèche dans notre société.
