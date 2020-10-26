@@ -39,19 +39,34 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 # MUSIQUE PAR GENRES DE JEUX
 
 ## JEUX METROIDVANIA
-**Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotions.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
-*[Ori and the Blind Forest Soundtrack (Full)](https://youtu.be/MeVFrt7BUyw).
-[Ori and the Will of the Wisps: FULL Original Soundtrack (60 songs) - Gareth Coker
-](https://youtu.be/eCbyqm9jcBA).*
+
+**Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant et dont la musique se base sur l'avancé du joueur dans l'histoire. La musique utilisée tout au long de l'aventure nous plongent directement au coeur de l'histoire, nous faisant ressentire toute une panoplie d'émotions. L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
+
+*[Ori and the Blind Forest Soundtrack (Full)](https://youtu.be/MeVFrt7BUyw).*
+
+*[Ori and the Will of the Wisps: FULL Original Soundtrack (60 songs) - Gareth Coker](https://youtu.be/eCbyqm9jcBA).*
+
 ## JEUX D'ACTION
-**Skyrim** est un jeu dans lequel la musique nous accompagne durant notre aventure dans se monde vaste semé d'embûche, dont chaque "zone" contient son propre panelle de musique. L'ambiance sonore s'adapte à toutes situations (combats, apparition d'un monstre, animal, sorcier..., découverte d'un village, d'une grotte..., combats contre un dragon). Les combats les plus importants et difficile vont ammener une musique plus "Epique" et travaillé. Je vous propose de vous re plonger dans ces musiques qui ont sûrement accompagné votre adolescence ou qui vous accompagne encore aujourd'hui : *[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
+
+**Skyrim** est un jeu dans lequel la musique nous accompagne durant notre aventure dans se monde vaste semé d'embûche, dont chaque "zone" contient son propre panelle de musique. L'ambiance sonore s'adapte à toutes situations (combats, apparition d'un monstre, animal, sorcier..., découverte d'un village, d'une grotte..., combats contre un dragon). Les combats les plus importants et difficiles vont ammener une musique plus "Epique" et travaillé. Je vous propose de vous re plonger dans ces musiques qui ont sûrement accompagné votre adolescence ou qui vous accompagne encore aujourd'hui : 
+
+*[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
+
 ## JEUX DE SPORT/COURSES
 ## JEUX DE ROLE CONSOLE
+
 ## JEUX D'AVENTURE/RPG
+
 On à des jeux comme Star Wars qui va reprendre complètement les musiques du film 
+
 ## JEUX FPS/TPS
+
 Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter** qui est un jeux de tire à la première personne, qui est intéractif et dont l'avancement de la musique dépend du joueur et de ses capacités. Plus la musique a un rythme rapide ou qui s'accélère, plus le joueur doit s'adapter et suivre les cibles avec son arme
+
 ## JEUX DE REFLEXION
+
 ## JEUX DE STRATEGIE/SIMULATION
+
 ## JEUX MUSICAUX
-Musique basé sur le rythme du jeu, musique de fonds sur un écran d'acceuil.
+
+Just Dance, Dance central,
