@@ -4,5 +4,3 @@
 Toutes ces communautés sont bien souvent obligatoire pour un jeu, et indispensable sans qui il n'y aurait pas joueurs ou de properité dans le temps. Il y a bien sur aussi des communauté nefaste qui nuie aux autres joueurs, ce qui donne une mauvaise image du jeu, moins de vente, perte de joueurs si rien n'est changé puis sans suit bien trop souvent la fin du jeu.
 
 
-
- il y a aussi des communauté néfaste, qui ne cherche qu'a nuir aux autres joueurs, 
