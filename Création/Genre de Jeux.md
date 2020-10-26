@@ -29,5 +29,3 @@
     -party games
     -jeu de combat
     -coop
-
-f
