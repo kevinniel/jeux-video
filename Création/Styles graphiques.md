@@ -20,7 +20,11 @@ les premiers jeux sont donc de style abstrait, avec uniquement des formes géom�
         - Amnesia
         - Rogue
         - Colossal Cave Adventure
-![Rogue](https://user-images.githubusercontent.com/35268109/97200237-3e7d9580-17b1-11eb-9ea8-7242c7b6c963.jpg " Rogue")
+| Rogue | Colossal Cave Adventure |
+| ------------- | ------------- |
+| ![Rogue](https://user-images.githubusercontent.com/35268109/97200237-3e7d9580-17b1-11eb-9ea8-7242c7b6c963.jpg " Rogue") | ![Colossal Cave Adventure](https://user-images.githubusercontent.com/35268109/97202225-9f0dd200-17b3-11eb-8466-8097e92e1b9d.jpg "Colossal Cave Adventure")
+  |
+
 
 
 La grande opposition de style dans les jeux à travers leur histoire a toujours été entre le stylisé et le réalisme, même si au les rôles se sont inversés: le réalisme était au début plus utilisés dans les jeux 2D: à l'aide de FMV (full motion video), où on interagit directement avec des scènes filmées, et les sprites digitalisés, où une photo est digitalisée pour être utilisée comme modèle d'un personnage. A contrario, les jeux 3D, alors à leurs début, n'avait pas les capacités de créer des modèles réalistes, et donc choisissaient plutôt le stylisé. De nos jours, c'est pratiquement uniquement à la 3D que revient le style réaliste, avec les moteurs toujours plus puissants, les jeux 2D c'étant plutôt rabattu sur le stylisé, qui offre une plus grande plage de créativité:
