@@ -39,7 +39,7 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 # MUSIQUE PAR GENRES DE JEUX
 
 ## JEUX METROIDVANIA
-**Ori and the Blind Forest et Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotion.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante.
+**Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotion.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante.
 ## JEUX DE PLATES-FORMES/ACTION
 ## JEUX DE SPORT/COURSES
 ## JEUX DE ROLE CONSOLE
