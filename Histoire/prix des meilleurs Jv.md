@@ -2,7 +2,7 @@
 
 Basé sur les jeux vidéos les plus vendus
 
-**_- 1-Minecraft_** sorti en 2009 et disponible sur toutes les plateformes et a été vendu à plus de 200 millions d'exemplaires, l'accès à la beta du jeu était vendu 9.99$ et son prix est maintenant de 23.95. Il a augmenté car en 2016 il était de 19.95.
+- **_1-Minecraft_** sorti en 2009 et disponible sur toutes les plateformes et a été vendu à plus de 200 millions d'exemplaires, l'accès à la beta du jeu était vendu 9.99$ et son prix est maintenant de 23.95. Il a augmenté car en 2016 il était de 19.95.
 
 - **_2-GTA5_** sorti en 2013 et disponible sur pratiquement toutes les consoles de Sony et Microsoft et également les next gen. Son prix à sa sortie était de 59.90 sur Pc et de 69.90 sur console. Et il y a eu plus de 135 millions de ventes
 
