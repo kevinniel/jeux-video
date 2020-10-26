@@ -6,7 +6,7 @@ D'un simple "bip" dans les années 70 aux partitions pour orchestres symphonique
 
 Les premiers sons des jeux vidéos proviennent des grosses bornes d’arcade des années 1970, équipées d'enceintes et conçues pour attirer l’attention des joueurs. Mais arrive en 1975 *Pong* produit par Atari, la première console de salon à émettre un son : un « bip ». La musique des jeux vidéo change de rôle, et une nouvelle ère commence.
 
-##HISTOIRE
+# H1 HISTOIRE
 #NIVEAU I- LES PREMIERS SONS 8-BIT
 
 Nous sommes loin des musiques grandioses d'aujourd'hui, mais ces petits "bips" de *Pong* (https://youtu.be/fiShX2pTz9A) annoncent l'arrivée de la musique comme ambiance dans les jeux vidéo. A cause des contraintes technologiques des consoles, les sons restent limités. Capables d'émettre seulement deux ou trois notes à la fois, elles imposent à de nombreux compositeurs de se tourner vers le contrepoint de Bach pour trouver une source d'inspiration. Ces sons décoratifs deviennent rapidement un outil essentiel dans l’ambiance et la tension des jeux. Quel meilleur exemple que le fameux *Space Invaders* produit en 1978 pour borne d’arcade et en 1980 pour la console de salon. Cette ‘musique’ inconsciente (un motif de quatre notes descendantes, ré bémol-si-si bémol-la bémol) mais néanmoins proéminente accélère progressivement alors que l’ennemi avance, évoquant la même tension sous-jacente que la musique culte de « Les Dents de la mer » (https://youtu.be/D1jZaIPeD5w).
@@ -42,8 +42,10 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 #JEUX DE PLATES-FORMES/ACTION
 #JEUX DE SPORT/COURSES
 #JEUX DE ROLE CONSOLE
-#JEUX D'AVENTURE/RPG 
-#JEUX FPS
+#JEUX D'AVENTURE/RPG
+On à des jeux comme Star Wars qui va reprendre complètement les musiques du film 
+#JEUX FPS/TPS
+Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter, BeatSaber, Osu** qui sont des jeux intéractif, dont l'avancement de la musique dépend du joueur et de ces capacités.
 #JEUX DE REFLEXION
 #JEUX DE STRATEGIE/SIMULATION
 #JEUX MUSICAUX
