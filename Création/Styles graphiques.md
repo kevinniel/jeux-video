@@ -140,11 +140,18 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
     - photoréalisme:
         - The last of us
         - Battlefield 1
-        - Forza horizon 4)
+        - Forza horizon 4
+| The Last Of Us | Battlefield 1 | Forza Horizon 4 |
+|----------------|---------------|-----------------|
+|![The last of us](https://user-images.githubusercontent.com/35268109/97209191-54dd1e80-17bc-11eb-8dcb-8a8255f2f728.jpg "The Last Of Us")|![Battlefield 1](https://user-images.githubusercontent.com/35268109/97209466-ac7b8a00-17bc-11eb-9f7a-023c9ac7b34c.png "Battlefield 1")|![Forza Horizon 4](https://user-images.githubusercontent.com/35268109/97209604-d6cd4780-17bc-11eb-8cae-8221fd9fd2c4.jpg "Forza Horizon 4")|
+
     - réalisme stylisé:
         - Bioshock infinite
-        - FFXIII
+        - FFXIII 2
         - Devil May Cry
+|Bioshock Infinite| Final Fantasy XIII 2| Devil May Cry |
+|-----------------|---------------------|---------------|
+|![Bioshock Infinite](https://user-images.githubusercontent.com/35268109/97209858-1e53d380-17bd-11eb-8d4a-ee0a851021c0.jpg "Bioshock Infinite")|![Final Fantasy XIII 2](https://user-images.githubusercontent.com/35268109/97210082-6115ab80-17bd-11eb-8d3f-78962f402b78.jpg "Final Fantasy XIII 2")|![Devil May Cry](https://user-images.githubusercontent.com/35268109/97210418-d6817c00-17bd-11eb-8aa3-062ede91d788.jpg "Devil May Cry")|
 
 # Caméra:
 
