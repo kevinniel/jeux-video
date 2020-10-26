@@ -39,11 +39,12 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 # MUSIQUE PAR GENRES DE JEUX
 
 ## JEUX METROIDVANIA
-**Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotion.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
+**Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotions.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
 *[Ori and the Blind Forest Soundtrack (Full)](https://youtu.be/MeVFrt7BUyw).
 [Ori and the Will of the Wisps: FULL Original Soundtrack (60 songs) - Gareth Coker
 ](https://youtu.be/eCbyqm9jcBA).*
-## JEUX DE PLATES-FORMES/ACTION
+## JEUX D'ACTION
+**Skyrim** est un jeu dans lequel la musique nous accompagne durant notre aventure dans se monde vaste semé d'embûche, dont chaque "zone" contient son propre panelle de musique. L'ambiance sonore s'adapte à toutes situations (combats, apparition d'un monstre, animal, sorcier..., découverte d'un village, d'une grotte..., combats contre un dragon). Les combats les plus importants et difficile vont ammener une musique plus "Epique" et travaillé. Je vous propose de vous re plonger dans ces musiques qui ont sûrement accompagné votre adolescence ou qui vous accompagne encore aujourd'hui : *[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
 ## JEUX DE SPORT/COURSES
 ## JEUX DE ROLE CONSOLE
 ## JEUX D'AVENTURE/RPG
