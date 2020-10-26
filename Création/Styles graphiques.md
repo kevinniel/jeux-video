@@ -103,9 +103,18 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
     - 3D cartoon
         - Mario64
         - Crash bandicoot
+| Super Mario 64 | Crash Bandicoot |
+|----------------|-----------------|
+|![Super Mario 64](https://user-images.githubusercontent.com/35268109/97207164-fa42c300-17b9-11eb-83ca-4997ef967d81.jpg "Super Mario 64")|![Crash Bandicoot](https://user-images.githubusercontent.com/35268109/97207282-20686300-17ba-11eb-9492-6644308d8a7b.jpg "Crash Bandicoot")|
+
+  
      - Voxel:
         - Minecraft
         - Cubeworld
+| Minecraft | Cubeworld|
+|-----------|----------|
+|![Minecraft](https://user-images.githubusercontent.com/35268109/97207498-63c2d180-17ba-11eb-9b27-a7e10c31d3c1.png "Minecraft")|![Cubeworld](https://user-images.githubusercontent.com/35268109/97207639-89e87180-17ba-11eb-9b46-aeaabc6cea05.jpg "Cubeworld")|
+
 
 ## réaliste :
 
