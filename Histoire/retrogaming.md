@@ -17,7 +17,7 @@ soit depuis le début des années 1970 jusqu'au milieu des années 1990, où
 les productions étaient très majoritairement en 2D. La pratique des jeux anciens 
 s'est développée sur les PC modernes via la création d'émulateurs d'anciennes plates-formes.
 
-### **-Qui joue à ces jeux vidéos ? _**
+### **_Qui joue à ces jeux vidéos ? _**
 
 -Les joueursde rétrogaming sont motivés à jouer sur ces anciens jeux part la nostalgie 
 des anciens jeux vidéos, et égalementpar le fait que certains joueurs pensent que la 
@@ -31,7 +31,7 @@ fréquentent les brocantes, vide-greniers, marchés aux puces, boutiques de troc
 sites de ventes aux enchères de particulier à particulier, afin de retrouver 
 les machines ou les jeux manquants à leur collection généralement importante.
 
-## **_Mais est ce que ça deviens populaire ?_**
+### **_Mais est ce que ça deviens populaire ?_**
 
 -Ces dernières années le rétrogaming se fait de moins en moins rare; en effet 
 le monde du jeux vidéos d'il y as 30 voir 40 ans se démocratise de plus en plus 
