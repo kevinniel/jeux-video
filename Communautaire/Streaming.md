@@ -1,1 +1,2 @@
 ## Le Streaming
+>>> Le streaming s'est enormement developpe ces 10 dernieres années que se soit sur Twitch, Facebook Gaming, Youtube live. Toutes ces plateformes permette quiconque qui a un compte de faire un live sur un jeu quelqu'il soit. Bien sur, il y a beaucoup de choses qui se sont developpe autour de sa. De la publicité, des partenariats avec des studios de developpement, site WEB, faire la promotion d'un jeu. Toutes ces plateforme compte des milliers d'utilisateurs qui stream et des millions qui regarde. 
