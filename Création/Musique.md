@@ -47,3 +47,4 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 #JEUX DE REFLEXION
 #JEUX DE STRATEGIE/SIMULATION
 #JEUX MUSICAUX
+Musique basé sur le rythme du jeu, musique de fonds sur un ecran d'acceuille 
