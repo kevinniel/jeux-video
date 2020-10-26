@@ -153,8 +153,10 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
 |-----------------|---------------------|---------------|
 |![Bioshock Infinite](https://user-images.githubusercontent.com/35268109/97209858-1e53d380-17bd-11eb-8d4a-ee0a851021c0.jpg "Bioshock Infinite")|![Final Fantasy XIII 2](https://user-images.githubusercontent.com/35268109/97210082-6115ab80-17bd-11eb-8d3f-78962f402b78.jpg "Final Fantasy XIII 2")|![Devil May Cry](https://user-images.githubusercontent.com/35268109/97210418-d6817c00-17bd-11eb-8aa3-062ede91d788.jpg "Devil May Cry")|
 
-# Caméra:
 
+# BONUS:
+
+## Caméra:
 ### 3D:
 
     - 3D fixe:
