@@ -69,6 +69,7 @@ comme par exemple **Call Of Duty**, un **jeu de guerre** où l'on incarne un sol
  
  
  
+ 
 # **JEU EN ÉQUIPE**
  
  
@@ -107,7 +108,6 @@ Il se définit traditionnellement par trois critères cumulatifs :
 >* l'univers est __persistant__, c'est-à-dire qu'il existe tout le temps, que des joueurs y soient connectés ou non ;
 >* l'univers est __accessible à un très grand nombre de joueurs simultanément__.
 
- 
  
 ### **_2. Historique_**
  
