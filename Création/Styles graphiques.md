@@ -52,13 +52,13 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
 
 
         
-    - vector art:
+    - vector art: (art en dessin vectoriel)
         - Castle Crashers
 |Castle Crashers|
 |---------------|
 |![Castle Crashers](https://user-images.githubusercontent.com/35268109/97202654-2fe4ad80-17b4-11eb-995e-5fa69a35bca2.jpg "Castle Crashers")|
 
-    - cutout art:
+    - cutout art: (art en style papier, personnage sans épaisseur)
         - Paper mario
         - Don't starve
 | Paper Mario | Don't Starve |
@@ -68,6 +68,10 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
     - flat art:
         - Nidhogg
         - Flat kingdom
+|Nidhogg|
+|-------|
+|![Nidhogg](https://user-images.githubusercontent.com/35268109/97203769-90281f00-17b5-11eb-9a61-717f2d6b99f6.jpg "Nidhogg")|
+ 
     - monochrome:
         - Limbo
         - Inside
