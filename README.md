@@ -20,7 +20,7 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 
 ## Une fois le travail terminé (a faire pour la prochaine fois)
 1. Terminer vos parties respectives
-2. relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
+2. Relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
 3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corriger le problème soulevé.
 
 ## Plan
