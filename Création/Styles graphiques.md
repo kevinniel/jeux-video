@@ -13,7 +13,7 @@ les premiers jeux sont donc de style abstrait, avec uniquement des formes g√©om√
  | Minimetro  | Tetris |
 | ------------- | ------------- |
 | ![Minimetro](https://user-images.githubusercontent.com/35268109/97198534-34f32e00-17af-11eb-821c-da9b054c8fb3.jpg "Minimetro")  | ![Tetris](https://user-images.githubusercontent.com/35268109/97201646-f8293600-17b2-11eb-8af0-e43cbca7cc0a.jpg " Tetris")
-  |
+  
 
 
     - jeu textuel:
@@ -23,7 +23,7 @@ les premiers jeux sont donc de style abstrait, avec uniquement des formes g√©om√
 | Rogue | Colossal Cave Adventure |
 | ------------- | ------------- |
 | ![Rogue](https://user-images.githubusercontent.com/35268109/97200237-3e7d9580-17b1-11eb-9ea8-7242c7b6c963.jpg " Rogue") | ![Colossal Cave Adventure](https://user-images.githubusercontent.com/35268109/97202225-9f0dd200-17b3-11eb-8466-8097e92e1b9d.jpg "Colossal Cave Adventure")
-  |
+  
 
 
 
