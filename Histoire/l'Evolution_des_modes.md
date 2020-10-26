@@ -103,9 +103,9 @@ jeux Multijoueurs.
 
 Il se définit traditionnellement par trois critères cumulatifs :
 
-    * l'univers n'est accessible **que par un réseau** ;
-    * l'univers est **persistant**, c'est-à-dire qu'il existe tout le temps, que des joueurs y soient connectés ou non ;
-    * l'univers est **accessible à un très grand nombre de joueurs simultanément**.
+> * l'univers n'est accessible **que par un réseau** ;
+> * l'univers est **persistant**, c'est-à-dire qu'il existe tout le temps, que des joueurs y soient connectés ou non ;
+> * l'univers est **accessible à un très grand nombre de joueurs simultanément**.
 
 
 ### **_2. Historique_**
