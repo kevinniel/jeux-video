@@ -123,9 +123,17 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
     - FMV:
         - Telling lies
         - Not for broadcast
+| Telling Lies | Not for broadcast |
+|--------------|-------------------|
+|![Telling Lies](https://user-images.githubusercontent.com/35268109/97208161-201c9780-17bb-11eb-99db-da3c163367dc.png "Telling Lies")|![Not for Broadcast](https://user-images.githubusercontent.com/35268109/97208339-4c381880-17bb-11eb-96dc-3164fba8c291.jpg "Not for Broadcast")|
+
+        
     - sprite digitalisé:
         - Mortal Kombat
         - Batman forever
+|Mortal Kombat | Batman forever |
+|--------------|----------------|
+|![Mortal Kombat](https://user-images.githubusercontent.com/35268109/97208536-830e2e80-17bb-11eb-8fc4-8059a006dd29.jpg "Mortal Kombat")|![Batman forever](https://user-images.githubusercontent.com/35268109/97208723-c072bc00-17bb-11eb-9147-af986db50a6c.png "Batman forever")|
 
 ### 3D:
 
