@@ -6,7 +6,9 @@
 les premiers jeux sont donc de style abstrait, avec uniquement des formes géométriques sans rapport avec la réalité, et des jeux construit en ASCII ou on lit et tape du texte pour avancer dans l'histoire:
 
     - abstrait:
-        - minimetro
+        - minimetro 
+![minimetro](https://user-images.githubusercontent.com/35268109/97198335-f8273700-17ae-11eb-83bc-271f1a887838.jpg)
+
         - tetris
         - tempest
         - geometry dash
