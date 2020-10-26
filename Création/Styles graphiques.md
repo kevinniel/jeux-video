@@ -83,9 +83,9 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
         - Hollow Knight
         - Ori and the Blind Forest
         - Jotun
-    |Hollow Knight|Ori and the Blind Forest| Jotun |
-    |-------------|------------------------|-------|
-    |![Hollow Knight](https://user-images.githubusercontent.com/35268109/97205151-5e17bc80-17b7-11eb-81c1-8a4d9c556255.jpg "Hollow Knight")|![Ori and the blind forest](https://user-images.githubusercontent.com/35268109/97205347-a505b200-17b7-11eb-9ad0-67660f86a7ee.jpg "Ori and the blind Forest")|![Jotun](https://user-images.githubusercontent.com/35268109/97205756-28bf9e80-17b8-11eb-8382-9068e86ea20e.png "Jotun")|
+   |Hollow Knight|Ori and the Blind Forest| Jotun |
+   |-------------|------------------------|-------|
+   |![Hollow Knight](https://user-images.githubusercontent.com/35268109/97205151-5e17bc80-17b7-11eb-81c1-8a4d9c556255.jpg "Hollow Knight")|![Ori and the blind forest](https://user-images.githubusercontent.com/35268109/97205347-a505b200-17b7-11eb-9ad0-67660f86a7ee.jpg "Ori and the blind Forest")|![Jotun](https://user-images.githubusercontent.com/35268109/97205756-28bf9e80-17b8-11eb-8382-9068e86ea20e.png "Jotun")|
 
 
         
