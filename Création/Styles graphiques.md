@@ -10,7 +10,11 @@ les premiers jeux sont donc de style abstrait, avec uniquement des formes géom�
         - tetris
         - tempest
         - geometry dash
-![Minimetro](https://user-images.githubusercontent.com/35268109/97198534-34f32e00-17af-11eb-821c-da9b054c8fb3.jpg "Minimetro")
+ | Minimetro  | Tetris |
+| ------------- | ------------- |
+| ![Minimetro](https://user-images.githubusercontent.com/35268109/97198534-34f32e00-17af-11eb-821c-da9b054c8fb3.jpg "Minimetro")  | ![Tetris](https://user-images.githubusercontent.com/35268109/97201646-f8293600-17b2-11eb-8af0-e43cbca7cc0a.jpg " Tetris")
+  |
+
 
     - jeu textuel:
         - Amnesia
@@ -38,9 +42,10 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
         - Shovel Knight
         - undertale
         
-|    Celeste    | Hyper light drifter |
-| ------------- | ------------------- |
-| ![Celeste](https://user-images.githubusercontent.com/35268109/97200801-f57a1100-17b1-11eb-9b85-bf83b096b678.jpg "Celeste") |![Hyper Light Drifter](https://user-images.githubusercontent.com/35268109/97201015-3bcf7000-17b2-11eb-8216-53292d02fcaf.jpg "Hyper Light Drifter")|
+|    Celeste    | Hyper light drifter |Metroid|
+| ------------- | ------------------- |----------------|
+| ![Celeste](https://user-images.githubusercontent.com/35268109/97200801-f57a1100-17b1-11eb-9b85-bf83b096b678.jpg "Celeste") |![Hyper Light Drifter](https://user-images.githubusercontent.com/35268109/97201015-3bcf7000-17b2-11eb-8216-53292d02fcaf.jpg "Hyper Light Drifter")|![Metroid](https://user-images.githubusercontent.com/35268109/97201814-2ad32e80-17b3-11eb-9f7a-7cc31af58321.jpg "Metroid")|
+
 
         
     - vector art:
