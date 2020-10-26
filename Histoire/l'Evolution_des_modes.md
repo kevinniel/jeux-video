@@ -1,30 +1,30 @@
 # **UN JOUEUR**  
------------------
------------------ 
+ 
+ 
 ### **_1. Description_**
------------------  
+ 
 Un **jeu solo** implique que seul ce mode de jeu soit proposé dans le jeu, alors qu'un **mode solo** renvoie au mode de jeu à un seul joueur d'un jeu vidéo incluant  
 un autre mode de jeu (généralement multijoueur).
------------------ 
------------------  
+  
+ 
 ### **_2. Historique_**  
-  
+ 
 La majorité des premiers jeux sur ordinateur étaient prévus pour un seul joueur. La plupart des jeux simple joueur misent soit sur un **scénario** prenant, des **graphismes**  
 impressionnants et des **personnages non-joueur** au comportement réaliste, voire pour les plus modestes, sur leur **accessibilité** et leur **disponibilité**  
 (leur gameplay, plus simple, est compensé par un prix moins élevé ou gratuit, voire la possibilité d'y jouer n'importe où).
-  
-  
+ 
+ 
 ### **_3. Types de jeux_**
-  
+ 
 Certains genres de jeux vidéo sont, par leurs principes, conçus pour être joués en solo, tels que les **jeux de briques de type Tetris** ou les **jeux de rôle japonais**  
 (par ex. Final Fantasy), même si des versions multijoueurs de ces jeux ont fait également leur apparition.
-  
+ 
 La grande majorité des jeux d'**arcade** et de **consoles** sont conçus pour pouvoir être joués par un seul joueur, bien que beaucoup proposent également des modes permettant  
 à d'autres joueurs de jouer (pas nécessairement simultanément). En réalité, même orientés multijoueurs, très peu de jeux exigent la présence de plus d'un joueur  
 pour lancer une partie. Unreal Tournament, et les FPS multijoueurs en sont un exemple.  
-  
-  
-  
+ 
+ 
+ 
 # **DEUX JOUEUR**
 
 
