@@ -95,10 +95,17 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
         - les Zelda 3D (BOTW, winwaker, twilight princess)
         - Okami
         - Risk of Rain 2
+| Breath of the Wild | Okami | Risk of Rain 2|
+|--------------------|-------|---------------|
+|![Breath of the Wild](https://user-images.githubusercontent.com/35268109/97206470-109c4f00-17b9-11eb-8ef8-35cae2d7cf22.png "Breath of the Wild")|![Okami](https://user-images.githubusercontent.com/35268109/97206633-45a8a180-17b9-11eb-9e93-34be5518fd3e.jpg "Okami")|![Risk of Rain 2](https://user-images.githubusercontent.com/35268109/97206782-7f79a800-17b9-11eb-8983-d9bc097a725b.png "Risk of Rain 2")|
+
+        
     - 3D cartoon
         - Mario64
         - Crash bandicoot
+     - Voxel:
         - Minecraft
+        - Cubeworld
 
 ## réaliste :
 
