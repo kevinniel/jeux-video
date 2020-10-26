@@ -6,35 +6,35 @@
 C'est cette personne qui va s'occuper de coordonner toutes les équipes. En effet, le rôle du chef de projet est de guider les différents corps de métier avec lequel il travaille pour sortir un jeu correspondant aux critères de départs.
 
 + ### Directeur artistique
-Le directeur artistique à our but de veiller à la cohérence de tout l'aspect visuel du jeu en production. Il fera attention que les différentes personnes travaillant sur cet aspect ne s'éparpillent pas trop et fournissent un travail en adéquation avec le cahier des charges.
+Le directeur artistique a pour but de veiller à la cohérence de tout l'aspect visuel du jeu en production. Il fera attention que les différentes personnes travaillant sur cet aspect ne s'éparpillent pas trop et fournissent un travail en adéquation avec le cahier des charges.
 
 + ### Lead programmeur
-Son rôle est d'encadrer les équipes de programmeurs. Il va s'occuper de la qualité du développement, c'est lui qui va ordonner les différentes taches à faire et il va manager les équipes.
+Son rôle est d'encadrer les équipes de programmeurs. Il va s'occuper de la qualité du développement, c'est lui qui va ordonner les différentes tâches à faire et il va manager les équipes.
 
 ## Métiers de la création du jeu :
 
  + ### Développeur
-Le métier de développeur est un pilier dans le domaine de la création de jeux vidéo, sans lui, pas de jeux possible. Dans ce domaine, le métier de développeur est l'un des plus recherché en 2018.
+Le métier de développeur est un pilier dans le domaine de la création de jeux vidéo, sans lui, pas de jeux possibles. Dans ce domaine, le métier de développeur est l'un des plus recherché en 2018.
 Son métier consiste principalement à analyser les problématiques et objectifs pour concevoir des algorithmes pour que le jeu fonctionne et soit jouable pour un large panel de joueur.
-Il travail principalement avec d'autres développeur.
+Il travaille principalement avec d'autres développeur.
 Il reste proche du chef de projet pour répondre au mieux aux attentes techniques du jeu.
 
 + ### Développeur moteur
-Son rôle sera de travailler avec les autres développeurs. Mais aussi des graphistes, des sound designer etc.. pour les implémenter leur travail au jeu.
+Son rôle sera de travailler avec les autres développeurs. Mais aussi des graphistes, des sound designer etc.. Pour les implémenter leur travail au jeu.
 Il s'occupe du rendu graphique du jeu et cherchera à ce qu'il soit le plus optimisé possible.
 
  + ### Testeur
 Le Testeur a pour but d'essayer de casser le jeu, son rôle est de trouver des bug ou éléments incohérant dans le jeu afin de les rapporter aux développeurs pour régler le problème.
 
-## Métiers de la conception du jeu:
+## Métiers de la conception du jeu :
 
  + ### Game designer
-Le but du game designer sera de créer les concept du jeu.
+Le but du game designer sera de créer les concepts du jeu.
 Il va s'occuper de penser aux différents éléments du jeu pour que ça soit cohérent : le genre, le thème, les règles, les personnages, les décors, le gameplay...
 
  + ### Sound designer
-Le rôle du sound designer est de mettre en forme l'ambiance sonor globale du jeu.
-Il va s'occuper des musiques, des bruitages, des diablogues  pour que tout cela corresponde au jeu et à l'ambiance souhaité
+Le rôle du sound designer est de mettre en forme l'ambiance sonore globale du jeu.
+Il va s'occuper des musiques, des bruitages, des dialogues pour que tout cela corresponde au jeu et à l'ambiance souhaité
 
 + ### Level designer
 Le travail du level designer sera de concevoir les niveaux du jeu. Pour ça il va falloir qu'il prévoit par exemple les voies que le joueur pourra prendre ou encore faire son niveau en fonction de l'histoire etc.
@@ -62,8 +62,8 @@ Il ne fait pas réellement partie de la conception, mais est un des derniers mai
 Cela peut être en physique dans un magasin spécialisé ou dans des grandes surfaces, ou encore sur des marchés en ligne comme steam, uplay et autres.
 
 + ### Journaliste :
-Le métier de journaliste fait en effet partie du processus car, n'étant pas un pillié de la création, son rôle sera de découvrir le jeu et d'en parler.
-Son rôle sera entre autre de faire un résumé global de son expérience et de lister le plus de point (positifs ou négatifs) possible pour offrir aux potentiels acheteurs la vison la plus précise possible sur le jeu
+Le métier de journaliste fait en effet partie du processus car, n'étant pas un pilier de la création, son rôle sera de découvrir le jeu et d'en parler.
+Son rôle sera entre autres de faire un résumé global de son expérience et de lister le plus de point (positifs ou négatifs) possible pour offrir aux potentiels acheteurs la vison la plus précise possible sur le jeu
 
 + ### Data scientist
 Le data scientist va récolter des données de jeu ou autre en rapport avec les joueurs, va les organiser et les présenter aux entreprises de jeu vidéo pour leur permettre de faire les meilleurs choix en fonction des tendances actuelles ou de l'activité des joueurs.
