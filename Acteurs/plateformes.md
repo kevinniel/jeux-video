@@ -13,9 +13,11 @@ Il y'a un réel marché qui est aussi présent sur steam, en effet nous pouvons 
 
 ## Uplay
     Uplay est une plateforme orientée jeux-vidéos créée par Ubisoft, le 12 mars 1986.
+Et c'est le 3 juillet 2012 que Uplay fut créé par Ubisoft dans le but de réunir tous les jeux-vidéos d'Ubisoft.
 Elle originaire du Morbihan et tire par ailleurs son nom des initial de : Union des Bretons Indépendants. Mais c'est ce que tout le monde croyait, en effet le PDG d'Ubisoft a fait une interview disant qu'Ubisoft voulait tout simplement dire : Ubi pour Ubiquité (partout) parce qu'il voulait que tous les logiciels d'Ubisoft soient disponibles partout dans le monde.
 A la base Ubisoft ne vendait uniquement des jeux-vidéos mais il n'en produisait pas.
 Ensuite avec l'argent qu'ils ont récoltés en distribuant des jeux-vidéos, ils vont pouvoir développer meur premier 
 jeux-vidéo dans leur propre studio. Il s'appelle "Zombi" et va conquérir les fans. Et ils ont ensuite aussi réaliser reyman.
 Ils devaient ensuite développer un jeux-vidéo qui se nomma Assassin Prince of persia qui jouait le rôle du garde du corps de ce dernier.
 Mais ils se sont dit que jouer un rôle secondaire n'était pas très prometteur alors ils ont renommer ce jeu en : "Assassin's creed".
+C'est ainsi que la saga Assassin's Creed fut créée.
