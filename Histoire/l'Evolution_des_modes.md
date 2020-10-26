@@ -37,7 +37,7 @@ en **écran divisé** (appelé aussi, venant de l'anglais, **écran splitté**) 
 ### **_2. Types de jeux_**
  
 Le mode deux joueurs peut être disponible sur **tout types de jeux**, pour donner quelques exemples on peut avoir des **jeux de plateformes** comme Mario Galaxy qui permet  
-au deuxième joueur d'aider le premier avec un pointeur, mais aussi les jeux de **sport** comme FIFA qui permet de coopérer ou de jouer en 1 vs 1.
+au deuxième joueur d'aider le premier avec un pointeur, mais aussi les jeux de **sport** comme FIFA qui permet de coopérer ou de jouer en 1 vs 1.  
  
  
  
@@ -88,10 +88,10 @@ est sensiblement le même que les jeux multijoueurs classiques tout en étant pl
 ### **_3. Types de jeux_**
  
 Comme dit plus haut, la **compétition** est souvent plus forte dans les jeux en équipe, par exemple les **MOBA** comme League Of Legends où deux équipes de 5 s'affrontent  
-pour pour détruire la base de l'adversaire. Il est le jeux ayant la scène compétitive la plus importante (dépassé l'année dernière par Fortnite, un **BattleRoyal**).
+pour pour détruire la base de l'adversaire. Il est le jeux ayant la scène compétitive la plus importante (dépassé l'année dernière par Fortnite, un **BattleRoyal**).  
  
  
-   
+ 
 # **MASSIVEMENT MULTIJOUEUR**
    
    
@@ -106,9 +106,9 @@ Il se définit traditionnellement par trois critères cumulatifs :
 >* l'univers n'est accessible __que par un réseau__ ;
 >* l'univers est __persistant__, c'est-à-dire qu'il existe tout le temps, que des joueurs y soient connectés ou non ;
 >* l'univers est __accessible à un très grand nombre de joueurs simultanément__.
-   
-   
-   
+
+ 
+ 
 ### **_2. Historique_**
  
 Ce genre de jeu vidéo a connu une **croissance forte** depuis le premier jeu grand public en 1996, et comme le genre se joue **exclusivement** sur Internet,  
