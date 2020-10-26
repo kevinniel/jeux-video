@@ -75,6 +75,9 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
     - monochrome:
         - Limbo
         - Inside
+|Limbo|
+|----|
+|![Limbo](https://user-images.githubusercontent.com/35268109/97204008-d7161480-17b5-11eb-9e45-10f2a13abd71.jpg "Limbo")|
 
 ### 3D:
 
