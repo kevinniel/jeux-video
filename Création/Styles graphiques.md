@@ -14,7 +14,7 @@
 
 ### 2D:
 
-    - pixel art (différentes définitions):
+    - pixel art:
         - Terraria
         - dead cells
         - hyper light drifter
@@ -125,4 +125,3 @@
 - [x] Exemples
 - [ ] Images
 - [ ] Narration
-- [ ] types de pixel art
