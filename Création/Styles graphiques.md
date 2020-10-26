@@ -78,12 +78,23 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
 |Limbo|
 |----|
 |![Limbo](https://user-images.githubusercontent.com/35268109/97204008-d7161480-17b5-11eb-9e45-10f2a13abd71.jpg "Limbo")|
+    
+    - Dessin :
+        - Hollow Knight
+        - Ori and the Blind Forest
+        - Jotun
+    |Hollow Knight|Ori and the Blind Forest| Jotun |
+    |-------------|------------------------|-------|
+    |![Hollow Knight](https://user-images.githubusercontent.com/35268109/97205151-5e17bc80-17b7-11eb-81c1-8a4d9c556255.jpg "Hollow Knight")|![Ori and the blind forest](https://user-images.githubusercontent.com/35268109/97205347-a505b200-17b7-11eb-9ad0-67660f86a7ee.jpg "Ori and the blind Forest")|![Jotun](https://user-images.githubusercontent.com/35268109/97205756-28bf9e80-17b8-11eb-8382-9068e86ea20e.png "Jotun")|
 
+
+        
 ### 3D:
 
     - cel shading:
         - les Zelda 3D (BOTW, winwaker, twilight princess)
         - Okami
+        - Risk of Rain 2
     - 3D cartoon
         - Mario64
         - Crash bandicoot
