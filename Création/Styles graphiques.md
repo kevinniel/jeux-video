@@ -1,4 +1,5 @@
 # Style graphique:
+![Games-with-Unique-Art-Styles](https://user-images.githubusercontent.com/35268109/97197703-3c660780-17ae-11eb-9798-6c2b1fd6c446.jpg)
 
 ### Au cours de l'histoire du jeu vidéo, les styles graphiques ont considérablement évolués, partant de simple pixel, voire juste de texte, aux jeux photoréalistes que l'on connait aujourd'hui.
 
