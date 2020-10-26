@@ -44,7 +44,7 @@ Le 6 décembre 2018, Epic lance la Boutique Epic Games, une plateforme de distri
 
 En août 2020, Epic Games annonce avoir réalisé une levée de fonds de 1,78 milliard de dollars.
 
-## BattleNet
+## Battle.net
     Battle.net est une plate-forme Internet, créée fin novembre 1996, permettant aux joueurs de s’affronter en temps réel sur les jeux vidéo de la société Blizzard Entertainment. 
 
 Comme son concurrent GameSpy, il s’agit d’un serveur d’entrée (en anglais : Lobby server) permettant aux joueurs de se rencontrer, de pouvoir consulter la liste des parties en cours ou à venir et de se joindre à elles. Battle.net n’héberge pas directement les parties (à l’exception des parties de Diablo II en mode « fermé » ou « royaume », ou pour Diablo III).
