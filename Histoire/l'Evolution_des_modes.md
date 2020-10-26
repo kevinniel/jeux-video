@@ -1,12 +1,12 @@
 # **UN JOUEUR**  
----------------------------------------------  
----------------------------------------------  
+-----------------
+----------------- 
 ### **_1. Description_**
-  
+-----------------  
 Un **jeu solo** implique que seul ce mode de jeu soit proposé dans le jeu, alors qu'un **mode solo** renvoie au mode de jeu à un seul joueur d'un jeu vidéo incluant  
 un autre mode de jeu (généralement multijoueur).
-  
-  
+----------------- 
+-----------------  
 ### **_2. Historique_**  
   
 La majorité des premiers jeux sur ordinateur étaient prévus pour un seul joueur. La plupart des jeux simple joueur misent soit sur un **scénario** prenant, des **graphismes**  
