@@ -40,8 +40,7 @@ Le pixel art était à l'origine la seule manière d'afficher une image, mais av
         
 |    Celeste    | Hyper light drifter |
 | ------------- | ------------------- |
-| ![Celeste](https://user-images.githubusercontent.com/35268109/97200801-f57a1100-17b1-11eb-9b85-bf83b096b678.jpg "Celeste")
- | Content Cell        |
+| ![Celeste](https://user-images.githubusercontent.com/35268109/97200801-f57a1100-17b1-11eb-9b85-bf83b096b678.jpg "Celeste") |![Hyper Light Drifter](https://user-images.githubusercontent.com/35268109/97201015-3bcf7000-17b2-11eb-8216-53292d02fcaf.jpg "Hyper Light Drifter")|
 
         
     - vector art:
