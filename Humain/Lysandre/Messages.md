@@ -1,0 +1,25 @@
+Introduction
+
+
+
+Diégèse
+
+
+
+
+Politique, religieux ou morale
+
+
+
+
+Evolution des propos
+
+
+
+
+Impact
+
+
+
+
+Conclusion
