@@ -18,7 +18,7 @@ A chaque fois que le plan est modifié par une équipe, elle devra le répercute
 
 A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégrer un lien du plan, vers le document.
 
-## une fois le travail terminé (a faire pour la prochaine fois)
+## Une fois le travail terminé (a faire pour la prochaine fois)
 1. Terminer vos parties respectives
 2. relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
 3. La prochaine fois, et en groupe, vous devrez résoudre des issuers à l'aide de pull requests.
