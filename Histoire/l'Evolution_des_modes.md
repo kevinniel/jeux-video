@@ -1,6 +1,6 @@
 # **UN JOUEUR**  
-  
-  
+---------------------------------------------  
+---------------------------------------------  
 ### **_1. Description_**
   
 Un **jeu solo** implique que seul ce mode de jeu soit proposé dans le jeu, alors qu'un **mode solo** renvoie au mode de jeu à un seul joueur d'un jeu vidéo incluant  
