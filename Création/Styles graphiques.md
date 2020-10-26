@@ -1,16 +1,14 @@
 # Style graphique:
 
-###
-
-- abstrait:
-  - minimetro
-  - tetris
-  - tempest
-  - geometry dash
-- jeu textuel:
-  - Amnesia
-  - Rogue
-  - Colossal Cave Adventure
+    - abstrait:
+        - minimetro
+        - tetris
+        - tempest
+        - geometry dash
+    - jeu textuel:
+        - Amnesia
+        - Rogue
+        - Colossal Cave Adventure
 
 ## Stylisé :
 
