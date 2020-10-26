@@ -21,3 +21,14 @@ jeux-vidéo dans leur propre studio. Il s'appelle "Zombi" et va conquérir les f
 Ils devaient ensuite développer un jeux-vidéo qui se nomma Assassin Prince of persia qui jouait le rôle du garde du corps de ce dernier.
 Mais ils se sont dit que jouer un rôle secondaire n'était pas très prometteur alors ils ont renommer ce jeu en : "Assassin's creed".
 C'est ainsi que la saga Assassin's Creed fut créée.
+
+## Origin
+    Origin (plateforme de distribution numérique)
+Origin (anciennement EA Store) est une plateforme de distribution numérique, avec système de gestion des droits numériques d'Electronic Arts, qui permet aux utilisateurs d'acheter des jeux sur Internet pour PC et plateformes mobiles, et les télécharger avec le client d'origine (anciennement EA Download Manager, EA Downloader et EA Link).
+
+Origin a des fonctionnalités sociales comme la gestion des profils, de discussion avec des amis avec de la messagerie instantanée et vocale, la possibilité de rejoindre directement une partie dans un jeu, le partage de la bibliothèque de jeux et l'intégration communautaire avec des sites de réseaux sociaux comme Facebook, Xbox Live et PlayStation Network. Origin est ciblé pour correspondre à son principal concurrent Steam d'ici la fin de mars 2012, en ajoutant le système cloud, mise à jour automatique, les succès et les récompenses, et multiplateforme.
+
+L'utilisateur d'Origin est identifié par son compte Origin unifié, qui remplace le compte EA et peut être supprimé après 24 mois d'inactivité.
+
+Voici tous les jeux-vidéos présents sur Origin : 
+(Alice: Madness Returns, Anthem, Apex Legends, A Way Out, Battlefield 3, Battlefield 4, Battlefield Hardline, Battlefield 1, Command & Conquer: The Ultimate Collection, Crysis 3, Dead Space 3, Dragon Age: Inquisition, Fe, FIFA 12, FIFA 13, FIFA 14, FIFA 15, FIFA 16, FIFA 17, FIFA 18, FIFA 19, FIFA 20, FIFA Manager 12, FIFA Manager 13, FIFA Manager 14, Mass Effect 3, Mass Effect: Andromeda, Medal of Honor: Warfighter, Mirror's Edge Catalyst, Need for Speed: Most Wanted (2012), Need for Speed: Rivals, Need for Speed: The Run, Need for Speed (2015), Need for Speed Payback, Need for Speed Heat, Plants vs. Zombies: Garden Warfare, Plants vs. Zombies: Garden Warfare 2, Plants vs. Zombies : La Bataille de Neighborville, SimCity (2013), Star Wars Battlefront (2015), Star Wars Battlefront II (2017), Syndicate (2012), The Sims 4, Titanfall, Titanfall 2, Unravel et Unravel 2).
