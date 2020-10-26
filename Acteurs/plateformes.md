@@ -4,7 +4,7 @@ La plupart sont par ailleurs présentes sur la plateforme PC car en effet la maj
 Les plus populaires sont : Steam, Uplay, Origin, Epic Games, Battle.net et Gog
 
 ## Steam
-    Steam la plateforme de jeux-vidéos la plus connue sur ordinateur.
+    Steam, la plateforme de jeux-vidéos la plus connue sur ordinateur.
 Elle fut créée le 12 septembre 2003, permettant aux joueurs d'acheter des jeux-vidéos voire du contenu présent dans les jeux-vidéos.
 Steam permet également aux jeux-vidéos de se mettre à jour et de gérer leur partie multijoueur.
 Il y'a une réelle communauté sur Steam. Il y'a un système de niveau et il peut-être augmenté grâce aux badges qui sont payant mais ceux-ci peuvent être obtenus
