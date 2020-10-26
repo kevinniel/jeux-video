@@ -38,15 +38,16 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 
 # MUSIQUE PAR GENRES DE JEUX
 
-## JEUX D'ARCADE
+## JEUX METROIDVANIA
+**Ori and the Blind Forest et Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant. La musique utilisée tout au long de l'aventure te plonge directement au coeur de l'histoire, te faisant ressentire toute une panoplie d'émotion.  L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante.
 ## JEUX DE PLATES-FORMES/ACTION
 ## JEUX DE SPORT/COURSES
 ## JEUX DE ROLE CONSOLE
 ## JEUX D'AVENTURE/RPG
 On à des jeux comme Star Wars qui va reprendre complètement les musiques du film 
 ## JEUX FPS/TPS
-Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter, BeatSaber, Osu** qui sont des jeux intéractif, dont l'avancement de la musique dépend du joueur et de ces capacités.
+Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter** qui est un jeux de tire à la première personne, qui est intéractif et dont l'avancement de la musique dépend du joueur et de ses capacités. Plus la musique a un rythme rapide ou qui s'accélère, plus le joueur doit s'adapter et suivre les cibles avec son arme
 ## JEUX DE REFLEXION
 ## JEUX DE STRATEGIE/SIMULATION
 ## JEUX MUSICAUX
-Musique basé sur le rythme du jeu, musique de fonds sur un ecran d'acceuille 
+Musique basé sur le rythme du jeu, musique de fonds sur un écran d'acceuil.
