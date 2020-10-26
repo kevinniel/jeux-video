@@ -42,4 +42,4 @@ Le 25 juillet 2017, Fortnite sort aux yeux du grand public et incorpore le mode 
 
 Le 6 décembre 2018, Epic lance la Boutique Epic Games, une plateforme de distribution de contenu en ligne, en concurrence directe avec Steam10. En mai 2019, Epic Games annonce l'acquisition du studio Psyonix, développeur de Rocket League11 et envisage de sortir le jeu dans sa plateforme de distribution de jeux vidéo en ligne.
 
-En août 2020, Epic Games annonce avoir réalisé une levée de fonds de 1,78 milliard de dollars
+En août 2020, Epic Games annonce avoir réalisé une levée de fonds de 1,78 milliard de dollars.
