@@ -2,8 +2,6 @@
 
 ### Au cours de l'histoire du jeu vidéo, les styles graphiques ont considérablement évolués, partant de simple pixel, voire juste de texte, aux jeux photoréalistes que l'on connait aujourd'hui.
 
-![image nulle] (https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.webp)
-
     - abstrait:
         - minimetro
         - tetris
@@ -126,6 +124,4 @@
 
 ### à faire:
 
-- [x] Exemples
-- [ ] Images
-- [ ] Narration
+- Narration
