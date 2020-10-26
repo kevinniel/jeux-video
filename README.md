@@ -48,7 +48,6 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 	- streaming
 	- les polémiques actuelles / préjugés
 	- critiques
-	- la pensée geek
 
 ### Histoire
 	- TOP / FLOP
