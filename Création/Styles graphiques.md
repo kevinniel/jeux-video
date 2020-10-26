@@ -1,3 +1,10 @@
+## Généralités:
+    - abstrait (minimetro, tetris etc)
+    - stylisé (botw)
+    - réaliste  (god of war)
+
+
+
 ## 3D:
     - réaliste
     - cel shading
