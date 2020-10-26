@@ -1,30 +1,30 @@
-# **UN JOUEUR**
-
-
+# **UN JOUEUR**  
+  
+  
 ### **_1. Description_**
-
+  
 Un **jeu solo** implique que seul ce mode de jeu soit proposé dans le jeu, alors qu'un **mode solo** renvoie au mode de jeu à un seul joueur d'un jeu vidéo incluant  
 un autre mode de jeu (généralement multijoueur).
-
-
-### **_2. Historique_**
-
+  
+  
+### **_2. Historique_**  
+  
 La majorité des premiers jeux sur ordinateur étaient prévus pour un seul joueur. La plupart des jeux simple joueur misent soit sur un **scénario** prenant, des **graphismes**  
 impressionnants et des **personnages non-joueur** au comportement réaliste, voire pour les plus modestes, sur leur **accessibilité** et leur **disponibilité**  
 (leur gameplay, plus simple, est compensé par un prix moins élevé ou gratuit, voire la possibilité d'y jouer n'importe où).
-
-
+  
+  
 ### **_3. Types de jeux_**
-
+  
 Certains genres de jeux vidéo sont, par leurs principes, conçus pour être joués en solo, tels que les **jeux de briques de type Tetris** ou les **jeux de rôle japonais**  
 (par ex. Final Fantasy), même si des versions multijoueurs de ces jeux ont fait également leur apparition.
-
+  
 La grande majorité des jeux d'**arcade** et de **consoles** sont conçus pour pouvoir être joués par un seul joueur, bien que beaucoup proposent également des modes permettant  
 à d'autres joueurs de jouer (pas nécessairement simultanément). En réalité, même orientés multijoueurs, très peu de jeux exigent la présence de plus d'un joueur  
 pour lancer une partie. Unreal Tournament, et les FPS multijoueurs en sont un exemple.  
-
-
-
+  
+  
+  
 # **DEUX JOUEUR**
 
 
@@ -66,48 +66,49 @@ Le multijoueur est le mode de jeu le plus populaire auprèsn des joueurs, en eff
 **nombreuses communautés de joueurs** dont certaines sont ouvertes à tous, d'autres sont limitées à un cercle d'initiés. À l'exemple de certains qui se regroupent en **clans**  
 ou **guildes** pour jouer ensemble ou organiser des tournois. D'autres produisent des **add-ons et des mods**. Les jeux les plus joué sont en grande partie des **FPS**  
 comme par exemple **Call Of Duty**, un **jeu de guerre** où l'on incarne un soldat. 
-
-
-
+  
+  
+  
 # **JEU EN ÉQUIPE**
-
-
+  
+  
 ### **_1. Description_**
 
 Le jeu en équipe (team-play en anglais) est un mode de jeu dans lequel les joueurs sont **regroupés en équipes** (généralement deux) qui **s'affrontent les unes aux autres**.  
 Ce genre de jeu nécessite une **connexion en réseau** entre les joueurs. Il est un dérivé du mode multijoueur étant donné qu'il se joue lui aussi en réseau.
-
-
+  
+  
 ### **_2. Historique_**
 
 Tout comme le **multijoueur classsique**, le jeu en équipe à profité des **avancées des technologies** dans le domaine des réseaux informatiques car depuis quelques temps,  
 il est possible de jouer dans des équipes de plus en plus grande allant jusqu'à 100 vs 100 (vs 100) pour certain jeux. Sinon la façon de fonctionner de ces jeux 
 est sensiblement le même que les jeux multijoueurs classiques tout en étant plus sensible à la **compétition**.
-
-
+  
+  
 ### **_3. Types de jeux_**
-
+  
 Comme dit plus haut, la **compétition** est souvent plus forte dans les jeux en équipe, par exemple les **MOBA** comme League Of Legends où deux équipes de 5 s'affrontent  
 pour pour détruire la base de l'adversaire. Il est le jeux ayant la scène compétitive la plus importante (dépassé l'année dernière par Fortnite, un **BattleRoyal**).
-
-
-
+  
+  
+  
 # **MASSIVEMENT MULTIJOUEUR**
-
-
+  
+  
 ### **_1. Description_**
-
+  
 Le **jeu en ligne massivement multijoueur** (**MMOG**, de l'anglais *massively multiplayer online game*, parfois encore abrégé en **MMO**) est un genre de jeu vidéo  
 faisant participer un **très grand nombre de joueurs simultanément** par le biais d'un réseau informatique ayant accès à Internet. Il est lui aussi un dérivé des  
 jeux Multijoueurs.
-
+  
 Il se définit traditionnellement par trois critères cumulatifs :
-
+  
 >* l'univers n'est accessible __que par un réseau__ ;
 >* l'univers est __persistant__, c'est-à-dire qu'il existe tout le temps, que des joueurs y soient connectés ou non ;
 >* l'univers est __accessible à un très grand nombre de joueurs simultanément__.
-
-
+  
+  
+  
 ### **_2. Historique_**
 
 Ce genre de jeu vidéo a connu une **croissance forte** depuis le premier jeu grand public en 1996, et comme le genre se joue **exclusivement** sur Internet,  
