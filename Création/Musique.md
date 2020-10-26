@@ -42,7 +42,7 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 
 ![alt text][oriandtheblindforest]
 
-[oriandtheblindforest]: https://github.com/kevinniel/jeux-video/Création/musicpicture/oriandtheblingforest.png
+[oriandtheblindforest]: https://raw.githubusercontent.com/kevinniel/jeux-video/master/Cr%C3%A9ation/musicpicture/oriandtheblingforest.png "alt text"
 
 **Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant et dont la musique se base sur l'avancé du joueur dans l'histoire. La musique utilisée tout au long de l'aventure nous plongent directement au coeur de l'histoire, nous faisant ressentire toute une panoplie d'émotions. L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
 
