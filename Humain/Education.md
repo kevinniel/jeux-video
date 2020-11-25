@@ -1,5 +1,3 @@
-Introduction
-
 Les jeux semblent naturellement opposés à l’apprentissage et à l’éducation. Si les jeux de société trouvent encore une place en maternelle et au début du primaire, ils disparaissent dans les classes supérieurs. 
 
 Quant aux jeux vidéo, ils incarnent pour la plupart des enseignants et parents ce à quoi les résument le plus souvent la télévision et la presse : addiction, violence, isolement. 

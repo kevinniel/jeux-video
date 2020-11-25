@@ -1,6 +1,6 @@
-Jeu vidéo thérapeutique
+# **Jeu vidéo thérapeutique**
 
-Dispositif Médical :
+## Dispositif Médical :
 
 Toap Run jeux vidéos FR crée à montpellier Pour les personnes atteinte de parkinson et pahtologie assimilé
 Il faut trois à six mois pour les études pilotes et deux ans environ pour une étude clinique sur un panel de 200 patients
