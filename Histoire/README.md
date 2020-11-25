@@ -9,10 +9,17 @@
 
 
 
+<<<<<<< HEAD
+=======
+    -Avec leurs évolutions chronologique
+
+
+>>>>>>> 7b94a09744f67ff15da3b71db1a86eafe85a2dd5
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -21,21 +28,15 @@
 
 #### Table of contents
 
+=======
+METHODE DE SOMMAIRE:
+>>>>>>> 7b94a09744f67ff15da3b71db1a86eafe85a2dd5
 
 [Histoire](Histoire)
-- [Evolution du jeu vidéo](Histoire/Evolution_JV.md)
-- [Evolution des modes](Histoire/Evolution_des_modes.md)
-- [Evolution des moyens](Histoire/Evolution_des_moyens.md)
-- [Influence du jeu vidéo](Histoire/Influence_JV_Culture.md)
-- [Prix des meilleurs jeux vidéo](Histoire/Prix_des_meilleurs_JV.md)
-- [Retrogaming](Histoire/Retrogaming.md)
-- [Top flop](Histoire/Top_flop.md)
-
-
-1. [Evolution des moyens](https://github.com/kevinniel/jeux-video/blob/master/Histoire/Evolution_des_moyens.md)
-2. [Section 2](#section-2)
-    - [Subsection a](#subsection-a)
-    - [Subsection b](#subsection-b)
-
- ## Evolution des moyens
-
+- [Evolution du jeu vidéo](Evolution_JV.md)
+- [Evolution des modes](Evolution_des_modes.md)
+- [Evolution des moyens](Evolution_des_moyens.md)
+- [Influence du jeu vidéo](Influence_JV_Culture.md)
+- [Prix des meilleurs jeux vidéo](Prix_des_meilleurs_JV.md)
+- [Retrogaming](Retrogaming.md)
+- [Top flop](Top_flop.md)
