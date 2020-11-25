@@ -51,21 +51,20 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Les polémiques actuelles / préjugés](Communautaire/Polémiques_actuelles_et_Préjugés.md)
 - [Critiques](Communautaire/Critiques.md)
 
-### 4.5 - Histoire
-- TOP / FLOP
-- influence dans la culture
-- l'évolution des modes
-- (evolution dans le temps)
-- évolution des moyens
-- l'histoire du JV, de ces débuts à aujourd'hui
-- prix des meilleurs JV
-- rétrogaming
+### 4.5 - [Histoire](Histoire)
+- [TOP / FLOP](Histoire/Top_flop.md)
+- [Influence dans la culture](Histoire/Influence_JV_Culture.md)
+- [L'Evolution des modes](Histoire/Evolution_des_modes.md)
+- [L'Evolution des moyens](Histoire/Evolution_des_moyens.md)
+- [L'Evolution du jeu vidéo](Histoire/Evolution_JV.md)
+- [Prix des meilleurs JV](Histoire/Prix_des_meilleurs_JV.md)
+- [Rétrogaming](Histoire/Retrogaming.md)
 
-### 4.6 - Acteurs
-- plateformes
-- boites de développement
-- les métiers en lien avec le JV et leurs rôles respectifs
-- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
+### 4.6 - Acteurs(Acteurs)
+- [Plateformes](Acteurs/plateformes.md)
+- [Studio, Editeur et Constructeur](Acteurs/studioEditeurConstructeur.md)
+- [Les métiers du jeu vidéo](Acteurs/MetiersDuJeuVideo.md)
+- [Les "NoLife"](Acteurs/nolife.md)
 
 ### 4.7 - L'humain dans les JV
 - avantages et inconvénients sur le corp humain
