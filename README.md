@@ -73,6 +73,6 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Conséquences humaines](Humain/Consequences_humaines.md)
 - [Consommation de jeu vidéo](Humain/Consommation_de_jeu_video.md)
 - [Éducation](Humain/Education.md)
-- [Jeux vidéo thérapeuthique](Humain/Jeux_video_therapeuthique.md)
-- [Jeux vidéo au quotidien](/Jeux_video_au_quotidien.md)
+- [Jeux vidéo thérapeuthique](Humain/Jeux_video_therapeutique.md)
+- [Jeux vidéo au quotidien](Humain/Jeux_video_au_quotidien.md)
 - [Réalité Virtuelle](Humain/Realite_Virtuelle.md)
