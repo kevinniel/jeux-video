@@ -66,12 +66,13 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Les métiers du jeu vidéo](Acteurs/MetiersDuJeuVideo.md)
 - [Les "NoLife"](Acteurs/nolife.md)
 
-### 4.7 - L'humain dans les JV
-- avantages et inconvénients sur le corp humain
-- accessibilité
-- médecine - jeux à utilité thérapeuthique
-- éducation
-- les intentions véhiculées / morales / mise en exergue de problèmes sociétaux
-- façon d'appréhendre le jeu vidéo au quotidien
-- addiction
-- le temps de jeu moyen
+### 4.7 - [L'humain dans les JV](Humain)
+- [Accessibilité pour les consommateur](Humain/Accessibilite_pour_les_consommateurs.md)
+- [Addiction](Humain/Addiction.md)
+- [Communication vidéoludique](Humain/Communication_videoludique.md)
+- [Conséquences humaines](Humain/Consequences_humaines.md)
+- [Consommation de jeu vidéo](Humain/Consommation_de_jeu_video.md)
+- [Éducation](Humain/Education.md)
+- [Jeux vidéo thérapeuthique](Humain/Jeux_video_therapeuthique.md)
+- [Jeux vidéo au quotidien](/Jeux_video_au_quotidien.md)
+- [Réalité Virtuelle](Humain/Realite_Virtuelle.md)
