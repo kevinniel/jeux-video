@@ -25,11 +25,11 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 
 ## 4 - Sommaire
 
-### 4.1 - [Technique]()
-- [Moteurs](Moteur.md)
-- [Matériel](Materiel.md)
-- [Périphériques](Peripherique.md)
-- [Langages de programmation](Language_de_Programmation.md)
+### 4.1 - [Technique](Technique)
+- [Moteurs](Technique/Moteur.md)
+- [Matériel](Technique/Materiel.md)
+- [Périphériques](Technique/Peripherique.md)
+- [Langages de programmation](Technique/Language_de_Programmation.md)
 
 ### 4.2 - Création
 	- différents genres
