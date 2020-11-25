@@ -1,4 +1,4 @@
-# Plateformes de jeux-vidéos
+# Plateformes de jeux-vidéo
     Il existe de nombreuses plateformes proposant l'accès aux jeux-vidéos, ce sont des distributeurs de jeux-vidéos.
 La plupart sont par ailleurs présentes sur la plateforme PC car en effet la majorité des jeux-vidéos sont sur ordinateur de nos jours.
 Les plus populaires sont : Steam, Uplay, Origin, Epic Games, Battle.net et Gog
