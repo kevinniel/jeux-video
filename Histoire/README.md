@@ -22,7 +22,7 @@
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-de-coopération-)
+- [Jeu vidéo de coopération](Evolution_des_modes.md#jeu-vidéo-de-coopération-)
   - *Description*
   - *Historique*
   - *Types de jeux*
@@ -37,7 +37,7 @@
   - *Types de jeux*
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
-- [Le marché des consoles](Evolution_des_moyens.md#I.-le-marché-des-consoles-)
+- [Le marché des consoles](Evolution_des_moyens.md#i-le-marché-des-consoles-)
   - *Consoles de salon*
   - *Consoles portables*
   - *Téléphones mobiles*
@@ -56,7 +56,7 @@
 ## **_4_ -** [Influence du jeu vidéo](Influence_JV_Culture.md)
 - [Introduction](Influence_JV_Culture.md#introduction)
 - [Démographie](Influence_JV_Culture.md#démographie)
-- [Social ou Antisocial ?](Influence_JV_Culture.md#social-ou-antisocial)
+- [Social ou Antisocial ?](Influence_JV_Culture.md#social-ou-antisocial-)
 - [Implications sociales des jeux vidéo](Influence_JV_Culture.md#implications-sociales-des-jeux-vidéo)
 - [Apparition de sous-culture](Influence_JV_Culture.md#apparition-de-sous-culture)
 
