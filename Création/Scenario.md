@@ -2,11 +2,11 @@
 	
 ## Du point de vue du scénariste :
 
--C'est avec le scénario que l'on créer les personnages du jeu (le héros, ces partenaire, le méchant ainsi que les pnj)
+- C'est avec le scénario que l'on créer les personnages du jeu (le héros, ces partenaire, le méchant ainsi que les pnj)
 
--Lorsqu'on créer un personnage on lui ajoute des détails pour le rendre unique. des détail physique (couleur de cheveux, forme du visage,...) 
+- Lorsqu'on créer un personnage on lui ajoute des détails pour le rendre unique. des détail physique (couleur de cheveux, forme du visage,...) 
 
--Pour s'aider un scénariste va souvent utiliser un archétype (héros, démon, elfe,...), car cela apporte des critère de base au personnage.
+- Pour s'aider un scénariste va souvent utiliser un archétype (héros, démon, elfe,...), car cela apporte des critère de base au personnage.
 
 ## Les différentes étapes pour faire un scénario :
 
@@ -27,17 +27,17 @@
 
 ## Le scénario par rapport au jeu :
 
--Dans un jeu vidéo il va aussi parfois devoir s'adapter au gameplay. Par exemple si le personnage principal utilise un grappin on peut s'attendre à retrouver
+- Dans un jeu vidéo il va aussi parfois devoir s'adapter au gameplay. Par exemple si le personnage principal utilise un grappin on peut s'attendre à retrouver
  sur la map de grands batiments ou des montagnes pour un gameplay "aérien".
 
--Selon les jeux le scénario à un place plus ou moins importante, certain vont vouloir développer un maximum leur scénario quand d'autre ne se focaliseront
+- Selon les jeux le scénario à un place plus ou moins importante, certain vont vouloir développer un maximum leur scénario quand d'autre ne se focaliseront
  que sur le gameplay . Le scénario n'est donc pas essentiel selon le genre de jeu.
 
 ## Les scénarios linéaire et non linéaire :
 
--scénario linéaire : scénario classique avec une suite chronologique, un événement se produit et par lien de cause à effet, un autre événement se produira.
+- Le scénario linéaire : scénario classique avec une suite chronologique, un événement se produit et par lien de cause à effet, un autre événement se produira.
 Le lien de causualité est un bon moyen de mise en oeuvre d'une histoire, et l'enchaînement logique d'événements est un bon outil pour développer l'arc dramatique d'un personnage. 
 
--scénario non linéaire : Un récit non linéaire est dans ce cas un récit dont le déroulement peut être orienté par son lecteur-utilisateur, grâce à ses 
+- Le scénario non linéaire : Un récit non linéaire est dans ce cas un récit dont le déroulement peut être orienté par son lecteur-utilisateur, grâce à ses 
 choix, ou dans le cadre d'intrigues interactives non déterministes, c'est-à-dire dont les états sont progressivement calculés 
 par le système en fonction des actions du lecteur.
