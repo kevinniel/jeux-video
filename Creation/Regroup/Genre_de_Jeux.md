@@ -28,6 +28,9 @@ Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un
 
 ##### jrpg :
 Rpg japonais: scénario à base de quête en équipe, avec des déplacements en temps réels mais combat en temps dilaté, souvent sur un écran particulier, et généralement au tour par tour. à la différence du Rpg occidental, il ne laisse généralement que très peu de choix au joueur, pour se focus sur un scénario complexe et développé.
+| Tales of Berseria | Final Fantasy XIII |
+|-------------------|--------------------|
+|![Tales of Berseria](https://imagehost7.online-image-editor.com/oie_upload/images/25134452v8bIu0Wgb/251444468L5Tf2AT.jpg "Tales of Berseria") | ![Final Fantasy XIII](https://imagehost7.online-image-editor.com/oie_upload/images/25134612z93dMgwVS/2514466VK54AUdU.jpg "Final Fantasy XIII")|
 ##### aventure : 
 Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que sur les réflexes et l'action. plus précisément l'accent est mis sur l'exploration, les dialogues ou la résolution d'énigmes. L'objectif principal est de raconter une histoire.
 ##### action : 
