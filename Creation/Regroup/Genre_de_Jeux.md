@@ -33,9 +33,9 @@ Rpg japonais: scénario à base de quête en équipe, avec des déplacements en 
 |![Tales of Berseria](https://imagehost7.online-image-editor.com/oie_upload/images/25134452v8bIu0Wgb/251444468L5Tf2AT.jpg "Tales of Berseria") | ![Final Fantasy XIII](https://imagehost7.online-image-editor.com/oie_upload/images/25134612z93dMgwVS/2514466VK54AUdU.jpg "Final Fantasy XIII")|
 ##### aventure : 
 Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que sur les réflexes et l'action. plus précisément l'accent est mis sur l'exploration, les dialogues ou la résolution d'énigmes. L'objectif principal est de raconter une histoire.
-| Uncharted | The Last of Us |
+| Bioshock Infinite | The Last of Us |
 |-----------|----------------|
-| ![Uncharted](https://imagehost7.online-image-editor.com/oie_upload/images/25140220lLK68tV93/25145546f29fb7VF.jpg "Uncharted") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
+| ![Bioshock Infinite](https://imagehost7.online-image-editor.com/oie_upload/images/251412447MT2fGVn9/25151239n7HglUlw.jpg "Bioshock Infinite") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
 ##### simulation : 
