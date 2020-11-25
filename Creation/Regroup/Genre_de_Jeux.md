@@ -22,6 +22,10 @@ Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent 
 |![Factorio](https://imagehost7.online-image-editor.com/oie_upload/images/25132449GJyD5eX/25142142CU2rKS1e.jpg "Factorio")| ![Minecraft](https://imagehost7.online-image-editor.com/oie_upload/images/25132614Ka5A4n57Y/2514263XJloS7cn.jpg "Minecraft")|
 ##### rpg : 
 Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un ou plusieurs personnage qu'il fera évolué au cours des quêtes. Les rpg contiennent généralement un univers vaste et une laissent une grande liberté de choix et d'actions aux joueurs
+| Skyrim | The Legend of Zelda |
+|--------|---------------------|
+|![Skyrim](https://imagehost7.online-image-editor.com/oie_upload/images/25133727UouTd16/25143719KFqCLGxE.jpg "Skyrim") | ![The Legend of Zelda] (https://imagehost7.online-image-editor.com/oie_upload/images/25133854Dbv8RTP73e/25143850T2Oc2P5R.jpg "The Legend of Zelda")|
+
 ##### jrpg :
 Rpg japonais: scénario à base de quête en équipe, avec des déplacements en temps réels mais combat en temps dilaté, souvent sur un écran particulier, et généralement au tour par tour. à la différence du Rpg occidental, il ne laisse généralement que très peu de choix au joueur, pour se focus sur un scénario complexe et développé.
 ##### aventure : 
