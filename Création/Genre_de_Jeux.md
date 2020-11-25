@@ -2,7 +2,9 @@
 
 ##### point and click : 
 Les jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
- ![The Dig](https://classicreload.com/sites/default/files/dosx-the-dig-screenshot.png "The Dig") 
+| The Dig | Gabriel Knight |
+|---------|----------------|
+| ![The Dig](https://classicreload.com/sites/default/files/dosx-the-dig-screenshot.png "The Dig")| ![Gabriel Knight](https://1.bp.blogspot.com/-FzFkQYOAY4A/VtZQd_hSS-I/AAAAAAAAFz4/reMsaU8cdfE/s1600/GK%2BVoodoo%2BMuseum%2BOriginal.png "Gabriel Knight")
 ##### metroidvania : 
 Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables, qu'il pourra ensuite parcourir une fois des compétences débloquées. Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
 ##### roguelike :
