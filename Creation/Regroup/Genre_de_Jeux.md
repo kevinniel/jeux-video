@@ -7,14 +7,30 @@ Les jeux qui se jouent uniquement avec la souris, où généralement le joueur c
 | ![The Dig](https://classicreload.com/sites/default/files/dosx-the-dig-screenshot.png "The Dig")| ![Gabriel Knight](https://1.bp.blogspot.com/-FzFkQYOAY4A/VtZQd_hSS-I/AAAAAAAAFz4/reMsaU8cdfE/s1600/GK%2BVoodoo%2BMuseum%2BOriginal.png "Gabriel Knight")
 ##### metroidvania : 
 Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables, qu'il pourra ensuite parcourir une fois des compétences débloquées. Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
+| Hollow Knight | Blasphemous |
+|---------------|-------------|
+|![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://imagehost7.online-image-editor.com/oie_upload/images/25131224fo5jt5Chy/25141153m7cN9CQ0.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
+| The binding of Isaac | Hades |
+|----------------------|-------|
+|![The binding of Isaac](https://imagehost7.online-image-editor.com/oie_upload/images/25131531J0FNOb/251415221JVraAzf.jpg "The binding of Isaac")| ![Hades](https://imagehost7.online-image-editor.com/oie_upload/images/2513163375Nus08XxX/25141626cLQ4C5TM.jpg "Hades")|
 ##### sandbox : 
 Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
+| Factorio | Minecraft |
+|----------|-----------|
+|![Factorio](https://imagehost7.online-image-editor.com/oie_upload/images/25132449GJyD5eX/25142142CU2rKS1e.jpg "Factorio")| ![Minecraft](https://imagehost7.online-image-editor.com/oie_upload/images/25132614Ka5A4n57Y/2514263XJloS7cn.jpg "Minecraft")|
 ##### rpg : 
 Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un ou plusieurs personnage qu'il fera évolué au cours des quêtes. Les rpg contiennent généralement un univers vaste et une laissent une grande liberté de choix et d'actions aux joueurs
+| Skyrim | The Legend of Zelda |
+|--------|---------------------|
+|![Skyrim](https://imagehost7.online-image-editor.com/oie_upload/images/25133727UouTd16/25143719KFqCLGxE.jpg "Skyrim") | ![The Legend of Zelda](https://imagehost7.online-image-editor.com/oie_upload/images/25133854Dbv8RTP73e/25143850T2Oc2P5R.jpg "The Legend of Zelda")|
+
 ##### jrpg :
 Rpg japonais: scénario à base de quête en équipe, avec des déplacements en temps réels mais combat en temps dilaté, souvent sur un écran particulier, et généralement au tour par tour. à la différence du Rpg occidental, il ne laisse généralement que très peu de choix au joueur, pour se focus sur un scénario complexe et développé.
+| Tales of Berseria | Final Fantasy XIII |
+|-------------------|--------------------|
+|![Tales of Berseria](https://imagehost7.online-image-editor.com/oie_upload/images/25134452v8bIu0Wgb/251444468L5Tf2AT.jpg "Tales of Berseria") | ![Final Fantasy XIII](https://imagehost7.online-image-editor.com/oie_upload/images/25134612z93dMgwVS/2514466VK54AUdU.jpg "Final Fantasy XIII")|
 ##### aventure : 
 Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que sur les réflexes et l'action. plus précisément l'accent est mis sur l'exploration, les dialogues ou la résolution d'énigmes. L'objectif principal est de raconter une histoire.
 ##### action : 

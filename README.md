@@ -31,51 +31,48 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Périphériques](Technique/Peripherique.md)
 - [Langages de programmation](Technique/Language_de_Programmation.md)
 
-### 4.2 - Création
-	- différents genres
-	- style graphique
-	- musique
-	- scénario
-	- différentes mécaniques
-	- inspirations (films, livres, etc...)
-	- temps de développement moyen d'un JV / temps de production & comparaison avec d'autres milieux (cinéma, ...)
+### 4.2 - [Création](Creation)
+- [Genre de jeux](Creation/Regroup/Genre_de_Jeux.md)
+- [Style graphique](Creation/Regroup/Styles_graphiques.md)
+- [Musique](Creation/Regroup/Musique.md)
+- [Scénario](Creation/Regroup/Scenario.md)
+- [Différentes mécaniques](Creation/Regroup/Differentes_mecaniques.md)
+- [Inspirations](Creation/Regroup/Inspirations.md)
 
-### 4.3 - Finances
-	- marketing
-	- sponsoring
-	- (partenariat)
-	- méthodes de rémunérations (abonnements, boutique in game, etc...)
-	- budget des jeux vidéos
+### 4.3 - [Finances](Finance)
+- [Marketing](Finance/MARKETING.md)
+- [Moyens de rémunération](Finance/Moyens_de_remuneration.md)
+- [Budget des jeux vidéo](Finance/Budget_de_jeux_video.md)
 
-### 4.4 - Communautaire
-	- communauté
-	- évènements
-	- streaming
-	- les polémiques actuelles / préjugés
-	- critiques
+### 4.4 - [Communautaire](Communautaire)
+- [Communauté](Communautaire/Communauté.md)
+- [Evènements](Communautaire/Evènement.md)
+- [Streaming](Communautaire/Streaming.md)
+- [Les polémiques actuelles / préjugés](Communautaire/Polémiques_actuelles_et_Préjugés.md)
+- [Critiques](Communautaire/Critiques.md)
 
 ### 4.5 - Histoire
-	- TOP / FLOP
-	- influence dans la culture
-	- l'évolution des modes
-	- (evolution dans le temps)
-	- évolution des moyens
-	- l'histoire du JV, de ces débuts à aujourd'hui
-	- prix des meilleurs JV
-	- rétrogaming
+- TOP / FLOP
+- influence dans la culture
+- l'évolution des modes
+- (evolution dans le temps)
+- évolution des moyens
+- l'histoire du JV, de ces débuts à aujourd'hui
+- prix des meilleurs JV
+- rétrogaming
 
 ### 4.6 - Acteurs
-	- plateformes
-	- boites de développement
-	- les métiers en lien avec le JV et leurs rôles respectifs
-	- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
+- plateformes
+- boites de développement
+- les métiers en lien avec le JV et leurs rôles respectifs
+- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
 
 ### 4.7 - L'humain dans les JV
-	- avantages et inconvénients sur le corp humain
-	- accessibilité
-	- médecine - jeux à utilité thérapeuthique
-	- éducation
-	- les intentions véhiculées / morales / mise en exergue de problèmes sociétaux
-	- façon d'appréhendre le jeu vidéo au quotidien
-	- addiction
-	- le temps de jeu moyen
+- avantages et inconvénients sur le corp humain
+- accessibilité
+- médecine - jeux à utilité thérapeuthique
+- éducation
+- les intentions véhiculées / morales / mise en exergue de problèmes sociétaux
+- façon d'appréhendre le jeu vidéo au quotidien
+- addiction
+- le temps de jeu moyen
