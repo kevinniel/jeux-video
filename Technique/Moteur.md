@@ -10,7 +10,7 @@
 - Frostbite
 
 ## Leurs avantages et inconvénients :
-Le site CANARDPC donne son avis sur les différent moteur graphique [que vous pouvez voir en cliquand ici](https://www.canardpc.com/hs22/unreal-engine)
+Le site CANARDPC donne son avis sur les différent moteur graphique que vous pouvez voir en cliquand [ici](https://www.canardpc.com/hs22/unreal-engine).
 | Moteur Graphique | Avantages | Inconvénients |
 | :---------------: |:---------------:| :-----:|
 | Unreal engine | Bonne qualité graphique et bonne puissance | Pas le plus simple à utiliser |
@@ -18,6 +18,8 @@ Le site CANARDPC donne son avis sur les différent moteur graphique [que vous po
 | Lumberyard | ... | En retard par rapport à la concurrence |
 | GameMaker | Beaucoups de possibilité pour faire des jeux 2 D | ... |
 | RPG Maker | Bon pour créer des rpg en 2D | Moteur de niche |
+
+Si vous avez du mal pour vous décider, nous vous laisson examiner les critères pour choisir son moteur graphique [ici](https://videogamecreation.fr/choisir-le-meilleur-moteur-de-jeu/).
 
 ## explication sur les Moteurs :
 
