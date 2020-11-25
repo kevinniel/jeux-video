@@ -40,11 +40,9 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Inspirations](Creation/Regroup/Inspirations.md)
 
 ### 4.3 - [Finances](Finance)
-- marketing
-- sponsoring
-- (partenariat)
-- méthodes de rémunérations (abonnements, boutique in game, etc...)
-- budget des jeux vidéos
+- [Marketing](Finance/MARKETING.md)
+- [Moyens de rémunération](Finance/Moyens_de_remuneration.md)
+- [Budget des jeux vidéo](Finance/Budget_de_jeux_video.md)
 
 ### 4.4 - Communautaire
 - communauté
