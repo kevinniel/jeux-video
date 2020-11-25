@@ -25,7 +25,7 @@ pour lancer une partie. Unreal Tournament, et les FPS multijoueurs en sont un ex
  
  
  
-# **DEUX JOUEUR**
+# **DEUX JOUEURS**
  
  
 ### **_1. Description_**
