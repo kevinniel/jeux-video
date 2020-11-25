@@ -57,13 +57,14 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 - *[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
 
 ## JEUX DE SPORT/COURSES
-Le problème de la musique dans les jeux de sport vient du fait qu’elle n’est bien souvent que de deux types. Soit elle est créée de toutes pièces pour le jeu et elle est digne d’une musique d’ascenseur de mauvaise qualité – c’est le cas de nombreux jeux de golf –, soit elle reprend les hits du moment et n’a strictement aucun rapport avec ce qu’il se passe à l’écran. Tout dépend du niveau de solvabilité de l’éditeur et du budget alloué. Et encore, même avec un portefeuille bien rempli, on a eu droit à une bande-son de FIFA19 remplie d’artistes quasiment inconnus du grand public (du moins en Europe), c’est dire si la pertinence est faible1.
 
-Très souvent résumée à des beats basiques et à des lignes de chant dont la profondeur ne nous frappe pas vraiment lors d’un lancer-franc, la musique des jeux vidéo de sport est le parent pauvre de ce médium pourtant si riche en teneur artistique.
+- Le problème de la musique dans les jeux de sport vient du fait qu’elle n’est bien souvent que de deux types. Soit elle est créée de toutes pièces pour le jeu et elle est digne d’une musique d’ascenseur de mauvaise qualité – c’est le cas de nombreux jeux de golf –, soit elle reprend les hits du moment et n’a strictement aucun rapport avec ce qu’il se passe à l’écran. Tout dépend du niveau de solvabilité de l’éditeur et du budget alloué. Et encore, même avec un portefeuille bien rempli, on a eu droit à une bande-son de FIFA19 remplie d’artistes quasiment inconnus du grand public (du moins en Europe), c’est dire si la pertinence est faible1.
+
+- Très souvent résumée à des beats basiques et à des lignes de chant dont la profondeur ne nous frappe pas vraiment lors d’un lancer-franc, la musique des jeux vidéo de sport est le parent pauvre de ce médium pourtant si riche en teneur artistique.
 Cependant depuis quelques années maintenant (depuis la première Xbox et son disque dur salvateur), les consoles permettent d’utiliser sa propre musique dans certains jeux… et spécifiquement les jeux de sport.
 
 ## JEUX D'AVENTURE/RPG
-#### Ici je vais vous parler de **CyberPunk2077**
+#### Ici je vais vous parler de CyberPunk2077
 
 ![alt text][cyberpunk2077]
 
@@ -81,9 +82,8 @@ On à des jeux comme **Star Wars** qui va reprendre complètement les musiques d
 
 ## JEUX FPS/TPS
 
-Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter** qui est un jeux de tire à la première personne, qui est intéractif et dont l'avancement de la musique dépend du joueur et de ses capacités. Plus la musique a un rythme rapide ou qui s'accélère, plus le joueur doit s'adapter et suivre les cibles avec son arme
+- Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels que **Call Of Duty, la série des Halo, Red Dead Redemption, Destiny, Bordelands, Dying Light, Battlefield, etc ...** Mais aussi des jeux moins classique mais tout de même intéressant tels que **Beat Aim - Rhythm FPS Shooter** qui est un jeux de tire à la première personne, qui est intéractif et dont l'avancement de la musique dépend du joueur et de ses capacités. Plus la musique a un rythme rapide ou qui s'accélère, plus le joueur doit s'adapter et suivre les cibles avec son arme
 
-## JEUX DE REFLEXION
 
 ## JEUX DE STRATEGIE/SIMULATION
 
@@ -95,4 +95,8 @@ Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels q
 
 ## JEUX MUSICAUX
 
-Just Dance, Dance central,
+- Un jeu vidéo musical, ou jeu de musique, est un jeu vidéo dont le gameplay est significativement, voir souvent presque entièrement orienté sur les interactions du joueur avec une partition musicale ou des chansons. Les jeux vidéo musicaux peuvent prendre diverses formes :
+
+- Just Dance.
+- Dance central (uniquement sur Xbox avec la Kinect).
+
