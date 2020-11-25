@@ -49,7 +49,7 @@ De nouveaux modèles de distribution et de revenus ont donc vu le jour à la sui
 
 | _Chronologie et durée de commercialisation des consoles de jeu :_ |
 | ----------------------------------------------------------------- |
-| ![Image Chronologie](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)     |
+| ![Image Chronologie](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png) |
 
 
 # **II. Types de distribution :**
