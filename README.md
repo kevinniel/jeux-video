@@ -33,7 +33,7 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 
 ### 4.2 - [Création](Creation)
 - [Genre de jeux](Creation/Regroup/Genre_de_Jeux.md)
-- [Style graphique](Creation/Regroup/Styles_graphique.md)
+- [Style graphique](Creation/Regroup/Styles_graphiques.md)
 - [Musique](Creation/Regroup/Musique.md)
 - [Scénario](Creation/Regroup/Scenario.md)
 - [Différentes mécaniques](Creation/Regroup/Differentes_mecaniques.md)
