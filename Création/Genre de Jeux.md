@@ -29,7 +29,9 @@ Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dan
 ##### survival :
 Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
 ##### idle games :
-    -course
+Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont un genre de jeux dont la mécanique de jeu principale consiste en de simples actions à l'interactivité volontairement limitée : il peut s'agir de cliquer à répétition ou bien de simplement laisser le jeu s'exécuter, le "joueur" n'ayant alors rien à faire. Le plus souvent, cette mécanique de jeu entraîne une progression monétaire virtuelle permettant d'améliorer certaines caractéristiques afin encore une fois d'accélérer l'acquisition monétaire.
+##### course :
+Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou atteindre le point d'arrivée le premier. Il tient généralement le rôle d'un coureur ou d'un pilote de machine.
 
 ### en ligne:
 
