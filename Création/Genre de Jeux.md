@@ -17,10 +17,14 @@ Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que 
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
 ##### simulation : 
-    -stratégie
-    -plateforme
-    -4X
-    -die and retry
+Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
+##### stratégie :
+Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
+##### plates-formes :
+Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
+##### 4X:
+Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
+##### die and retry:
     -horreur
     -idle games
     -course
