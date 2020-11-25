@@ -8,31 +8,31 @@
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
-- [Jeu vidéo à un joueur](Evolution_des_modes.md#jeu-vidéo-à-un-joueur)
+- [Jeu vidéo à un joueur](Evolution_des_modes.md#jeu-vidéo-à-un-joueur-)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo à deux joueurs](Evolution_des_modes.md#jeu-vidéo-à-deux-joueurs)
+- [Jeu vidéo à deux joueurs](Evolution_des_modes.md#jeu-vidéo-à-deux-joueurs-)
   - *Description*
   - *Types de jeux*
 
-- [Jeu vidéo en multijoueur](Evolution_des_modes.md#jeu-vidéo-en-multijoueur)
-  - *Description*
-  - *Historique*
-  - *Types de jeux*
-
-- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-en-coopération)
+- [Jeu vidéo en multijoueur](Evolution_des_modes.md#jeu-vidéo-en-multijoueur-)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo massivement multijoueur](Evolution_des_modes.md#jeu-vidéo-massivement-multijoueur)
+- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-en-coopération-)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo d'escarmouche](Evolution_des_modes.md#jeu-vidéo-descarmouche)
+- [Jeu vidéo massivement multijoueur](Evolution_des_modes.md#jeu-vidéo-massivement-multijoueur-)
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
+
+- [Jeu vidéo d'escarmouche](Evolution_des_modes.md#jeu-vidéo-descarmouche-)
   - *Description*
   - *Types de jeux*
 
