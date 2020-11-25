@@ -19,8 +19,8 @@ s'est développée sur les PC modernes via la création d'émulateurs d'ancienne
 
 ### **_Qui joue à ces jeux vidéos ?_**
 
--Les joueursde rétrogaming sont motivés à jouer sur ces anciens jeux part la nostalgie 
-des anciens jeux vidéos, et égalementpar le fait que certains joueurs pensent que la 
+-Les joueurs de rétrogaming sont motivés à jouer sur ces anciens jeux part la nostalgie 
+des anciens jeux vidéos, et également par le fait que certains joueurs pensent que la 
 3D à tué l'univers des jeux-vidéos en termes de mécaniques de gameplay.
 
 ### **_Et c'est démocratisé ça ?_**
