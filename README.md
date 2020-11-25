@@ -18,10 +18,10 @@ A chaque fois que le plan est modifié par une équipe, elle devra le répercute
 
 A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégrer un lien du plan, vers le document.
 
-## 3 - Une fois le travail terminé (a faire pour la prochaine fois)
-1. Terminer vos parties respectives
-2. Relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
-3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corrigé le problème soulevé pour fermer automatiquement l'issue correspondante. (le message doit commencé par le mot Fix. Par exemple : "Fir #19" fermera automatiquement l'issue numéro 19)
+## 3 - a faire pour la prochaine fois
+1. Terminer les issues restantes selon vos affectations.
+2. Vous pouvez ouvrir d'autres issues et vous les auto-affecter pour les résoudre.
+3. Révisez bien l'ensemble de ce que l'on a vu, la prochaine fois : QCM
 
 ## 4 - Sommaire
 
@@ -29,15 +29,15 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Moteurs](Technique/Moteur.md)
 - [Matériel](Technique/Materiel.md)
 - [Périphériques](Technique/Peripherique.md)
-- [Langages de programmation](Technique/Language_de_Programmation.md)
+- [Langages de programmation](Technique/Langage_de_Programmation.md)
 
 ### 4.2 - [Création](Creation)
-- [Genre de jeux](Creation/Regroup/Genre_de_Jeux.md)
-- [Style graphique](Creation/Regroup/Styles_graphiques.md)
-- [Musique](Creation/Regroup/Musique.md)
-- [Scénario](Creation/Regroup/Scenario.md)
-- [Différentes mécaniques](Creation/Regroup/Differentes_mecaniques.md)
-- [Inspirations](Creation/Regroup/Inspirations.md)
+- [Genre de jeux](Creation/Genre_de_Jeux.md)
+- [Style graphique](Creation/Styles_graphiques.md)
+- [Musique](Creation/Musique.md)
+- [Scénario](Creation/Scenario.md)
+- [Différentes mécaniques](Creation/Differentes_mecaniques.md)
+- [Inspirations](Creation/Inspirations.md)
 
 ### 4.3 - [Finances](Finance)
 - [Marketing](Finance/MARKETING.md)
