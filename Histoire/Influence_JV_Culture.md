@@ -34,7 +34,7 @@
 - Ils peuvent utiliser cette **source médiatique** comme un outil qui leur permet d'avoir accès à une connaissance de ce qui les intéresse.
 - L'aspect communautaire des jeux vidéo a aussi eu des implications en ce qui concerne les interactions sociales et les comportements collectifs des consommateurs impliqués dans l'activité.
 
-### **_Aapparition de sous-culture_**
+### **_Apparition de sous-culture_**
 
 - Suite à beaucoup de rassemblements de joueurs, on a remarqué un **cadre social** très important.
 - En effet, il a été remarqué que la communauté des joueurs utilise des **termes spécifiques** à différents jeux.
