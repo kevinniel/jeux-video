@@ -33,7 +33,7 @@ La grande opposition de style dans les jeux à travers leur histoire a toujours 
 
 ### 2D:
 
-Le pixel art était à l'origine la seule manière d'afficher une image, mais avec l'arrivée des résolutions 32 et 64 bits, ce style est resté comme un art à part entière, et des jeux récent décident encore la beauté et la singularité du style.
+Le pixel art était à l'origine la seule manière d'afficher une image, mais avec l'arrivée des résolutions 32 et 64 bits, ce style est resté comme un art à part entière, et des jeux récent choisissent encore la beauté et la singularité du style.
 
     - pixel art:
         - Terraria
