@@ -1,4 +1,4 @@
-### solo:
+# solo:
 
 ##### point and click : 
 Les jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
@@ -33,7 +33,7 @@ Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont u
 ##### course :
 Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou atteindre le point d'arrivée le premier. Il tient généralement le rôle d'un coureur ou d'un pilote de machine.
 
-### en ligne:
+# en ligne:
 
     -jeu de tir
     -moba
