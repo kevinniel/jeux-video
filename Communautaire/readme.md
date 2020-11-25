@@ -10,11 +10,11 @@
 
 
 ## **4.4.3 STREAMING**
-### Pour plus d'information [Here](./Streaming)
+### Pour plus d'information [Here](./Streaming.md)
 
 
 ## **4.4.4 LES POLEMIQUES ACTUELLES ET PREJUGES**
-### Pour plus d'information [Here](./Polémique_actuelles_et_Préjugés.md)
+### Pour plus d'information [Here](./Polémiques_actuelles_et_Préjugés.md)
 
 
 ## **4.4.5 CRITIQUES**

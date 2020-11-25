@@ -40,41 +40,39 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Inspirations](Creation/Regroup/Inspirations.md)
 
 ### 4.3 - [Finances](Finance)
-- marketing
-- sponsoring
-- (partenariat)
-- méthodes de rémunérations (abonnements, boutique in game, etc...)
-- budget des jeux vidéos
+- [Marketing](Finance/MARKETING.md)
+- [Moyens de rémunération](Finance/Moyens_de_remuneration.md)
+- [Budget des jeux vidéo](Finance/Budget_de_jeux_video.md)
 
-### 4.4 - Communautaire
-- communauté
-- évènements
-- streaming
-- les polémiques actuelles / préjugés
-- critiques
+### 4.4 - [Communautaire](Communautaire)
+- [Communauté](Communautaire/Communauté.md)
+- [Evènements](Communautaire/Evènement.md)
+- [Streaming](Communautaire/Streaming.md)
+- [Les polémiques actuelles / préjugés](Communautaire/Polémiques_actuelles_et_Préjugés.md)
+- [Critiques](Communautaire/Critiques.md)
 
-### 4.5 - Histoire
-- TOP / FLOP
-- influence dans la culture
-- l'évolution des modes
-- (evolution dans le temps)
-- évolution des moyens
-- l'histoire du JV, de ces débuts à aujourd'hui
-- prix des meilleurs JV
-- rétrogaming
+### 4.5 - [Histoire](Histoire)
+- [TOP / FLOP](Histoire/Top_flop.md)
+- [Influence dans la culture](Histoire/Influence_JV_Culture.md)
+- [L'Evolution des modes](Histoire/Evolution_des_modes.md)
+- [L'Evolution des moyens](Histoire/Evolution_des_moyens.md)
+- [L'Evolution du jeu vidéo](Histoire/Evolution_JV.md)
+- [Prix des meilleurs JV](Histoire/Prix_des_meilleurs_JV.md)
+- [Rétrogaming](Histoire/Retrogaming.md)
 
-### 4.6 - Acteurs
-- plateformes
-- boites de développement
-- les métiers en lien avec le JV et leurs rôles respectifs
-- les noLife => pourquoi / comment en arriver là, quels sont les pb, les dilemnes, etc....
+### 4.6 - [Acteurs](Acteurs)
+- [Plateformes](Acteurs/plateformes.md)
+- [Studio, Editeur et Constructeur](Acteurs/studioEditeurConstructeur.md)
+- [Les métiers du jeu vidéo](Acteurs/MetiersDuJeuVideo.md)
+- [Les "NoLife"](Acteurs/nolife.md)
 
-### 4.7 - L'humain dans les JV
-- avantages et inconvénients sur le corp humain
-- accessibilité
-- médecine - jeux à utilité thérapeuthique
-- éducation
-- les intentions véhiculées / morales / mise en exergue de problèmes sociétaux
-- façon d'appréhendre le jeu vidéo au quotidien
-- addiction
-- le temps de jeu moyen
+### 4.7 - [L'humain dans les Jeux Vidéo](Humain)
+- [Accessibilité pour les consommateur](Humain/Accessibilite_pour_les_consommateurs.md)
+- [Addiction](Humain/Addiction.md)
+- [Communication vidéoludique](Humain/Communication_videoludique.md)
+- [Conséquences humaines](Humain/Consequences_humaines.md)
+- [Consommation de jeu vidéo](Humain/Consommation_de_jeu_video.md)
+- [Éducation](Humain/Education.md)
+- [Jeux vidéo thérapeuthique](Humain/Jeux_video_therapeutique.md)
+- [Jeux vidéo au quotidien](Humain/Jeux_video_au_quotidien.md)
+- [Réalité Virtuelle](Humain/Realite_Virtuelle.md)
