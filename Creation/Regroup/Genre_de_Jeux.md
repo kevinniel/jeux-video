@@ -70,7 +70,7 @@ Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dan
 Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
 | Subnautica | Green Hell |
 |------------|-----------|
-| ![Subnautica](https://imagehost7.online-image-editor.com/oie_upload/images/25144139Avkn0/25154133Uv3gFDwS.jpg "Subnautica" | ![Green Hell](https://imagehost7.online-image-editor.com/oie_upload/images/2514441719v7J/25154312uYTXLJ5i.jpg "Green Hell") |
+| ![Subnautica](https://imagehost7.online-image-editor.com/oie_upload/images/25144139Avkn0/25154133Uv3gFDwS.jpg "Subnautica") | ![Green Hell](https://imagehost7.online-image-editor.com/oie_upload/images/2514441719v7J/25154312uYTXLJ5i.jpg "Green Hell") |
 ##### idle games :
 Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont un genre de jeux dont la mécanique de jeu principale consiste en de simples actions à l'interactivité volontairement limitée : il peut s'agir de cliquer à répétition ou bien de simplement laisser le jeu s'exécuter, le "joueur" n'ayant alors rien à faire. Le plus souvent, cette mécanique de jeu entraîne une progression monétaire virtuelle permettant d'améliorer certaines caractéristiques afin encore une fois d'accélérer l'acquisition monétaire.
 ##### course :
