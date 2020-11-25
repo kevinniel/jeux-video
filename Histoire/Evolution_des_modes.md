@@ -49,7 +49,7 @@ plusieurs moyens de mettre en place une **partie multijoueur**.
 Le multijoueur est le mode de jeu le plus populaire auprès des joueurs, en effet c'et lui qui compte le plus de joueurs comparé aux autres modes. Il est à l'origine de **nombreuses communautés de joueurs** dont certaines sont ouvertes à tous, d'autres sont limitées à un cercle d'initiés. À l'exemple de certains qui se regroupent en **clans** ou **guildes** pour jouer ensemble ou organiser des tournois. D'autres produisent des **add-ons et des mods**. Les jeux les plus joués sont en grande partie des **FPS** comme par exemple **Call Of Duty**, un **jeu de guerre** où l'on incarne un soldat. 
 
 
-# **Jeu vidéo de coopération**
+# **Jeu vidéo de coopération :**
 
 
 ### **_1. Description_**
