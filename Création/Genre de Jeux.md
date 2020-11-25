@@ -1,10 +1,12 @@
 ### solo:
 
-    -point and click : sont des jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
-    -metroidvania    : Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*,
-                     et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables,
-                     qu'il pourra ensuite parcourir une fois des compétences débloquées.
-                     Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
+    ##### point and click : 
+    Jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
+    ##### metroidvania : 
+    Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*,
+    et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables,
+    qu'il pourra ensuite parcourir une fois des compétences débloquées.
+    Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
     -roguelike      : jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux.
                  Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
     -sandbox        : jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
