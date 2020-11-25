@@ -81,6 +81,8 @@ Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou
 | Trackmania | MarioKart |
 |------------|-----------|
 | ![Trackmania](https://imagehost7.online-image-editor.com/oie_upload/images/25151034ylA4Xlb/25161028B15pNT7a.jpg "Trackmania") | ![MarioKart](https://imagehost7.online-image-editor.com/oie_upload/images/2515930o8kO0/2516921tcUIY0ZM.jpg "Mariokart") |
+##### jeu de rythme :
+à remplir
 # en ligne:
 
 ##### jeu de tir :
@@ -115,8 +117,14 @@ Littéralement *Jeu vidéo de soirée*, un party game est un jeu censé rassembl
 | ![Pummel Party](https://imagehost7.online-image-editor.com/oie_upload/images/25153638ld6G6/251636332iOmUo8V.jpg "Pummel Party") | ![Mario Party](https://imagehost7.online-image-editor.com/oie_upload/images/251538239Kczh0x/25163815Clj0wEAt.jpg "Mario Party") |
 ##### jeu de combat:
 C'est un genre opposant un nombre limité de personnages (deux le plus souvent), où les joueurs s'affrontent directement pour essayer de faire tomber les points de vie du joueur adverse à zéro. Les principes du jeu de combat sont généralement : les opposants ont chacun une barre d'énergie, qui baisse lorsqu'un coup est reçu. Il est possible de parer les coups de l'adversaire, pour annuler ou minimiser les dégâts infligés. Il y a aussi la possibilité d'esquiver sur certains jeux de combat. Certains coups, appelés parfois "Coup Spéciaux", nécessitent une manipulation donnée effectuée en un certain timing (généralement une combinaison de touches, ou un mélange touches/joystick lorsqu'il est présent). Les matchs sont divisé en *rounds* définis à l'avance (dans la plupart des cas 2 *rounds* gagnant).
+| Streetfighter | Smash Bros |
+|---------------|------------|
+| ![Streetfighter](https://media.gqmagazine.fr/photos/5b990ba9930b710011048dec/master/pass/que_vaut_street_fighter_30th_anniversary_collection___8482.jpeg "Streetfighter") | ![Smash Bros](https://imagehost7.online-image-editor.com/oie_upload/images/25154553u441Ls07QT/25164529GpQkMKit.jpg "Smash Bros") |
 ##### battle royale:
 Le terme Battle Royale fait référence à un genre mêlant jeu de survie et jeu de tir, basé sur la mécanique du *last man standing* (dernier joueur survivant). A la différence des jeux de tir, le Battle Royale ne permet pas de réapparition du joueur à sa mort; le but pour le joueur n'est donc pas d'éliminer le maximum de joueurs adverses, mais de rester le plus longtemps en vie dans la partie. Pour forcer les joueurs à se rencontrer en fin de partie, la mécanique de zone est suvent utilisée: absente en début de partie, la zone, matérialisée de différentes façon (gaz toxique, bouclier énergétique...), encercle petit à petit la zone de jeu, pour se refermer sur un point aléatoire de la carte, inconnu des joueurs. Chaque joueur doit prévoir ses déplacements en fonction de la zone, car être hors de la zone occasionne des dégats pouvant aller jusqu'à tuer le joueur. Les joueurs obtiennent leurs armes grâces aux *loots* : chaque joueur ramasse (*loot*) ses armes, armures, kits de soins et explosifs, dispersés au sol un peu partout sur le terrain de jeu. Cette phase s'effecture notamment au tout début de la partie, car les joueurs débutent généralement sans armes.
 
 ##### coop :
 Les jeux coopératif, également abrégé **coop** ou **co-op**, est un genre dans lequel les joueurs doivent unir leurs actions dans un but commun, généralement pour affronter des personnages non-joueurs. Il permet aux joueurs de s'entraider : ils peuvent se passer des armes, se soigner, faire un tir de couverture ou encore, par exemple, monter un obstacle trop haut pour une personne en faisant une courte-échelle. c'est l'opposé des modes multijoueurs compétitifs.
+
+##### MMORPG :
+à remplir
