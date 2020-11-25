@@ -8,36 +8,36 @@
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
-- [Jeu vidéo à un joueur](Evolution_des_modes.md#jeu-vidéo-à-un-joueur)
+- [Jeu vidéo à un joueur](Evolution_des_modes.md#jeu-video-a-un-joueur)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo à deux joueurs](Evolution_des_modes.md#jeu-vidéo-à-deux-joueurs)
+- [Jeu vidéo à deux joueurs](Evolution_des_modes.md#jeu-video-a-deux-joueurs)
   - *Description*
   - *Types de jeux*
 
-- [Jeu vidéo en multijoueur](Evolution_des_modes.md#jeu-vidéo-en-multijoueur)
-  - *Description*
-  - *Historique*
-  - *Types de jeux*
-
-- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-en-coopération)
+- [Jeu vidéo en multijoueur](Evolution_des_modes.md#jeu-video-en-multijoueur)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo massivement multijoueur](Evolution_des_modes.md#jeu-vidéo-massivement-multijoueur)
+- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-video-en-cooperation)
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo d'escarmouche](Evolution_des_modes.md#jeu-vidéo-d'escarmouche)
+- [Jeu vidéo massivement multijoueur](Evolution_des_modes.md#jeu-video-massivement-multijoueur)
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
+
+- [Jeu vidéo d'escarmouche](Evolution_des_modes.md#jeu-video-d'escarmouche)
   - *Description*
   - *Types de jeux*
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
-- [Le marché des consoles](Evolution_des_moyens.md#le-marché-des-consoles)
+- [Le marché des consoles](Evolution_des_moyens.md#le-marche-des-consoles)
   - *Consoles de salon*
   - *Consoles portables*
   - *Téléphones mobiles*
@@ -47,7 +47,7 @@
   - Distribution physique
   - Distribution dématérialisée 
 
-- [Modèles de revenus](Evolution_des_moyens.md#modèles-de-revenus)
+- [Modèles de revenus](Evolution_des_moyens.md#modeles-de-revenus)
   - *Vente lors du téléchargement*
   - *Abonnement*
   - *Publicité* 
@@ -61,7 +61,7 @@
 - [Apparition de sous-culture](Influence_JV_Culture.md#apparition-de-sous-culture)
 
 ## **_5_ -** [Prix des meilleurs jeux vidéo](Prix_des_meilleurs_JV.md)
-- **Prix basés sur les jeux vidéo les plus vendus**[Prix basés sur les jeux vidéo les plus vendus](Prix_des_meilleurs_JV.md#prix-basés-sur-les-jeux-vidéo-les-plus-vendus)
+- [Prix basés sur les jeux vidéo les plus vendus](Prix_des_meilleurs_JV.md#prix-basés-sur-les-jeux-vidéo-les-plus-vendus)
 
 ## **_6_ -** [Retrogaming](Retrogaming.md)
 - [Introduction](Retrogaming.md#qu'est-ce-que-c'est-?)
@@ -69,7 +69,7 @@
 - [Démocratisation](Retrogaming.md#qui-joue-à-ces-jeux-vidéo-?)
 - [Populaire en 2020 ?](Retrogaming.md#mais-est-ce-que-ça-devient-populaire-?)
 
-## **_7_ -** [Top flop](Top_flop.md)
+## **_7_ -** [Top/Flop](Top_flop.md)
 - [Top](Top_flop.md#top)
 - [Flop](Top_flop.md#flop)
 - [Facteurs de popularité](Top_flop.md#les-différents-facteurs)
