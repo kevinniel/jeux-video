@@ -12,7 +12,7 @@ L'utilisation du markdown est obligatoire, vous pourrez utiliser cette documenta
 
 Chaque catégorie de recherche devra comprendre un dossier qui contiendra l'ensemble des informations relatives audit sujet. Ces dossiers devront être créés par les équipes qui gèrent les catégories.
 
-Le plan n'est pas figé, et chaque groupe est libre de le modifié, du moins pour les sous parties de chaque catégorie.
+Le plan n'est pas figé, et chaque groupe est libre de le modifier, du moins pour les sous parties de chaque catégorie.
 
 A chaque fois que le plan est modifié par une équipe, elle devra le répercuter sur le plan ci-dessous.
 
@@ -21,7 +21,7 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 ## Une fois le travail terminé (a faire pour la prochaine fois)
 1. Terminer vos parties respectives
 2. Relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
-3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corrigé le problème soulevé.
+3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corrigé le problème soulevé pour fermer automatiquement l'issue correspondante. (le message doit commencé par le mot Fix. Par exemple : "Fir #19" fermera automatiquement l'issue numéro 19)
 
 ## Plan
 
