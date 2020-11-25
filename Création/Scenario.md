@@ -1,6 +1,6 @@
-**Scénario :**
+# Scénario :
 	
-**Du point de vue du scénariste :**
+## Du point de vue du scénariste :
 
 -C'est avec le scénario que l'on créer les personnages du jeu (le héros, ces partenaire, le méchant ainsi que les pnj)
 
@@ -8,7 +8,7 @@
 
 -Pour s'aider un scénariste va souvent utiliser un archétype (héros, démon, elfe,...), car cela apporte des critère de base au personnage.
 
-**Les différentes étapes pour faire un scénario :**
+## Les différentes étapes pour faire un scénario :
 
 	1. Définir les personnages principaux, créer le monde et une intrigue générale.
 	
@@ -25,13 +25,15 @@
 	
 	6. Ecrire le script à l'aide de tout ce qui a été fait lors des précédentes étapes.
 
--Dans un jeu vidéo va aussi parfois devoir s'adapter au gameplay. Par exemple si le personnage principal utilise un grappin on peut s'attendre à retrouver
+## Le scénario par rapport au jeu :
+
+-Dans un jeu vidéo il va aussi parfois devoir s'adapter au gameplay. Par exemple si le personnage principal utilise un grappin on peut s'attendre à retrouver
  sur la map de grands batiments ou des montagnes pour un gameplay "aérien".
 
 -Selon les jeux le scénario à un place plus ou moins importante, certain vont vouloir développer un maximum leur scénario quand d'autre ne se focaliseront
- que sur le gameplay par exemple. Le scénario n'est donc pas essentiel.
+ que sur le gameplay . Le scénario n'est donc pas essentiel selon le genre de jeu.
 
-**Les scénarios linéaire et non linéaire :**
+## Les scénarios linéaire et non linéaire :
 
 -scénario linéaire : scénario classique avec une suite chronologique, un événement se produit et par lien de cause à effet, un autre événement se produira.
 Le lien de causualité est un bon moyen de mise en oeuvre d'une histoire, et l'enchaînement logique d'événements est un bon outil pour développer l'arc dramatique d'un personnage. 
