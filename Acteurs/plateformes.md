@@ -62,6 +62,7 @@ Le service vend des jeux classiques sur PC, mis à jour afin de fonctionner sans
 À l'opposé de la plupart des plates-formes de distribution de contenu en ligne, comme Steam, GOG n'utilise aucun système de gestion des droits numériques (DRM). De même les utilisateurs n'ont pas besoin d'utiliser de logiciel client particulier pour télécharger et exécuter leurs jeux, même si un gestionnaire de téléchargement optionnel est disponible.
 Depuis les années 2010, la plate-forme s'oriente ostensiblement vers la scène du jeu vidéo indépendant en proposant régulièrement des titres issus de cette mouvance.
 
-    Il existe aussi des plateformes de distribution de jeux-vidéos pour console.
-    Par exemple nous avons : Uplay, playstation +, Epic Games, etc...
-    Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...
+*Il existe aussi des plateformes de distribution de jeux-vidéos pour console.*
+*Par exemple nous avons : Uplay, playstation +, Epic Games, etc...*
+*Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus*
+*sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...*
