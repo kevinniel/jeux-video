@@ -8,33 +8,33 @@
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
-- Un joueur
-  - Description
-  - Historique
-  - Types de jeux
+- **Un joueur**
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
 
-- Deux joueurs
-  - Description
-  - Types de jeux
+- **Deux joueurs**
+  - *Description*
+  - *Types de jeux*
 
-- Multijoueur
-  - Description
-  - Historique
-  - Types de jeux
+- **Multijoueur**
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
 
-- Jeu en équipe
-  - Description
-  - Historique
-  - Types de jeux
+- **Jeu en équipe**
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
 
-- Massivement multijoueur
-  - Description
-  - Historique
-  - Types de jeux
+- **Massivement multijoueur**
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
 
-- Escarmouche
-  - Description
-  - Types de jeux
+- **Escarmouche**
+  - *Description*
+  - *Types de jeux*
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
 - 
