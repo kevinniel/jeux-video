@@ -63,6 +63,9 @@ Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et d
 | ![Stellaris](https://imagehost7.online-image-editor.com/oie_upload/images/25143127xja4hae/25153122bGX2Z3W3.jpg "Stellaris") | ![Civilization VI](https://imagehost7.online-image-editor.com/oie_upload/images/25143314km0cdTSQT8/25153310zwQJBIy0.jpg "Civilization VI") |
 ##### horreur :
 Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
+| Alien Isolation | Amnesia: A Machine for Pigs |
+|-----------------|---------|
+| ![Alien Isolation](https://imagehost7.online-image-editor.com/oie_upload/images/25143514U188ZD2PI/25153587lD4igUJ.jpg "Alien Isolation") | ![Amnesia](https://imagehost7.online-image-editor.com/oie_upload/images/25143838p2b8ZbD8/25153832GQaLRbfU.jpg "Amnesia") |
 ##### survival :
 Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
 ##### idle games :
