@@ -1,7 +1,7 @@
 # **Jeux vidéo, l'influence dans la culture :**
 
 
-### **_Intro_**
+### **_Introduction_**
 
 - Considéré par beaucoup comme une sous-culture. 
 - La popularité des ordinateurs et des jeux vidéos est en hausse depuis les **années 80**.
@@ -14,7 +14,7 @@
 - En **2016**, l'âge moyen des joueurs de jeux vidéo était de **35 ans**, un âge qui augmente lentement puisque les personnes qui, durant leur enfance ont joué aux premiers jeux d'arcades, continuent à jouer aujourd'hui.
 - La répartition par sexe des joueurs est en cours d'équilibrage depuis **10 ans** : **58%** d'hommes et **42%** de femmes en **2011** contre **54%** d'hommes et **46%** de femmes en **2019**.
 
-### **_Social ou Antisocial ?_**
+### **_Social ou Antisocial_**
 
 - Beaucoup de débats par de grands théoriciens tournent sur la question de si le jeu vidéo en soi est une **activité sociale** ou **antisociale** ?
 - Certains trouvent les jeux de plus en plus sociaux, grâce a l'émergence du **jeu en ligne** et au **moyen de communication** de plus en plus simple. 
