@@ -2,6 +2,7 @@
 ## Médecine :
 
 L'addiction aux jeux vidéo a été reconnue depuis Juin 2018 par l'OMS (Organisation mondiale de la Santé), à ce moment là, on comptabilisait 2,5 milliards de personnes jouant aux jeux vidéo. Cette addiction est d'ailleurs classée aux même rangs que les addictions à la drogue.
+Vous pouvez consulter cette [thèse](https://pepite-depot.univ-lille2.fr/nuxeo/site/esupversions/8bcfc353-4dd0-41bf-a3b3-a39fb230fbae#:~:text=L'%C3%A9tude%20a%20pour%20objectif,prise%20comme%20r%C3%A9f%C3%A9rence%20(15).) venant de la Faculté de Médecine Henri Warembourg.
 
 ## Comportement extrême :
 
