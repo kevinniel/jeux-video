@@ -56,9 +56,12 @@ Lorsqu’un compte est créé, celui-ci permet de se connecter également au for
 Un joueur peut créer autant de comptes (anonymes) qu’il le désire sur les différents serveurs (zones géographiques), s’il le désire, il peut également lier une adresse électronique à chacun de ses comptes, ce qui lui permet d’accéder à certaines options telles la récupération de mot de passe en cas de perte, il a également la possibilité de recevoir et d’envoyer des courriels à d’autres joueurs par l’intermédiaire de la plate-forme de jeu, sans pour autant révéler aux autres joueurs la moindre adresse électronique, ni connaître la leur ; néanmoins cette option nécessite d’une part l’enregistrement d’une adresse électronique valide par chaque joueur désirant contacter et être joignable par d’autres joueurs, mais également d’avoir activé une option autorisant aux « amis mutuels » de se contacter via la commande.
 
 ## GOG
-    GOG.com (anciennement Good Old Games) est un service commercial de distribution numérique de jeux vidéo sans DRM en ligne, mis en place par l'éditeur polonais CD Projekt.
+    GOG.com (anciennement Good Old Games) est un service commercial de distribution numérique de jeux vidéo sans DRM en ligne, 
+    mis en place par l'éditeur polonais CD Projekt.
 Le service vend des jeux classiques sur PC, mis à jour afin de fonctionner sans encombre sous les dernières versions de Windows. Certains jeux sont également compatibles avec OS X et Linux.
 À l'opposé de la plupart des plates-formes de distribution de contenu en ligne, comme Steam, GOG n'utilise aucun système de gestion des droits numériques (DRM). De même les utilisateurs n'ont pas besoin d'utiliser de logiciel client particulier pour télécharger et exécuter leurs jeux, même si un gestionnaire de téléchargement optionnel est disponible.
 Depuis les années 2010, la plate-forme s'oriente ostensiblement vers la scène du jeu vidéo indépendant en proposant régulièrement des titres issus de cette mouvance.
 
-# Il existe aussi des plateformes de distribution de jeux-vidéos pour console.
+*Il existe aussi des plateformes de distribution de jeux-vidéos pour console.*
+Par exemple nous avons : Uplay, Activision, playstation +, Epic Games, etc...
+Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...
