@@ -2,12 +2,24 @@
 
 ##### point and click : 
 Les jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
+| The Dig | Gabriel Knight |
+|---------|----------------|
+| ![The Dig](https://classicreload.com/sites/default/files/dosx-the-dig-screenshot.png "The Dig")| ![Gabriel Knight](https://1.bp.blogspot.com/-FzFkQYOAY4A/VtZQd_hSS-I/AAAAAAAAFz4/reMsaU8cdfE/s1600/GK%2BVoodoo%2BMuseum%2BOriginal.png "Gabriel Knight")
 ##### metroidvania : 
 Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables, qu'il pourra ensuite parcourir une fois des compétences débloquées. Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
+| Hollow Knight | Blasphemous |
+|---------------|-------------|
+|![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://imagehost7.online-image-editor.com/oie_upload/images/25131224fo5jt5Chy/25141153m7cN9CQ0.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
+| The binding of Isaac | Hades |
+|----------------------|-------|
+|![The binding of Isaac](https://imagehost7.online-image-editor.com/oie_upload/images/25131531J0FNOb/251415221JVraAzf.jpg "The binding of Isaac")| ![Hades](https://imagehost7.online-image-editor.com/oie_upload/images/2513163375Nus08XxX/25141626cLQ4C5TM.jpg "Hades")|
 ##### sandbox : 
 Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
+| Factorio | Minecraft |
+|----------|-----------|
+|![Factorio](https://imagehost7.online-image-editor.com/oie_upload/images/25132449GJyD5eX/25142142CU2rKS1e.jpg "Factorio")| ![Minecraft](https://imagehost7.online-image-editor.com/oie_upload/images/25132614Ka5A4n57Y/2514263XJloS7cn.jpg "Minecraft")|
 ##### rpg : 
 Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un ou plusieurs personnage qu'il fera évolué au cours des quêtes. Les rpg contiennent généralement un univers vaste et une laissent une grande liberté de choix et d'actions aux joueurs
 ##### jrpg :
@@ -49,6 +61,8 @@ Aussi connu sous le nom *Auto Chess*, l'auto battler est un sous-genre des jeux 
 Littéralement *Jeu vidéo de soirée*, un party game est un jeu censé rassembler de nombreux joueurs autour d'un concept simple, amusant et accessible. Généralement le party game est composé de plusieurs sous-parties proposant des phases de mini-jeux en alternance, où les différents joueurs s'affrontent directement ou indirectement. Le genre a pour but de mélanger les joueurs avec des niveaux parfois très disparates, c'est pourquoi l'élimination d'un joueur est rarement existente dans ces jeux.
 ##### jeu de combat:
 C'est un genre opposant un nombre limité de personnages (deux le plus souvent), où les joueurs s'affrontent directement pour essayer de faire tomber les points de vie du joueur adverse à zéro. Les principes du jeu de combat sont généralement : les opposants ont chacun une barre d'énergie, qui baisse lorsqu'un coup est reçu. Il est possible de parer les coups de l'adversaire, pour annuler ou minimiser les dégâts infligés. Il y a aussi la possibilité d'esquiver sur certains jeux de combat. Certains coups, appelés parfois "Coup Spéciaux", nécessitent une manipulation donnée effectuée en un certain timing (généralement une combinaison de touches, ou un mélange touches/joystick lorsqu'il est présent). Les matchs sont divisé en *rounds* définis à l'avance (dans la plupart des cas 2 *rounds* gagnant).
-##### battleroyale:
+##### battle royale:
+Le terme Battle Royale fait référence à un genre mêlant jeu de survie et jeu de tir, basé sur la mécanique du *last man standing* (dernier joueur survivant). A la différence des jeux de tir, le Battle Royale ne permet pas de réapparition du joueur à sa mort; le but pour le joueur n'est donc pas d'éliminer le maximum de joueurs adverses, mais de rester le plus longtemps en vie dans la partie. Pour forcer les joueurs à se rencontrer en fin de partie, la mécanique de zone est suvent utilisée: absente en début de partie, la zone, matérialisée de différentes façon (gaz toxique, bouclier énergétique...), encercle petit à petit la zone de jeu, pour se refermer sur un point aléatoire de la carte, inconnu des joueurs. Chaque joueur doit prévoir ses déplacements en fonction de la zone, car être hors de la zone occasionne des dégats pouvant aller jusqu'à tuer le joueur. Les joueurs obtiennent leurs armes grâces aux *loots* : chaque joueur ramasse (*loot*) ses armes, armures, kits de soins et explosifs, dispersés au sol un peu partout sur le terrain de jeu. Cette phase s'effecture notamment au tout début de la partie, car les joueurs débutent généralement sans armes.
 
-    -coop
+##### coop :
+Les jeux coopératif, également abrégé **coop** ou **co-op**, est un genre dans lequel les joueurs doivent unir leurs actions dans un but commun, généralement pour affronter des personnages non-joueurs. Il permet aux joueurs de s'entraider : ils peuvent se passer des armes, se soigner, faire un tir de couverture ou encore, par exemple, monter un obstacle trop haut pour une personne en faisant une courte-échelle. c'est l'opposé des modes multijoueurs compétitifs.

@@ -48,7 +48,7 @@ Il existe un éventail très large dans les coûts de développement des jeux vi
 De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif d'Internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux *«Online»*.  
 
 | _Chronologie et durée de commercialisation des consoles de jeu :_ |
-| ----------------------------------------------------------------- |
+| :---------------------------------------------------------------: |
 | ![Image Chronologie](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)     |
 
 
