@@ -2,9 +2,9 @@
 
 ## **_1_ -** [Evolution des jeux vidéos](Evolution_JV.md)
 
-- [Consoles de salon & bornes d'arcade](Evolution_JV.md#consoles-de-salon-bornes-darcade-)
+- [Consoles de salon & bornes d'arcade](Evolution_JV.md#consoles-de-salon--bornes-darcade-)
 
-- [Premiers jeux PC / Avenir avec Steam & Co](Evolution_JV.md#pc-steam-co-)
+- [Premiers jeux PC / Avenir avec Steam & Co](Evolution_JV.md#pc---steam--co-)
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
@@ -43,11 +43,11 @@
   - *Téléphones mobiles*
   - *PC*
 
-- [Types de distribution](Evolution_des_moyens.md#types-de-distribution-)
+- [Types de distribution](Evolution_des_moyens.md#ii-types-de-distribution-)
   - Distribution physique
   - Distribution dématérialisée 
 
-- [Modèles de revenus](Evolution_des_moyens.md#modèles-de-revenus-)
+- [Modèles de revenus](Evolution_des_moyens.md#iii-modèles-de-revenus-)
   - *Vente lors du téléchargement*
   - *Abonnement*
   - *Publicité* 
@@ -58,10 +58,10 @@
 - [Démographie](Influence_JV_Culture.md#démographie)
 - [Social ou Antisocial ?](Influence_JV_Culture.md#social-ou-antisocial)
 - [Implications sociales des jeux vidéo](Influence_JV_Culture.md#implications-sociales-des-jeux-vidéo)
-- [Apparition de sous-culture](Influence_JV_Culture.md#apparition-de-sousculture)
+- [Apparition de sous-culture](Influence_JV_Culture.md#apparition-de-sous-culture)
 
 ## **_5_ -** [Prix des meilleurs jeux vidéo](Prix_des_meilleurs_JV.md)
-- [Prix basés sur les jeux vidéo les plus vendus](Prix_des_meilleurs_JV.md#prix-basés-sur-les-jeux-vidéo-les-plus-vendus-)
+- *Prix basés sur les jeux vidéo les plus vendus*
 
 ## **_6_ -** [Retrogaming](Retrogaming.md)
 - [Introduction](Retrogaming.md#introduction)
