@@ -48,6 +48,9 @@ Les jeux qui reproduisent une activité ou une action dans divers environnements
 | ![Simcity](https://imagehost7.online-image-editor.com/oie_upload/images/251418215Q3i2b11l/25151816qO4GtQKg.jpg "Simcity") | ![Flight Simulator](https://pic.clubic.com/v1/images/1747500/raw?width=1200&fit=max&hash=34e9f216b14790ab42d416e6f2b6786208ecbd69 "Flight Simulator") |
 ##### stratégie :
 Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
+| FrostPunk | NorthGard |
+|-----------|-----------|
+| ![FrostPunk](https://imagehost7.online-image-editor.com/oie_upload/images/251425192j8Ro1/25152515XAdsrNGx.jpg "FrostPunk") | ![Northgard](https://imagehost7.online-image-editor.com/oie_upload/images/25142615cnSrvfBL/25152610KKwJJSFU.jpg "Northgard") |
 ##### plates-formes :
 Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
 ##### 4X:
