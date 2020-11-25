@@ -1,13 +1,10 @@
 ## Sommaire
 
 ### Marketing
-
-https://github.com/kevinniel/jeux-video/blob/master/Finance/MARKETING.md
+### Pour plus d'information [Here](./MARKETING.md)
 
 ### Finance des jeux vidéo
-
-https://github.com/kevinniel/jeux-video/blob/master/Finance/Finance%20jeux%20video.md
+### Pour plus d'information [Here](./Moyens_de_remuneration.md)
 
 ### Budget des jeux vidéo
-
-https://github.com/kevinniel/jeux-video/blob/master/Finance/Budget%20de%20jeux%20video.md
+### Pour plus d'information [Here](./Budget_de_jeux_video.md)
