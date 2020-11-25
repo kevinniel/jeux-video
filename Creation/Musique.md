@@ -57,12 +57,16 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 - *[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
 
 ## JEUX DE SPORT/COURSES
-Forza Motorsport, Horizon, NeedForSpeed, etc ...
+Le problème de la musique dans les jeux de sport vient du fait qu’elle n’est bien souvent que de deux types. Soit elle est créée de toutes pièces pour le jeu et elle est digne d’une musique d’ascenseur de mauvaise qualité – c’est le cas de nombreux jeux de golf –, soit elle reprend les hits du moment et n’a strictement aucun rapport avec ce qu’il se passe à l’écran. Tout dépend du niveau de solvabilité de l’éditeur et du budget alloué. Et encore, même avec un portefeuille bien rempli, on a eu droit à une bande-son de FIFA19 remplie d’artistes quasiment inconnus du grand public (du moins en Europe), c’est dire si la pertinence est faible1.
+
+Très souvent résumée à des beats basiques et à des lignes de chant dont la profondeur ne nous frappe pas vraiment lors d’un lancer-franc, la musique des jeux vidéo de sport est le parent pauvre de ce médium pourtant si riche en teneur artistique.
+Cependant depuis quelques années maintenant (depuis la première Xbox et son disque dur salvateur), les consoles permettent d’utiliser sa propre musique dans certains jeux… et spécifiquement les jeux de sport.
+
 ## JEUX D'AVENTURE/RPG
 Ici je vais vous parler de **CyberPunk2077**
 ![alt text][cyberpunk2077]
 
-[cyberpunk2077]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/cyberpunk2077.png "alt text"
+[cyberpunk2077]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/cyberpunk2077.jpg "alt text"
 
 Le jeu d'action/RPG devrait sortir le *10 Décembre 2020*. C'est un **OpenWorld Next Generation**, un jeu sortant sur les nouvelles consoles NextGen tels que Xbox Series x ou Series S et Playstation 5. Tu peux retrouver le jeu sur PC aussi.
 
