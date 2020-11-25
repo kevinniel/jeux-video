@@ -12,4 +12,4 @@ On incarne un douanier dans un pays totalitaire et on doit décider quelles sont
 
 Le jeu vidéo peut alors être utilisé pour sensibiliser à des causes ou changer le comportement du joueur dans la vie réelle.
 
-Le jeu vidéo porte un message, tant par les créateurs de ce média qui parle à travers de ce jeu, que par les joueurs qui font des choix et qui inscrivent leur être dans la narration, sans oublier le jeu vidéo lui même qui à une thématique, un objectif, un univers plus ou moins complexe.
+Le jeu vidéo porte un message, tant par les créateurs de ce média qui parle à travers ce jeu, que par les joueurs qui font des choix et qui inscrivent leur être dans la narration, sans oublier le jeu vidéo lui même qui à une thématique, un objectif, un univers plus ou moins complexe.

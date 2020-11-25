@@ -32,11 +32,11 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Langages de programmation](Technique/Language_de_Programmation.md)
 
 ### 4.2 - [Création](Creation)
-- [Différents genres](Creation/Regroup/differents_genres.md)
-- [Style graphique](Creation/Regroup/style_graphique.md)
+- [Genre de jeux](Creation/Regroup/Genre_de_Jeux.md)
+- [Style graphique](Creation/Regroup/Styles_graphiques.md)
 - [Musique](Creation/Regroup/Musique.md)
 - [Scénario](Creation/Regroup/Scenario.md)
-- [Différentes mécaniques](Creation/Regroup/Differentes_mecaniques)
+- [Différentes mécaniques](Creation/Regroup/Differentes_mecaniques.md)
 - [Inspirations](Creation/Regroup/Inspirations.md)
 
 ### 4.3 - [Finances](Finance)

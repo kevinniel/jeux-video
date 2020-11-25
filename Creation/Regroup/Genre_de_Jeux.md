@@ -17,6 +17,9 @@ Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des
 |![The binding of Isaac](https://imagehost7.online-image-editor.com/oie_upload/images/25131531J0FNOb/251415221JVraAzf.jpg "The binding of Isaac")| ![Hades](https://imagehost7.online-image-editor.com/oie_upload/images/2513163375Nus08XxX/25141626cLQ4C5TM.jpg "Hades")|
 ##### sandbox : 
 Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
+| Factorio | Minecraft |
+|----------|-----------|
+|![Factorio](https://imagehost7.online-image-editor.com/oie_upload/images/25132449GJyD5eX/25142142CU2rKS1e.jpg "Factorio")| ![Minecraft](https://imagehost7.online-image-editor.com/oie_upload/images/25132614Ka5A4n57Y/2514263XJloS7cn.jpg "Minecraft")|
 ##### rpg : 
 Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un ou plusieurs personnage qu'il fera évolué au cours des quêtes. Les rpg contiennent généralement un univers vaste et une laissent une grande liberté de choix et d'actions aux joueurs
 ##### jrpg :
