@@ -1,6 +1,8 @@
 
  # TOP / FLOP 
-   L'industrie du jeu vidéo a connu plusieurs très grands succès ainsi que de très grands échecs menant parfois à de lourdes conséquences comme nous allons le voir . Dans un premier temps nous allons analyser les plus grands succès . ![Capture](https://user-images.githubusercontent.com/73218277/97174080-e08d8580-1791-11eb-8797-4a0f4e14e1df.PNG).
+   L'industrie du jeu vidéo a connu plusieurs très grands succès ainsi que de très grands échecs menant parfois à de lourdes conséquences comme nous allons le voir . Dans un premier temps nous allons analyser les plus grands succès . ![Capture](https://user-images.githubusercontent.com/73218277/97174080-e08d8580-1791-11eb-8797-4a0f4e14e1df.PNG)
+   
+   
 Comme nous pouvons le voir sur ce tableau ci-dessus à la première place se trouve minecraft (version mobile incluse)avec environ 200 000 000 d'exemplaire vendu soit plus de 1,5 fois que GTA 5 qui se situe à la seconde place et 2 fois plus d’exemplaire que Tetris à la troisième place .Il faut prendre en compte que cette liste n’inclut pas les jeux gratuits comme fortnite qui dépasse les 350 millions de téléchargements .En observant la liste nous pouvons voir que tous les jeux ont une chose en commun : ils sont soit multi plateformes soit ils sont publié par Nintendo (24/50) à l'exception de Kinect Aventures! vendu en même temps que la kinect et la xbox 360 ainsi que The last of us , exclusivité PS3/PS4 .Le jeu s’étend le mieux vendu sur une seul platforme est wii sports avec 83 millions d’exemplaires vendu , cependant le nombre de vente de certains jeu peut être (inflation?) du au faite qu’il soit vendu en même temps qu’une console comme avec wii sport ou kinect adventures! .En terme de revenu par franchise les trois plus grandes sont mario a la première place avec plus de 32 milliards de revenue en second pokémon avec presque 20 milliards et finalement en troisième call of duty avec 18 milliards . 
 
 
