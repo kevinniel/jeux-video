@@ -1,6 +1,13 @@
 
 # Le Réel et le Virtuel
 
+### Réalité virtuelle qu'est ce que c'est ?
+L'expression « réalité virtuelle » (ou multimédia immersif ou réalité simulée par ordinateur) renvoie typiquement à une technologie informatique qui simule la présence physique d'un utilisateur dans un environnement artificiellement généré par des logiciels.
+
+### D'ou est ce que ca vien et quand ca a été crée ?
+
+La première expérience de réalité virtuelle voit le jour dans les années 1950 avec le Sensorama. Grâce à des procédés mécaniques, ce prototype reproduisait une expérience de théâtre en sollicitant les sens du spectateur. Vers 1966, les premiers simulateurs de vol dédiés à la formation des pilotes sont développés.
+
 ### L'évolution des moeurs
 
 L'évolution des jeux vidéo entraîne plusieurs problèmes.
