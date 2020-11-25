@@ -8,7 +8,7 @@
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
-- **Jeu vidéo à un joueur**
+- [Jeu vidéo à un joueur](Evolution_des_modes.md#jeu-vidéo-à-un-joueur)
   - *Description*
   - *Historique*
   - *Types de jeux*
