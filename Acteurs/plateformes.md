@@ -1,22 +1,22 @@
 # Plateformes de jeux-vidéo
-    Il existe de nombreuses plateformes proposant l'accès aux jeux-vidéos, ce sont des distributeurs de jeux-vidéos.
-La plupart sont par ailleurs présentes sur la plateforme PC car en effet la majorité des jeux-vidéos sont sur ordinateur de nos jours.
+    Il existe de nombreuses plateformes proposant l'accès aux jeux-vidéo, ce sont des distributeurs de jeux-vidéo.
+La plupart sont par ailleurs présentes sur la plateforme PC car en effet la majorité des jeux-vidéo sont sur ordinateur de nos jours.
 Les plus populaires sont : Steam, Uplay, Origin, Epic Games, Battle.net et Gog
 
 ## Steam
-    Steam, la plateforme de jeux-vidéos la plus connue sur ordinateur.
-Elle fut créée le 12 septembre 2003, permettant aux joueurs d'acheter des jeux-vidéos voire du contenu présent dans les jeux-vidéos.
-Steam permet également aux jeux-vidéos de se mettre à jour et de gérer leur partie multijoueur.
+    Steam, la plateforme de jeux-vidéo la plus connue sur ordinateur.
+Elle fut créée le 12 septembre 2003, permettant aux joueurs d'acheter des jeux-vidéo voire du contenu présent dans les jeux-vidéo.
+Steam permet également aux jeux-vidéo de se mettre à jour et de gérer leur partie multijoueur.
 Il y'a une réelle communauté sur Steam. Il y'a un système de niveau et il peut-être augmenté grâce aux badges qui sont payant mais ceux-ci peuvent être obtenus
-en jouant aux jeux-vidéos présent sur cette plateforme. Mais ils peuvent être aussi échanger entre les joueurs, Steam est d'ailleurs connut pour son système d'échange d'items.
+en jouant aux jeux-vidéo présent sur cette plateforme. Mais ils peuvent être aussi échanger entre les joueurs, Steam est d'ailleurs connut pour son système d'échange d'items.
 Il y'a un réel marché qui est aussi présent sur steam, en effet nous pouvons acheter et vendre des items que nous possédons pour gagner de l'argent MAIS cet argent ne peut pas être extrait de steam, en effet cet argent est versé directement sur notre compte steam et nous ne pouvons donc uniquement acheter des jeux steam ou bien tout simplement acheter des items sur le marché.
 
 ## Uplay
-    Uplay est une plateforme orientée jeux-vidéos créée par Ubisoft, le 12 mars 1986.
-Et c'est le 3 juillet 2012 que Uplay fut créé par Ubisoft dans le but de réunir tous les jeux-vidéos d'Ubisoft.
+    Uplay est une plateforme orientée jeux-vidéo créée par Ubisoft, le 12 mars 1986.
+Et c'est le 3 juillet 2012 que Uplay fut créé par Ubisoft dans le but de réunir tous les jeux-vidéo d'Ubisoft.
 Elle originaire du Morbihan et tire par ailleurs son nom des initial de : Union des Bretons Indépendants. Mais c'est ce que tout le monde croyait, en effet le PDG d'Ubisoft a fait une interview disant qu'Ubisoft voulait tout simplement dire : Ubi pour Ubiquité (partout) parce qu'il voulait que tous les logiciels d'Ubisoft soient disponibles partout dans le monde.
-A la base Ubisoft ne vendait uniquement des jeux-vidéos mais il n'en produisait pas.
-Ensuite avec l'argent qu'ils ont récoltés en distribuant des jeux-vidéos, ils vont pouvoir développer meur premier 
+A la base Ubisoft ne vendait uniquement des jeux-vidéo mais il n'en produisait pas.
+Ensuite avec l'argent qu'ils ont récoltés en distribuant des jeux-vidéo, ils vont pouvoir développer meur premier 
 jeux-vidéo dans leur propre studio. Il s'appelle "Zombi" et va conquérir les fans. Et ils ont ensuite aussi réaliser reyman.
 Ils devaient ensuite développer un jeux-vidéo qui se nomma Assassin Prince of persia qui jouait le rôle du garde du corps de ce dernier.
 Mais ils se sont dit que jouer un rôle secondaire n'était pas très prometteur alors ils ont renommer ce jeu en : "Assassin's creed".
@@ -30,7 +30,7 @@ Origin a des fonctionnalités sociales comme la gestion des profils, de discussi
 
 L'utilisateur d'Origin est identifié par son compte Origin unifié, qui remplace le compte EA et peut être supprimé après 24 mois d'inactivité.
 
-Voici tous les jeux-vidéos présents sur Origin : 
+Voici tous les jeux-vidéo présents sur Origin : 
 (Alice: Madness Returns, Anthem, Apex Legends, A Way Out, Battlefield 3, Battlefield 4, Battlefield Hardline, Battlefield 1, Command & Conquer: The Ultimate Collection, Crysis 3, Dead Space 3, Dragon Age: Inquisition, Fe, FIFA 12, FIFA 13, FIFA 14, FIFA 15, FIFA 16, FIFA 17, FIFA 18, FIFA 19, FIFA 20, FIFA Manager 12, FIFA Manager 13, FIFA Manager 14, Mass Effect 3, Mass Effect: Andromeda, Medal of Honor: Warfighter, Mirror's Edge Catalyst, Need for Speed: Most Wanted (2012), Need for Speed: Rivals, Need for Speed: The Run, Need for Speed (2015), Need for Speed Payback, Need for Speed Heat, Plants vs. Zombies: Garden Warfare, Plants vs. Zombies: Garden Warfare 2, Plants vs. Zombies : La Bataille de Neighborville, SimCity (2013), Star Wars Battlefront (2015), Star Wars Battlefront II (2017), Syndicate (2012), The Sims 4, Titanfall, Titanfall 2, Unravel et Unravel 2).
 
 ## Epic Games
@@ -64,7 +64,7 @@ Depuis les années 2010, la plate-forme s'oriente ostensiblement vers la scène 
 
 ## CONSOLES
 
-*Il existe aussi des plateformes de distribution de jeux-vidéos pour console.*
+*Il existe aussi des plateformes de distribution de jeux-vidéo pour console.*
 *Par exemple nous avons : Uplay, playstation +, Epic Games, etc...*
 *Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus*
 *sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...*
