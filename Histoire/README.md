@@ -64,15 +64,13 @@
 - *Prix basés sur les jeux vidéo les plus vendus*
 
 ## **_6_ -** [Retrogaming](Retrogaming.md)
-- [Introduction](Retrogaming.md#introduction)
-- [Définition](Retrogaming.md#définition)
-- [Personnes concernées](Retrogaming.md#personnes-concernées)
-- [Démocratisation](Retrogaming.md#démocratisation)
-- [Popularité](Retrogaming.md#popularité)
+- [Qu'est-ce que c'est ?](Retrogaming.md#quest-ce-que-cest-)
+- [Oui mais ça veut dire quoi ?](Retrogaming.md#oui-mais-ça-veut-dire-quoi-)
+- [Qui joue à ces jeux vidéo ?](Retrogaming.md#qui-joue-à-ces-jeux-vidéo-)
+- [Et c'est démocratisé ça ?](Retrogaming.md#et-cest-démocratisé-ça-)
+- [Mais est-ce que ça devient populaire ?](Retrogaming.md#mais-est-ce-que-ça-devient-populaire-)
 
 ## **_7_ -** [Top/Flop](Top_flop.md)
 - [Top](Top_flop.md#top)
 - [Flop](Top_flop.md#flop)
 - [Facteurs de popularité](Top_flop.md#les-différents-facteurs)
-
-
