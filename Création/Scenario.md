@@ -1,6 +1,6 @@
-Création : 
-Scénario :
-	Du point de vue du scénariste :
+**Scénario :**
+	
+**Du point de vue du scénariste :**
 -C'est avec le scénario que l'on créer les personnages du jeu (le héros, ces partenaire, le méchant ainsi que les pnj)
 
 -Lorsqu'on créer un personnage on lui ajoute des détails pour le rendre unique. des détail physique (couleur de cheveux, forme du visage,...) 
