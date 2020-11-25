@@ -44,12 +44,12 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Moyens de rémunération](Finance/Moyens_de_remuneration.md)
 - [Budget des jeux vidéo](Finance/Budget_de_jeux_video.md)
 
-### 4.4 - Communautaire
-- communauté
-- évènements
-- streaming
-- les polémiques actuelles / préjugés
-- critiques
+### 4.4 - [Communautaire](Communautaire)
+- [Communauté](Communautaire/Communauté.md)
+- [Evènements](Communautaire/Evènement.md)
+- [Streaming](Communautaire/Streaming.md)
+- [Les polémiques actuelles / préjugés](Communautaire/Polémiques_actuelles_et_Préjugés.md)
+- [Critiques](Communautaire/Critiques.md)
 
 ### 4.5 - Histoire
 - TOP / FLOP
