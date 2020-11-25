@@ -9,7 +9,7 @@ Les jeux qui se jouent uniquement avec la souris, où généralement le joueur c
 Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables, qu'il pourra ensuite parcourir une fois des compétences débloquées. Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
 | Hollow Knight | Blasphemous |
 |---------------|-------------|
-|![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous] (https://www.jeuxvideo24.com/wp-content/uploads/2019/09/news-blasphemous.jpg "Blasphemous")
+|![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://www.jeuxvideo24.com/wp-content/uploads/2019/09/news-blasphemous.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
 ##### sandbox : 
