@@ -82,7 +82,10 @@ Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou
 |------------|-----------|
 | ![Trackmania](https://imagehost7.online-image-editor.com/oie_upload/images/25151034ylA4Xlb/25161028B15pNT7a.jpg "Trackmania") | ![MarioKart](https://imagehost7.online-image-editor.com/oie_upload/images/2515930o8kO0/2516921tcUIY0ZM.jpg "Mariokart") |
 ##### jeu de rythme :
-à remplir
+C'est un genre ou le gameplay est orienté presque entièrement autour de la capacité du joueur à suivre un tempo musical et de rester en harmonie avec lui. Généralement le son à plus d'importance que les graphismes, mais la composante visuelle a toutefois une certaine influence sur le gameplay.
+| OSU | Rythm Paradise |
+|-----|----------------|
+| ![OSU](https://imagehost7.online-image-editor.com/oie_upload/images/2516059x2BO2/2517055yP8OQJnl.jpg "OSU") | ![Rythm Paradise](https://imagehost7.online-image-editor.com/oie_upload/images/2516211BvohLy51xF/251722QJQqKjDb.jpg "Rythm Paradise") |
 # en ligne:
 
 ##### jeu de tir :
@@ -131,4 +134,4 @@ Les jeux coopératif, également abrégé **coop** ou **co-op**, est un genre da
 |-----------|----------|
 | ![Battleblock theater](https://imagehost7.online-image-editor.com/oie_upload/images/251554186mDy0PxPJa/25165414Js58jl28.jpg "BattleBlock Theater") | ![Payday 2](https://imagehost7.online-image-editor.com/oie_upload/images/25155528PkDV0KwQy4/25165524nLgNdC4G.jpg "Payday 2") |
 ##### MMORPG :
-à remplir
+De l'anglais *Massively Multiplayer Online Role-playing game*, c'est un rpg permettant à un grand nombre de joueurs d'interagir simultanément dans un monde virtuel. Ce type de jeu, par la persistance de l'environnement et l'implication qu'il demande, crée des rapports sociaux entre joueurs particulièrements forts.
