@@ -27,7 +27,8 @@ Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et d
 ##### horreur :
 Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
 ##### survival :
-    -idle games
+Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
+##### idle games :
     -course
 
 ### en ligne:
