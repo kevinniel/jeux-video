@@ -1,8 +1,8 @@
-# CONSOLES DE SALON & BORNES D'ARCADES
+# CONSOLES DE SALON & BORNES D'ARCADE
 
 - **_L'histoire du jeu vidéo débute dans les années 1950_** dans les universités pendant des recherches sur l'informatique. Ils ne se font connaître du grand public vers les années 1970 avec la démocratisation des bornes d'arcade ainsi que les consoles de jeu vidéo qui ont suivis les années suivante.
-Les bornes d'arcades et leurs jeux ont connu l'âge d'or en 1978 avec la sortie de Space Invaders. Il connait un tel succès qu'une dizaine de constructeurs de pénétrer le marché en produisant leurs propres jeux vidéos. A partir de 1979 les jeux d'arcades en couleurs apparaissent, notamment avec Asteroids, publié par Atari qui fut le premier gros succès commercial de son époque. Parmi les autres classiques de cette époque, on peut citer Lunar Lander, Night Driver, Missile Command, Berzerk, Breakout ou Battlezone
-- **_En 1980_** ce sont toujours les bornes d'arcades qui monopolisent le marché du jeux vidéos, les consoles de salon on du mal à concurrencer du au fait qu'elles supportent un nombre limité de jeux et souvent mal adapté des bornes d'arcades.
+Les bornes d'arcade et leurs jeux ont connu l'âge d'or en 1978 avec la sortie de Space Invaders. Il connait un tel succès qu'une dizaine de constructeurs de pénétrer le marché en produisant leurs propres jeux vidéos. A partir de 1979 les jeux d'arcade en couleurs apparaissent, notamment avec Asteroids, publié par Atari qui fut le premier gros succès commercial de son époque. Parmi les autres classiques de cette époque, on peut citer Lunar Lander, Night Driver, Missile Command, Berzerk, Breakout ou Battlezone
+- **_En 1980_** ce sont toujours les bornes d'arcade qui monopolisent le marché du jeux vidéos, les consoles de salon on du mal à concurrencer du au fait qu'elles supportent un nombre limité de jeux et souvent mal adapté des bornes d'arcade.
 - **_En 1985_** Nintendo sort la NES qui se vendra à plus de 60 millions d'exemplaires jusqu'en 1990. Sega leurs fera concurrence tout le long avec la Master System et la Saturn respectivement.
 Nintendo continuera quand même de dominer le marché des consoles de salon. Encore plus avec la sortie de Super Mario Bros 3.
 - **_En 1994_** Sega sort la Sega Saturn qui eu un énorme succès au Japon, mais pas aux Etats-Unis et en Europe.
