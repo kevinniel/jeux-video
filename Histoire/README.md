@@ -7,7 +7,6 @@
 - Les premiers jeux PC et l'avenir avec Steam & CO
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
-<<<<<<< HEAD
 
 - Un joueur
  - Description
@@ -36,10 +35,6 @@
 - Escarmouche
  - Description
  - Types de jeux
-=======
-- 
-- 
->>>>>>> 18639606cae95a56bbb4e498a99b1be8c90e0755
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
 - 
