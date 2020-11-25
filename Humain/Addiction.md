@@ -1,9 +1,12 @@
 # Addiction
+
 ### Médecine
 
-L'addiction aux jeux vidéo a été reconnue depuis 2018 par l'OMS (Organisation mondiale de la Santé). Cette addiction est d'ailleurs classée aux même rangs que les addictions à la drogue.
+L'addiction aux jeux vidéo a été reconnue depuis 2018 par l'OMS (Organisation mondiale de la Santé). Cette addiction est d'ailleurs classée aux même rangs que les addictions à la drogue. Sur les 2.5 milliards de joueurs dans le monde, cette addiction ne touche qu'une faible minorité, environ **5%**. Cette addiction se manifeste par 3 critères :
 
-
+1. l'incapacité de contrôler la pratique du jeu (début, fréquence, intensité, durée, fin, contexte).
+2. la priorité croissante accordée aux jeux vidéo au détriment des intérêts et des activités de la vie quotidienne.
+3. la poursuite ou la majoration du comportement malgré les conséquences négatives que cela implique. 
 
 ### Comportement extrême
 

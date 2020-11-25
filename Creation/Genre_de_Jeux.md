@@ -78,21 +78,41 @@ Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont u
 | ![Cookie Clicker](https://imagehost7.online-image-editor.com/oie_upload/images/25145241QUikH8R/25155234dbGWV8MI.png "Cookie Clicker") | ![AdVenture Communist](https://imagehost7.online-image-editor.com/oie_upload/images/2514552302r960FDFe/25155516GSppvUWa.jpg "AdVenture: Communist") |
 ##### course :
 Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou atteindre le point d'arrivée le premier. Il tient généralement le rôle d'un coureur ou d'un pilote de machine.
-
+| Trackmania | MarioKart |
+|------------|-----------|
+| ![Trackmania](https://imagehost7.online-image-editor.com/oie_upload/images/25151034ylA4Xlb/25161028B15pNT7a.jpg "Trackmania") | ![MarioKart](https://imagehost7.online-image-editor.com/oie_upload/images/2515930o8kO0/2516921tcUIY0ZM.jpg "Mariokart") |
 # en ligne:
 
 ##### jeu de tir :
 Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la première ou troisième personne) affronte, souvent en équipe, d'autres joueurs, avec pour but de les toucher avec les armes à leur disposition.
+| Call of Duty | Battlefield |
+|--------------|-------------|
+| ![Call of Duty](https://imagehost7.online-image-editor.com/oie_upload/images/25151432j51L0TkH/25161425IZw6P7ZM.jpg "Call of Duty") | ![Battlefield](https://imagehost7.online-image-editor.com/oie_upload/images/25151547mbTIE9W/25161541Wt7WtCqI.jpg "Battlefield") |
 ##### moba :
 Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
+| League of Legends | Smite |
+|-------------------|-------|
+| ![League of Legends](https://imagehost7.online-image-editor.com/oie_upload/images/25151833r8U44Ft91/25161828mEfSFFPf.jpg "League of Legends") | ![Smite](https://imagehost7.online-image-editor.com/oie_upload/images/25151927Qlb5w6/25161922XFAff73B.jpg "Smite") |
 ##### rts :
 RTS, où *Real Time Strategie*, Jeu de stratégie en temps réel en français, est genre de jeu vidéo de stratégie particulier qui notamment et par opposition au jeu de stratégie en tour par tour n'utilise pas un découpage arbitraire du temps en tours de jeu. Le principe de base est "récolter construire détruire": le joueur doit généralement gérer des ressources, développer des bases et créer des unités pour combattre un adversaire. Plusieurs faction sont en général disponible, chacune disposant de spécificités et d'un arbre technologique. L'action se déroulant en temps réel, le joueur ne dispose que d'un temps limité pour gérer ses ressources et ses bases et contrôler ses unités, ce qui introduit les notions de rapidité et de micromanagement et macromanagement en plus de la dimension stratégique et explique que le contrôel à la souris et au clavier soit généralement privilégié.
-##### -tcg :
+| Age of Empire II | Starcraft II |
+|------------------|--------------|
+| ![Age of Empire II](https://labo.fnac.com/wp-content/uploads/2019/06/age-of-empires-ii.jpg "Age of Empire II") | ![Starcraft 2](https://imagehost7.online-image-editor.com/oie_upload/images/25152222L25FYB85w3/25162217D2zkj9LX.png "Starcraft 2") |
+##### tcg :
 Les *Trading Card Game* ou Jeu de cartes à collectionner en français, sont la version virtuelle de leurs homologue papier. il s'agit de jeux  qui utilisent des cartes conçues spécialement pour les jeux en question. Ils diffèrent des jeux de cartes classiques par la grande variété de cartes et l'utilisation par les joueurs de paquets personnalisés. Les cartes ont en général des effets très variés sur le jeu. Une carte contient souvent un dessin et un texte décrivant l'effet de la carte. Le jeu se dérouel souvent dans un monde cohérent, de fantasy, de science-fiction ou autre ; il s'agit parfois d'univers déja connus par exemples venant d'autres jeux. La plupart du temps le jeu consiste à gagner des points ou à en faire perdre à l'adversaire.
+| Hearthstone | Legends of Runeterra |
+|-------------|----------------------|
+| ![hearthstone](https://imagehost7.online-image-editor.com/oie_upload/images/25152544F7DmMRbuNU/25162535eTMFoDBI.jpg "Hearthstone") | ![Legends of Runeterra](https://imagehost7.online-image-editor.com/oie_upload/images/25152638m9DB6T/25162633PjN255EK.jpg "Legends of Runeterra") |
 ##### auto battler :
 Aussi connu sous le nom *Auto Chess*, l'auto battler est un sous-genre des jeux de stratégies qui contient des caractéristiques pouvant faire penser à un plateau d'échec: le joueur place des personnages sur une grille, qui servira de champ de bataille, pour se préparer à l'affrontement d'un autre joueur. Les personnages s'affrontent alors sans intervention de la part des joueurs. Les matchs sont généralements à 8 joueurs, en *FFA* et s'affrontent en 1 contre 1 de manière aléatoire à chaque round. au début de chaque round, le joueur peuvent acheter des unités pour créer des versions améliorés d'une même unité. il y a généralement un système de synergie si certains types d'unités sont en même temps sur le champ de bataille. Pendant l'affrontement, chaque unité a pour but de faire des dégats aux unités adverses, et quand toute les unités d'un camp ont été vaincu, le joueur perdant perd un nombre de point de vie proportionnel aux nombres et à la force des unités restantes sur le terrain de l'adversaire.
+| DotA Underlords | Teamfight Tactics |
+|-----------------|-------------------|
+| ![DotA underlords](https://imagehost7.online-image-editor.com/oie_upload/images/251532171U8iv6c/25163155jNoAoeXl.jpg "DotA Underlords") | ![Teamfight Tactics](https://imagehost7.online-image-editor.com/oie_upload/images/2515343e799aBjy1/25163358y0oQWHTQ.jpg "Teamfight Tactics") |
 ##### Party games :
 Littéralement *Jeu vidéo de soirée*, un party game est un jeu censé rassembler de nombreux joueurs autour d'un concept simple, amusant et accessible. Généralement le party game est composé de plusieurs sous-parties proposant des phases de mini-jeux en alternance, où les différents joueurs s'affrontent directement ou indirectement. Le genre a pour but de mélanger les joueurs avec des niveaux parfois très disparates, c'est pourquoi l'élimination d'un joueur est rarement existente dans ces jeux.
+| Pummel Party | Mario Party |
+|--------------|-------------|
+| ![Pummel Party](https://imagehost7.online-image-editor.com/oie_upload/images/25153638ld6G6/251636332iOmUo8V.jpg "Pummel Party") | ![Mario Party](https://imagehost7.online-image-editor.com/oie_upload/images/251538239Kczh0x/25163815Clj0wEAt.jpg "Mario Party") |
 ##### jeu de combat:
 C'est un genre opposant un nombre limité de personnages (deux le plus souvent), où les joueurs s'affrontent directement pour essayer de faire tomber les points de vie du joueur adverse à zéro. Les principes du jeu de combat sont généralement : les opposants ont chacun une barre d'énergie, qui baisse lorsqu'un coup est reçu. Il est possible de parer les coups de l'adversaire, pour annuler ou minimiser les dégâts infligés. Il y a aussi la possibilité d'esquiver sur certains jeux de combat. Certains coups, appelés parfois "Coup Spéciaux", nécessitent une manipulation donnée effectuée en un certain timing (généralement une combinaison de touches, ou un mélange touches/joystick lorsqu'il est présent). Les matchs sont divisé en *rounds* définis à l'avance (dans la plupart des cas 2 *rounds* gagnant).
 ##### battle royale:

@@ -42,7 +42,7 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 
 ![alt text][oriandtheblindforest]
 
-[oriandtheblindforest]: https://raw.githubusercontent.com/kevinniel/jeux-video/master/Cr%C3%A9ation/musicpicture/oriandtheblingforest.png "alt text"
+[oriandtheblindforest]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/oriandtheblingforest.png "alt text"
 
 **Ori and the Blind Forest** et **Ori and the Will of the Wisps** est un jeu où ses décors foisonnants, ses animations ultra-détaillées… mais surtout son ambiance sonore d’un lyrisme totalement ravissant et dont la musique se base sur l'avancé du joueur dans l'histoire. La musique utilisée tout au long de l'aventure nous plongent directement au coeur de l'histoire, nous faisant ressentire toute une panoplie d'émotions. L’occasion de revenir aujourd’hui sur cette bande son, une musique séduisante et épanouissante :
 
@@ -57,11 +57,26 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 - *[Skyrim - Music & Ambience](https://youtu.be/nRe3xFeyhVY)*
 
 ## JEUX DE SPORT/COURSES
-## JEUX DE ROLE CONSOLE
+Le problème de la musique dans les jeux de sport vient du fait qu’elle n’est bien souvent que de deux types. Soit elle est créée de toutes pièces pour le jeu et elle est digne d’une musique d’ascenseur de mauvaise qualité – c’est le cas de nombreux jeux de golf –, soit elle reprend les hits du moment et n’a strictement aucun rapport avec ce qu’il se passe à l’écran. Tout dépend du niveau de solvabilité de l’éditeur et du budget alloué. Et encore, même avec un portefeuille bien rempli, on a eu droit à une bande-son de FIFA19 remplie d’artistes quasiment inconnus du grand public (du moins en Europe), c’est dire si la pertinence est faible1.
+
+Très souvent résumée à des beats basiques et à des lignes de chant dont la profondeur ne nous frappe pas vraiment lors d’un lancer-franc, la musique des jeux vidéo de sport est le parent pauvre de ce médium pourtant si riche en teneur artistique.
+Cependant depuis quelques années maintenant (depuis la première Xbox et son disque dur salvateur), les consoles permettent d’utiliser sa propre musique dans certains jeux… et spécifiquement les jeux de sport.
 
 ## JEUX D'AVENTURE/RPG
+Ici je vais vous parler de **CyberPunk2077**
+![alt text][cyberpunk2077]
 
-On à des jeux comme Star Wars qui va reprendre complètement les musiques du film 
+[cyberpunk2077]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/cyberpunk2077.jpg "alt text"
+
+Le jeu d'action/RPG devrait sortir le *10 Décembre 2020*. C'est un **OpenWorld Next Generation**, un jeu sortant sur les nouvelles consoles NextGen tels que Xbox Series x ou Series S et Playstation 5. Tu peux retrouver le jeu sur PC aussi.
+
+Dans **CyberPunk2077** les dévellopeurs son ont vouluent incorporer tout genre de musique passant par du Rock'n Roll (comme on peut le voir avec Jhonny Silverhand), de la musique plus chill, et du rap pour endiabler vos combats. Ils ont proposés à des artistes du monde entier connues comme moins connues.
+La musique évolue en fonction des zones dans lequel le joueur se trouve (Dans la ville, le désert, quartiers pauvre, riche ...) et même par rapport à l'ambiance (Bar, Discothèque ...).
+Vous pourrez écouter des radios avec des styles de musiques différentes selon celle choisies.
+
+
+
+On à des jeux comme **Star Wars** qui va reprendre complètement les musiques du film et biensûr en incorporer de nouvelles.
 
 ## JEUX FPS/TPS
 
