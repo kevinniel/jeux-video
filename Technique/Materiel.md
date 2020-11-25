@@ -1,5 +1,5 @@
-### Matériell
-- nitendo
+### Matériel
+- nintendo
 - windows/linux
 - playstation
 - android/IOS
