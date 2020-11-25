@@ -35,8 +35,10 @@ Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou
 
 # en ligne:
 
-    -jeu de tir
-    -moba
+##### jeu de tir :
+Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la première ou troisième personne) affronte, souvent en équipe, d'autres joueurs, avec pour but de les toucher avec les armes à leur disposition.
+##### moba :
+Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
     -rts
     -battleroyale
     -tour par tour
