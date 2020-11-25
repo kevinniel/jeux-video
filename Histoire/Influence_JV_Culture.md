@@ -1,7 +1,6 @@
 # Jeux Vidéo, l'influence dans la culture
 
 ### **_Intro_**
-<<<<<<< HEAD
 - Considéré par beaucoup comme une sous-culture. 
 - La popularité des ordinateurs et des jeux vidéos est en hausse depuis les années 80.
 - Elle représente une influence significative sur la culture populaire. 
@@ -21,7 +20,6 @@
 
 ### **_Implications sociales des jeux vidéo_** 
 - L'avènement des jeux vidéos a créé une nouvelle technologie médiatique, on peut donc considérer les jv comme un média à part. 
-=======
 - considéré par beaucoup comme une sous-culture.
 - la popularité des ordinateurs et des jeux vidéos est en hausse depuis les années 80.
 - elle représente une influence significative sur la culture populaire.
@@ -41,16 +39,12 @@
 
 ### **_Implications sociales des jeux vidéos_** 
 - L'avènement des jeux vidéo a créé une nouvelle technologique médiatique, on peut donc considérer les jv comme un média à part.
->>>>>>> cf365c57037b9c579c4ca188dd0f2d76200aebfe
 - Ils permettent aux joueurs d'archiver, annoter, approprier et redistribuer du contenu.
 - Ils peuvent utiliser cette source médiatique comme un outil qui leur permet d'avoir accès à une connaissance de ce qui les intéresse.
 - L'aspect communautaire des jeux vidéo a aussi eu des implications en ce qui concerne les interactions sociales et les comportements collectifs des consommateurs impliqués dans l'activité.
 
 ### **_L'apparition de sous-culture_**
 - Suite à beaucoup de rassemblements de joueurs, on a remarqué un cadre social très important.
-<<<<<<< HEAD
 - En effet, il a été remarqué que la communauté des joueurs utilise des termes spécifiques à différents jeux. 
-=======
 - En effet, il a été remarqué que la communauté des joueurs utilise des termes spécifiques à différents jeux.
->>>>>>> cf365c57037b9c579c4ca188dd0f2d76200aebfe
 - Les jeux ne sont très souvent pas la seule passion des joueurs, ils s'intéressent à tout l'univers autour d'un jeu, comme des accessoires, une coutume spécifique au jeu ou encore a la musique ...
