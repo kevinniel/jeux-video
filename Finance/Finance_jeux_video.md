@@ -1,4 +1,3 @@
-# Projet jeux vidéos
 ## Projet jeux vidéos
 
 ### Méthodes de rémunération (abonnement, boutique in game, etc...)
