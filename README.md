@@ -23,13 +23,13 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 2. Relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
 3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corrigé le problème soulevé pour fermer automatiquement l'issue correspondante. (le message doit commencé par le mot Fix. Par exemple : "Fir #19" fermera automatiquement l'issue numéro 19)
 
-## 4 - Plan
+## 4 - Sommaire
 
-### 4.1 - Technique
-	- moteurs
-	- matériel
-	- périphériques
-	- langages de programmation	
+### 4.1 - [Technique](Technique)
+- [Moteurs](Technique/Moteur.md)
+- [Matériel](Technique/Materiel.md)
+- [Périphériques](Technique/Peripherique.md)
+- [Langages de programmation](Technique/Language_de_Programmation.md)
 
 ### 4.2 - Création
 	- différents genres
