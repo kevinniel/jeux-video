@@ -6,7 +6,7 @@
 
 > Pour illustrer ce qu'est une mécanique on peut utiliser les briques de gameplay.
 > C'est un ensemble d'illustration qui représente bien différentes gameplay :
->>> https://sebastiennavarro.wordpress.com/2017/11/13/comprendre-les-mecanismes-des-jeux-video/
+>>> **[Comprendre les mécanismes des jeux vidéo](https://sebastiennavarro.wordpress.com/2017/11/13/comprendre-les-mecanismes-des-jeux-video/)**
 
 	Gérer
 	Déplacer
