@@ -14,7 +14,7 @@ Basé sur les jeux vidéo les plus vendus,
 
 - En moyenne sur console le prix des jeux récurrent de chaque année (**Fifa**, **Call of Duty**, **PES**) est souvent le même **69.99$** pour l'édition standard du jeu.
 
-- Les jeux indiqués Triple A sont les jeux dotés de plus gros budgets de développement comparés aux autres, on retrouve beaucoup de Triple A dans la liste des jeux les plus vendus/chers.
+- Les jeux indiqués **Triple A** sont les jeux dotés de plus gros budgets de développement comparés aux autres, on retrouve beaucoup de **Triple A** dans la liste des jeux les plus vendus/chers.
 
 - Il y a aussi beaucoup de jeux vidéo qui ont des éditions spéciales voir limitées ce qui augmentent leur prix. Je vais prendre comme exemple les jeux **Assassin's Creed** car ils ont tous ou pratiquement tous une édition limitée,
 	- Le dernier **Assassin's Creed** possède **4 éditions** du jeu, l'édition **Standard** qui est de **59.99$**, l'édition **Gold* qui est à **99.99$**, l'édition **Ultimate** qui est à **109.99$** et l'édition **Collector** qui est à **199.99$**. 
