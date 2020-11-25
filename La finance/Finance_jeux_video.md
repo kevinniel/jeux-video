@@ -3,7 +3,6 @@
 
 ### Méthodes de rémunération (abonnement, boutique in game, etc...)
 
-### Jeux gratuit avec Abonnement :
 #### Jeux gratuit avec Abonnement :
 
 Un jeu peut etre gratuit mais cependant il faudra payer un abonnement soit hebdomadaire , mensuel ou annuel
