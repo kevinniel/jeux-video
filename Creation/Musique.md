@@ -63,14 +63,23 @@ Très souvent résumée à des beats basiques et à des lignes de chant dont la 
 Cependant depuis quelques années maintenant (depuis la première Xbox et son disque dur salvateur), les consoles permettent d’utiliser sa propre musique dans certains jeux… et spécifiquement les jeux de sport.
 
 ## JEUX D'AVENTURE/RPG
+<<<<<<< HEAD
 Ici je vais vous parler de **CyberPunk2077**
+=======
+#### Ici je vais vous parler de **CyberPunk2077**
+
+>>>>>>> bb9bc9fa591d74fd03d24e259f181d89db30bb6d
 ![alt text][cyberpunk2077]
 
 [cyberpunk2077]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/cyberpunk2077.jpg "alt text"
 
 Le jeu d'action/RPG devrait sortir le *10 Décembre 2020*. C'est un **OpenWorld Next Generation**, un jeu sortant sur les nouvelles consoles NextGen tels que Xbox Series x ou Series S et Playstation 5. Tu peux retrouver le jeu sur PC aussi.
 
+<<<<<<< HEAD
 Dans **CyberPunk2077** les dévellopeurs son ont vouluent incorporer tout genre de musique passant par du Rock'n Roll (comme on peut le voir avec Jhonny Silverhand), de la musique plus chill, et du rap pour endiabler vos combats. Ils ont proposés à des artistes du monde entier connues comme moins connues.
+=======
+Dans **CyberPunk2077** les dévellopeurs son ont vouluent incorporer tout genre de musique passant par du Rock'n Roll (comme on peut le voir avec [Johnny Silverhand](https://youtu.be/TCKfebVQFhU)]), de la musique plus chill, et du rap pour endiabler vos combats. Ils ont proposés à des artistes du monde entier connues comme moins connues.
+>>>>>>> bb9bc9fa591d74fd03d24e259f181d89db30bb6d
 La musique évolue en fonction des zones dans lequel le joueur se trouve (Dans la ville, le désert, quartiers pauvre, riche ...) et même par rapport à l'ambiance (Bar, Discothèque ...).
 Vous pourrez écouter des radios avec des styles de musiques différentes selon celle choisies.
 
@@ -85,6 +94,12 @@ Dans cette catégorie on retrouve plusieurs jeux vidéo classique des FPS tels q
 ## JEUX DE REFLEXION
 
 ## JEUX DE STRATEGIE/SIMULATION
+
+- Tout comme pour les jeux de réflexion, les parties dans les jeux de stratégie ou de simulation durent souvent pendant de longues périodes continues. Souvent, le joueur devra rester longtemps sur un même écran de jeu, cherchant la tactique à mettre en œuvre. Encore une fois, comment mettre une musique qui pourra être écoutée non-stop des heures durant ? La solution la plus simple, très courante dans les jeux de simulation comme par exemple les Football Manager, c'est de ne pas mettre de musique du tout. Cela n'a pas vraiment d'effet néfaste sur ce type de jeux, qui demande une grande patience, mais qui ne nécessite pas d'être extrêmement attentif. Du coup, le joueur peut très bien écouter sa propre musique en même temps, ou regarder la télé. Néanmoins, certains jeux de simulation, comme SimCity ont une mélodie d'accompagnement, sans doute pour éviter l'aspect froid que peut avoir ce genre de titres. Rien de transcendant pour nos oreilles la plupart du temps, on est plus proche de la musique d'ascenseur que de Prokofiev (j'ai rien contre la musique d'ascenseur hein !), et ces thèmes passeraient souvent inaperçus si on ne se mettait pas à les chantonner à force de les écouter. Très souvent, une option est disponible pour couper la musique.
+
+- Pour les jeux de stratégie, la musique peut avoir son importance concernant l'ambiance du soft. Pour nombre d'entre eux, ces jeux se passent dans des époques lointaines et la bande originale (ainsi que les bruitages) se doit de jouer son rôle immersif. C'est le cas des Civilization par exemple. Cependant, la bande son est rarement l'aspect primordial pour ce type de jeux et les différents thèmes font plus office d'ambiance sonore qu'autre chose. D'ailleurs, comme pour les jeux de simulation, il arrive à beaucoup de joueurs de couper la musique qui peut devenir rébarbative à la longue. Bien évidemment, il y a des exceptions. Pour les RTS, la bande originale des Age Of Empires ou celle de Total Annihilation (tiens, revoilà Jeremy Soule) sont des exemples de thèmes réussis qui auront marqué les nombreux joueurs qui s'y sont essayés.
+
+- La série des Warcraft est connue pour sa bande-son, tant au niveau des voix que des musiques. Les deux sont l'œuvre de Glenn Stafford, avec de temps en temps la participation de deux autres compositeurs de Blizzard : Derek Duke et Jason Hayes. Les musiques de la série sont adaptées à chacune des races du RTS, et participent beaucoup à l'immersion dans l'univers. Dans un tout autre style, les musiques de Starcraft sont aussi particulièrement réussies et stylées. Là encore, chaque race à un style de musique tout à fait différent. Certains thèmes se rapprochent de ceux de la saga Metroid (notamment les thèmes de la race Protoss), ce qui est bien évidemment un compliment.16:50 25/11/2020
 
 ## JEUX MUSICAUX
 
