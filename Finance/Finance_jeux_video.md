@@ -10,9 +10,7 @@ Un jeu peut etre gratuit mais cependant il faudra payer un abonnement soit hebdo
 
 Jeu payant à l'achat
 
-### Jeux gratuit :
 
-Dans ces cas là le jeu inclura une boutique in game avec une vente d'objet ou de cosmétique. passe de combat. Pub in game 
 #### Finance pour créer le jeux vidéo
 
 ##### Ressources personnelles
