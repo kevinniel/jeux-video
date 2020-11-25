@@ -18,10 +18,10 @@ A chaque fois que le plan est modifié par une équipe, elle devra le répercute
 
 A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégrer un lien du plan, vers le document.
 
-## 3 - Une fois le travail terminé (a faire pour la prochaine fois)
-1. Terminer vos parties respectives
-2. Relire l'ensemble des parties de chacun, et créer des "issues" afin de noter les détails manquants / problèmes soulevés
-3. La prochaine fois, et en groupe, vous devrez résoudre des issues. Vous devrez intégrer en commentaire dans la résolution de l'issue l'identifiant unique du commit sur lequel vous avez corrigé le problème soulevé pour fermer automatiquement l'issue correspondante. (le message doit commencé par le mot Fix. Par exemple : "Fir #19" fermera automatiquement l'issue numéro 19)
+## 3 - a faire pour la prochaine fois
+1. Terminer les issues restantes selon vos affectations.
+2. Vous pouvez ouvrir d'autres issues et vous les auto-affecter pour les résoudre.
+3. Révisez bien l'ensemble de ce que l'on a vu, la prochaine fois : QCM
 
 ## 4 - Sommaire
 

@@ -64,15 +64,27 @@ A l'aube du XXIe siècle, le monde des jeux vidéo a atteint une légitimité et
 Cependant depuis quelques années maintenant (depuis la première Xbox et son disque dur salvateur), les consoles permettent d’utiliser sa propre musique dans certains jeux… et spécifiquement les jeux de sport.
 
 ## JEUX D'AVENTURE/RPG
+<<<<<<< HEAD
 #### Ici je vais vous parler de CyberPunk2077
+=======
+<<<<<<< HEAD
+Ici je vais vous parler de **CyberPunk2077**
+=======
+#### Ici je vais vous parler de **CyberPunk2077**
+>>>>>>> 25c9e1678a42c80f987bfa9c0bb16a25d45109f9
 
+>>>>>>> bb9bc9fa591d74fd03d24e259f181d89db30bb6d
 ![alt text][cyberpunk2077]
 
 [cyberpunk2077]: https://github.com/kevinniel/jeux-video/blob/master/Creation/Images/Music_picture/cyberpunk2077.jpg "alt text"
 
 Le jeu d'action/RPG devrait sortir le *10 Décembre 2020*. C'est un **OpenWorld Next Generation**, un jeu sortant sur les nouvelles consoles NextGen tels que Xbox Series x ou Series S et Playstation 5. Tu peux retrouver le jeu sur PC aussi.
 
+<<<<<<< HEAD
+Dans **CyberPunk2077** les dévellopeurs son ont vouluent incorporer tout genre de musique passant par du Rock'n Roll (comme on peut le voir avec Jhonny Silverhand), de la musique plus chill, et du rap pour endiabler vos combats. Ils ont proposés à des artistes du monde entier connues comme moins connues.
+=======
 Dans **CyberPunk2077** les dévellopeurs son ont vouluent incorporer tout genre de musique passant par du Rock'n Roll (comme on peut le voir avec [Johnny Silverhand](https://youtu.be/TCKfebVQFhU)]), de la musique plus chill, et du rap pour endiabler vos combats. Ils ont proposés à des artistes du monde entier connues comme moins connues.
+>>>>>>> bb9bc9fa591d74fd03d24e259f181d89db30bb6d
 La musique évolue en fonction des zones dans lequel le joueur se trouve (Dans la ville, le désert, quartiers pauvre, riche ...) et même par rapport à l'ambiance (Bar, Discothèque ...).
 Vous pourrez écouter des radios avec des styles de musiques différentes selon celle choisies.
 
@@ -91,7 +103,7 @@ On à des jeux comme **Star Wars** qui va reprendre complètement les musiques d
 
 - Pour les jeux de stratégie, la musique peut avoir son importance concernant l'ambiance du soft. Pour nombre d'entre eux, ces jeux se passent dans des époques lointaines et la bande originale (ainsi que les bruitages) se doit de jouer son rôle immersif. C'est le cas des Civilization par exemple. Cependant, la bande son est rarement l'aspect primordial pour ce type de jeux et les différents thèmes font plus office d'ambiance sonore qu'autre chose. D'ailleurs, comme pour les jeux de simulation, il arrive à beaucoup de joueurs de couper la musique qui peut devenir rébarbative à la longue. Bien évidemment, il y a des exceptions. Pour les RTS, la bande originale des Age Of Empires ou celle de Total Annihilation (tiens, revoilà Jeremy Soule) sont des exemples de thèmes réussis qui auront marqué les nombreux joueurs qui s'y sont essayés.
 
-- La série des Warcraft est connue pour sa bande-son, tant au niveau des voix que des musiques. Les deux sont l'œuvre de Glenn Stafford, avec de temps en temps la participation de deux autres compositeurs de Blizzard : Derek Duke et Jason Hayes. Les musiques de la série sont adaptées à chacune des races du RTS, et participent beaucoup à l'immersion dans l'univers. Dans un tout autre style, les musiques de Starcraft sont aussi particulièrement réussies et stylées. Là encore, chaque race à un style de musique tout à fait différent. Certains thèmes se rapprochent de ceux de la saga Metroid (notamment les thèmes de la race Protoss), ce qui est bien évidemment un compliment.
+- La série des Warcraft est connue pour sa bande-son, tant au niveau des voix que des musiques. Les deux sont l'œuvre de Glenn Stafford, avec de temps en temps la participation de deux autres compositeurs de Blizzard : Derek Duke et Jason Hayes. Les musiques de la série sont adaptées à chacune des races du RTS, et participent beaucoup à l'immersion dans l'univers. Dans un tout autre style, les musiques de Starcraft sont aussi particulièrement réussies et stylées. Là encore, chaque race à un style de musique tout à fait différent. Certains thèmes se rapprochent de ceux de la saga Metroid (notamment les thèmes de la race Protoss), ce qui est bien évidemment un compliment.16:50 25/11/2020
 
 ## JEUX MUSICAUX
 

@@ -1,13 +1,25 @@
-## Sommaire
+# Sommaire
 
-### Marketing
+## [Marketing](MARKETING.md)
 
-https://github.com/kevinniel/jeux-video/blob/master/Finance/MARKETING.md
+- Campagne de promotions
+- Manière de faire des promotions
+- Informations supplémentaires
+- Exemple de campagne
 
-### Finance des jeux vidéo
+## [Finance des jeux vidéo](Moyens_de_remuneration.md)
 
-https://github.com/kevinniel/jeux-video/blob/master/Finance/Finance%20jeux%20video.md
+- Jeux gratuit avec Abonnement
+- Jeux payant
+- Boutique en ligne
+- Partenariat / Placement de produit
+- Prêt bancaire
+- Levée de fonds
 
-### Budget des jeux vidéo
 
-https://github.com/kevinniel/jeux-video/blob/master/Finance/Budget%20de%20jeux%20video.md
+## [Budget des jeux vidéo](Budget_de_jeux_video.md)
+
+- Les jeux les plus chers à produire
+- Le budget moyen
+- Les différent coût de production en pourcentage
+
