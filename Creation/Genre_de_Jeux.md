@@ -127,6 +127,8 @@ Le terme Battle Royale fait référence à un genre mêlant jeu de survie et jeu
 |![Fortnite](https://imagehost7.online-image-editor.com/oie_upload/images/25154839udJA1mw94W/25164828I5b7Zs42.jpg "Fortnite") | ![Pubg](https://imagehost7.online-image-editor.com/oie_upload/images/2515500R56vwZtS/251649424u5RVwM8.jpg "Pubg") |
 ##### coop :
 Les jeux coopératif, également abrégé **coop** ou **co-op**, est un genre dans lequel les joueurs doivent unir leurs actions dans un but commun, généralement pour affronter des personnages non-joueurs. Il permet aux joueurs de s'entraider : ils peuvent se passer des armes, se soigner, faire un tir de couverture ou encore, par exemple, monter un obstacle trop haut pour une personne en faisant une courte-échelle. c'est l'opposé des modes multijoueurs compétitifs.
-
+| Battleblock Theater | Payday 2 |
+|-----------|----------|
+| ![Battleblock theater](https://imagehost7.online-image-editor.com/oie_upload/images/251554186mDy0PxPJa/25165414Js58jl28.jpg "BattleBlock Theater") | ![Payday 2](https://imagehost7.online-image-editor.com/oie_upload/images/25155528PkDV0KwQy4/25165524nLgNdC4G.jpg "Payday 2") |
 ##### MMORPG :
 à remplir
