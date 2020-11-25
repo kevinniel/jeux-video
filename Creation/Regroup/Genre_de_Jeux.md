@@ -38,6 +38,9 @@ Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que 
 | ![Bioshock Infinite](https://imagehost7.online-image-editor.com/oie_upload/images/251412447MT2fGVn9/25151239n7HglUlw.jpg "Bioshock Infinite") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
+| Shadow of The Colossus | Doom |
+|------------------------|------|
+| ![Shadow of The Colossus](https://imagehost7.online-image-editor.com/oie_upload/images/25141550csDCJ2/25151543S9gg4p6B.jpg "Shadow of The Colossus") | ![Doom](https://imagehost7.online-image-editor.com/oie_upload/images/25141651lkwGMw/25151646JL6KKB6Y.jpg "Doom") |
 ##### simulation : 
 Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
 ##### stratégie :
