@@ -1,7 +1,7 @@
 #	Studio, éditeur, constructeur:
 
 ## Un studio :
-<p>Entreprise chargée de la conception d’un jeu vidéo. Ils sont le savoir-faire, à défaut du faire-savoir. Les plus célèbres s’appellent Naughty Dog (Uncharted), Bungie (Destiny), id Software (Doom, Wolfenstein). Voici une liste de [studios.](https://fr.wikipedia.org/wiki/Liste_de_d%C3%A9veloppeurs_de_jeux_vid%C3%A9o)</pz>
+<p style="color: red">Entreprise chargée de la conception d’un jeu vidéo. Ils sont le savoir-faire, à défaut du faire-savoir. Les plus célèbres s’appellent Naughty Dog (Uncharted), Bungie (Destiny), id Software (Doom, Wolfenstein). Voici une liste de [studios.](https://fr.wikipedia.org/wiki/Liste_de_d%C3%A9veloppeurs_de_jeux_vid%C3%A9o)</p>
 
 ## L’éditeur :
 <p>Se charge de la valorisation du jeu (le marketing, la communication, la localisation, les négociations commerciales,etc ). Il arrive que l’éditeur participe au financement d’un jeu, et qu’il ait son mot à dire sur sa direction générale et son avancement. Les géants du secteur s’appellent Activision, Bethesda, Electronic Arts, Square Enix ou encore Ubisoft. Voici une liste d'[éditeur.](https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9diteurs_de_jeux_vid%C3%A9o)</p>
