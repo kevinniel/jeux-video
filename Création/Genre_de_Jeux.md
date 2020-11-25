@@ -12,6 +12,9 @@ Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et compor
 |![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://imagehost7.online-image-editor.com/oie_upload/images/25131224fo5jt5Chy/25141153m7cN9CQ0.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
+| The binding of Isaac | Hades |
+|----------------------|-------|
+|![The binding of Isaac](https://imagehost7.online-image-editor.com/oie_upload/images/25131531J0FNOb/251415221JVraAzf.jpg "The binding of Isaac")| ![Hades](https://imagehost7.online-image-editor.com/oie_upload/images/2513163375Nus08XxX/25141626cLQ4C5TM.jpg "Hades")|
 ##### sandbox : 
 Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
 ##### rpg : 
