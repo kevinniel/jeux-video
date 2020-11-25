@@ -4,50 +4,50 @@
 
 - **Le début avec les consoles de salon et les bornes d'arcades**
 
-- **Les premiers jeux PC et l'avenir avec Steam & CO**
+- **Les premiers jeux PC et l'avenir avec Steam & Co**
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
-- **Un joueur**
+- **Jeu vidéo à un joueur**
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- **Deux joueurs**
+- **Jeu vidéo à deux joueurs**
   - *Description*
   - *Types de jeux*
 
-- **Multijoueur**
-  - *Description*
-  - *Historique*
-  - *Types de jeux*
-
-- **Jeu en équipe**
+- **Jeu vidéo en multijoueur**
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- **Massivement multijoueur**
+- **Jeu vidéo en coopération**
   - *Description*
   - *Historique*
   - *Types de jeux*
 
-- **Escarmouche**
+- **Jeu vidéo massivement multijoueur**
+  - *Description*
+  - *Historique*
+  - *Types de jeux*
+
+- **Jeu vidéo d'escarmouche**
   - *Description*
   - *Types de jeux*
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
-- **I. Le marché des consoles**
+- **Le marché des consoles**
   - *Consoles de salon*
   - *Consoles portables*
   - *Téléphones mobiles*
   - *PC*
 
-- **II. Types de distribution**
+- **Types de distribution**
   - Distribution physique
   - Distribution dématérialisée 
 
-- **III. Modèles de revenus**
+- **Modèles de revenus**
   - *Vente lors du téléchargement*
   - *Abonnement*
   - *Publicité* 

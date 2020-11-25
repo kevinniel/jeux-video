@@ -33,38 +33,76 @@ Rpg japonais: scénario à base de quête en équipe, avec des déplacements en 
 |![Tales of Berseria](https://imagehost7.online-image-editor.com/oie_upload/images/25134452v8bIu0Wgb/251444468L5Tf2AT.jpg "Tales of Berseria") | ![Final Fantasy XIII](https://imagehost7.online-image-editor.com/oie_upload/images/25134612z93dMgwVS/2514466VK54AUdU.jpg "Final Fantasy XIII")|
 ##### aventure : 
 Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que sur les réflexes et l'action. plus précisément l'accent est mis sur l'exploration, les dialogues ou la résolution d'énigmes. L'objectif principal est de raconter une histoire.
-| Uncharted | The Last of Us |
+| Bioshock Infinite | The Last of Us |
 |-----------|----------------|
-| ![Uncharted](https://imagehost7.online-image-editor.com/oie_upload/images/25140220lLK68tV93/25145546f29fb7VF.jpg "Uncharted") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
+| ![Bioshock Infinite](https://imagehost7.online-image-editor.com/oie_upload/images/251412447MT2fGVn9/25151239n7HglUlw.jpg "Bioshock Infinite") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
+| Shadow of The Colossus | Doom |
+|------------------------|------|
+| ![Shadow of The Colossus](https://imagehost7.online-image-editor.com/oie_upload/images/25141550csDCJ2/25151543S9gg4p6B.jpg "Shadow of The Colossus") | ![Doom](https://imagehost7.online-image-editor.com/oie_upload/images/25141651lkwGMw/25151646JL6KKB6Y.jpg "Doom") |
 ##### simulation : 
 Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
+| SimCity | Microsoft Flight Simulator |
+|---------|----------------------------|
+| ![Simcity](https://imagehost7.online-image-editor.com/oie_upload/images/251418215Q3i2b11l/25151816qO4GtQKg.jpg "Simcity") | ![Flight Simulator](https://pic.clubic.com/v1/images/1747500/raw?width=1200&fit=max&hash=34e9f216b14790ab42d416e6f2b6786208ecbd69 "Flight Simulator") |
 ##### stratégie :
 Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
+| FrostPunk | NorthGard |
+|-----------|-----------|
+| ![FrostPunk](https://imagehost7.online-image-editor.com/oie_upload/images/251425192j8Ro1/25152515XAdsrNGx.jpg "FrostPunk") | ![Northgard](https://imagehost7.online-image-editor.com/oie_upload/images/25142615cnSrvfBL/25152610KKwJJSFU.jpg "Northgard") |
 ##### plates-formes :
 Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
+| Celeste | The end is Nigh |
+|---------|-----------------|
+| ![Celeste](https://imagehost7.online-image-editor.com/oie_upload/images/25142738xcoOB01b/25152733Hu6NFTuV.jpg "Celeste") | ![The end is nigh](https://imagehost7.online-image-editor.com/oie_upload/images/251429190N0qt9c/25152915NZvQKIGV.jpg "The end is Nigh") |
 ##### 4X:
 Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
+| Stellaris | Civilization VI |
+|-----------|-----------------|
+| ![Stellaris](https://imagehost7.online-image-editor.com/oie_upload/images/25143127xja4hae/25153122bGX2Z3W3.jpg "Stellaris") | ![Civilization VI](https://imagehost7.online-image-editor.com/oie_upload/images/25143314km0cdTSQT8/25153310zwQJBIy0.jpg "Civilization VI") |
 ##### horreur :
 Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
+| Alien Isolation | Amnesia: A Machine for Pigs |
+|-----------------|---------|
+| ![Alien Isolation](https://imagehost7.online-image-editor.com/oie_upload/images/25143514U188ZD2PI/25153587lD4igUJ.jpg "Alien Isolation") | ![Amnesia](https://imagehost7.online-image-editor.com/oie_upload/images/25143838p2b8ZbD8/25153832GQaLRbfU.jpg "Amnesia") |
 ##### survival :
 Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
+| Subnautica | Green Hell |
+|------------|-----------|
+| ![Subnautica](https://imagehost7.online-image-editor.com/oie_upload/images/25144139Avkn0/25154133Uv3gFDwS.jpg "Subnautica") | ![Green Hell](https://imagehost7.online-image-editor.com/oie_upload/images/2514441719v7J/25154312uYTXLJ5i.jpg "Green Hell") |
 ##### idle games :
 Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont un genre de jeux dont la mécanique de jeu principale consiste en de simples actions à l'interactivité volontairement limitée : il peut s'agir de cliquer à répétition ou bien de simplement laisser le jeu s'exécuter, le "joueur" n'ayant alors rien à faire. Le plus souvent, cette mécanique de jeu entraîne une progression monétaire virtuelle permettant d'améliorer certaines caractéristiques afin encore une fois d'accélérer l'acquisition monétaire.
+| Cookie Clicker | AdVenture: Communist |
+|----------------|----------------------|
+| ![Cookie Clicker](https://imagehost7.online-image-editor.com/oie_upload/images/25145241QUikH8R/25155234dbGWV8MI.png "Cookie Clicker") | ![AdVenture Communist](https://imagehost7.online-image-editor.com/oie_upload/images/2514552302r960FDFe/25155516GSppvUWa.jpg "AdVenture: Communist") |
 ##### course :
 Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou atteindre le point d'arrivée le premier. Il tient généralement le rôle d'un coureur ou d'un pilote de machine.
-
+| Trackmania | MarioKart |
+|------------|-----------|
+| ![Trackmania](https://imagehost7.online-image-editor.com/oie_upload/images/25151034ylA4Xlb/25161028B15pNT7a.jpg "Trackmania") | ![MarioKart](https://imagehost7.online-image-editor.com/oie_upload/images/2515930o8kO0/2516921tcUIY0ZM.jpg "Mariokart") |
 # en ligne:
 
 ##### jeu de tir :
 Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la première ou troisième personne) affronte, souvent en équipe, d'autres joueurs, avec pour but de les toucher avec les armes à leur disposition.
+| Call of Duty | Battlefield |
+|--------------|-------------|
+| ![Call of Duty](https://imagehost7.online-image-editor.com/oie_upload/images/25151432j51L0TkH/25161425IZw6P7ZM.jpg "Call of Duty") | ![Battlefield](https://imagehost7.online-image-editor.com/oie_upload/images/25151547mbTIE9W/25161541Wt7WtCqI.jpg "Battlefield") |
 ##### moba :
 Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
+| League of Legends | Smite |
+|-------------------|-------|
+| ![League of Legends](https://imagehost7.online-image-editor.com/oie_upload/images/25151833r8U44Ft91/25161828mEfSFFPf.jpg "League of Legends") | ![Smite](https://imagehost7.online-image-editor.com/oie_upload/images/25151927Qlb5w6/25161922XFAff73B.jpg "Smite") |
 ##### rts :
 RTS, où *Real Time Strategie*, Jeu de stratégie en temps réel en français, est genre de jeu vidéo de stratégie particulier qui notamment et par opposition au jeu de stratégie en tour par tour n'utilise pas un découpage arbitraire du temps en tours de jeu. Le principe de base est "récolter construire détruire": le joueur doit généralement gérer des ressources, développer des bases et créer des unités pour combattre un adversaire. Plusieurs faction sont en général disponible, chacune disposant de spécificités et d'un arbre technologique. L'action se déroulant en temps réel, le joueur ne dispose que d'un temps limité pour gérer ses ressources et ses bases et contrôler ses unités, ce qui introduit les notions de rapidité et de micromanagement et macromanagement en plus de la dimension stratégique et explique que le contrôel à la souris et au clavier soit généralement privilégié.
-##### -tcg :
+| Age of Empire II | Starcraft II |
+|------------------|--------------|
+| ![Age of Empire II](https://labo.fnac.com/wp-content/uploads/2019/06/age-of-empires-ii.jpg "Age of Empire II") | ![Starcraft 2](https://imagehost7.online-image-editor.com/oie_upload/images/25152222L25FYB85w3/25162217D2zkj9LX.png "Starcraft 2") |
+##### tcg :
 Les *Trading Card Game* ou Jeu de cartes à collectionner en français, sont la version virtuelle de leurs homologue papier. il s'agit de jeux  qui utilisent des cartes conçues spécialement pour les jeux en question. Ils diffèrent des jeux de cartes classiques par la grande variété de cartes et l'utilisation par les joueurs de paquets personnalisés. Les cartes ont en général des effets très variés sur le jeu. Une carte contient souvent un dessin et un texte décrivant l'effet de la carte. Le jeu se dérouel souvent dans un monde cohérent, de fantasy, de science-fiction ou autre ; il s'agit parfois d'univers déja connus par exemples venant d'autres jeux. La plupart du temps le jeu consiste à gagner des points ou à en faire perdre à l'adversaire.
+| Hearthstone | Legends of Runeterra |
+|-------------|----------------------|
+| ![hearthstone](https://imagehost7.online-image-editor.com/oie_upload/images/25152544F7DmMRbuNU/25162535eTMFoDBI.jpg "Hearthstone") | ![Legends of Runeterra](https://imagehost7.online-image-editor.com/oie_upload/images/25152638m9DB6T/25162633PjN255EK.jpg "Legends of Runeterra") |
 ##### auto battler :
 Aussi connu sous le nom *Auto Chess*, l'auto battler est un sous-genre des jeux de stratégies qui contient des caractéristiques pouvant faire penser à un plateau d'échec: le joueur place des personnages sur une grille, qui servira de champ de bataille, pour se préparer à l'affrontement d'un autre joueur. Les personnages s'affrontent alors sans intervention de la part des joueurs. Les matchs sont généralements à 8 joueurs, en *FFA* et s'affrontent en 1 contre 1 de manière aléatoire à chaque round. au début de chaque round, le joueur peuvent acheter des unités pour créer des versions améliorés d'une même unité. il y a généralement un système de synergie si certains types d'unités sont en même temps sur le champ de bataille. Pendant l'affrontement, chaque unité a pour but de faire des dégats aux unités adverses, et quand toute les unités d'un camp ont été vaincu, le joueur perdant perd un nombre de point de vie proportionnel aux nombres et à la force des unités restantes sur le terrain de l'adversaire.
 ##### Party games :
