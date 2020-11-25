@@ -137,4 +137,4 @@ Les jeux coopératif, également abrégé **coop** ou **co-op**, est un genre da
 De l'anglais *Massively Multiplayer Online Role-playing game*, c'est un rpg permettant à un grand nombre de joueurs d'interagir simultanément dans un monde virtuel. Ce type de jeu, par la persistance de l'environnement et l'implication qu'il demande, crée des rapports sociaux entre joueurs particulièrements forts.
 | Dofus | Word of Warcraft |
 |-------|------------------|
-| ![Dofus](https://imagehost7.online-image-editor.com/oie_upload/images/2516357O1deGS5OxU/2517353OPrMhM0R.jpg "Dofus") | ![World of Warcraft](https://imagehost7.online-image-editor.com/oie_upload/images/2516440XVktg3L/2517435gZb4bp88.jpg "World of Warcraft") |
+| ![Dofus](https://imagehost7.online-image-editor.com/oie_upload/images/2516357O1deGS5OxU/2517353OPrMhM0R.jpg "Dofus") | ![World of Warcraft](https://imagehost7.online-image-editor.com/oie_upload/images/2516440XVktg3L/2517435gZb4bp88.jpg "World of Warcraft")|
