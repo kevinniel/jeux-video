@@ -12,28 +12,65 @@ Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et compor
 |![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://imagehost7.online-image-editor.com/oie_upload/images/25131224fo5jt5Chy/25141153m7cN9CQ0.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
+| The binding of Isaac | Hades |
+|----------------------|-------|
+|![The binding of Isaac](https://imagehost7.online-image-editor.com/oie_upload/images/25131531J0FNOb/251415221JVraAzf.jpg "The binding of Isaac")| ![Hades](https://imagehost7.online-image-editor.com/oie_upload/images/2513163375Nus08XxX/25141626cLQ4C5TM.jpg "Hades")|
 ##### sandbox : 
 Les jeux dont le gameplay est basé sur les gameplay non linéaire et émergent et qui fait principalement appel à la curiosité et à la créativité du joueur, sans forcément avoir d'objectifs prédéfini.
+| Factorio | Minecraft |
+|----------|-----------|
+|![Factorio](https://imagehost7.online-image-editor.com/oie_upload/images/25132449GJyD5eX/25142142CU2rKS1e.jpg "Factorio")| ![Minecraft](https://imagehost7.online-image-editor.com/oie_upload/images/25132614Ka5A4n57Y/2514263XJloS7cn.jpg "Minecraft")|
 ##### rpg : 
 Les jeux inpsirés du principe des jeux de rôle sur table. Le joueur incarne un ou plusieurs personnage qu'il fera évolué au cours des quêtes. Les rpg contiennent généralement un univers vaste et une laissent une grande liberté de choix et d'actions aux joueurs
+| Skyrim | The Legend of Zelda |
+|--------|---------------------|
+|![Skyrim](https://imagehost7.online-image-editor.com/oie_upload/images/25133727UouTd16/25143719KFqCLGxE.jpg "Skyrim") | ![The Legend of Zelda](https://imagehost7.online-image-editor.com/oie_upload/images/25133854Dbv8RTP73e/25143850T2Oc2P5R.jpg "The Legend of Zelda")|
+
 ##### jrpg :
 Rpg japonais: scénario à base de quête en équipe, avec des déplacements en temps réels mais combat en temps dilaté, souvent sur un écran particulier, et généralement au tour par tour. à la différence du Rpg occidental, il ne laisse généralement que très peu de choix au joueur, pour se focus sur un scénario complexe et développé.
+| Tales of Berseria | Final Fantasy XIII |
+|-------------------|--------------------|
+|![Tales of Berseria](https://imagehost7.online-image-editor.com/oie_upload/images/25134452v8bIu0Wgb/251444468L5Tf2AT.jpg "Tales of Berseria") | ![Final Fantasy XIII](https://imagehost7.online-image-editor.com/oie_upload/images/25134612z93dMgwVS/2514466VK54AUdU.jpg "Final Fantasy XIII")|
 ##### aventure : 
 Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que sur les réflexes et l'action. plus précisément l'accent est mis sur l'exploration, les dialogues ou la résolution d'énigmes. L'objectif principal est de raconter une histoire.
+| Bioshock Infinite | The Last of Us |
+|-----------|----------------|
+| ![Bioshock Infinite](https://imagehost7.online-image-editor.com/oie_upload/images/251412447MT2fGVn9/25151239n7HglUlw.jpg "Bioshock Infinite") | ![The Last of Us](https://cdn.mos.cms.futurecdn.net/CEajpQcrXWZQHMMDqoF3zF-1200-80.jpeg "The last of Us")|
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
+| Shadow of The Colossus | Doom |
+|------------------------|------|
+| ![Shadow of The Colossus](https://imagehost7.online-image-editor.com/oie_upload/images/25141550csDCJ2/25151543S9gg4p6B.jpg "Shadow of The Colossus") | ![Doom](https://imagehost7.online-image-editor.com/oie_upload/images/25141651lkwGMw/25151646JL6KKB6Y.jpg "Doom") |
 ##### simulation : 
 Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
+| SimCity | Microsoft Flight Simulator |
+|---------|----------------------------|
+| ![Simcity](https://imagehost7.online-image-editor.com/oie_upload/images/251418215Q3i2b11l/25151816qO4GtQKg.jpg "Simcity") | ![Flight Simulator](https://pic.clubic.com/v1/images/1747500/raw?width=1200&fit=max&hash=34e9f216b14790ab42d416e6f2b6786208ecbd69 "Flight Simulator") |
 ##### stratégie :
 Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
+| FrostPunk | NorthGard |
+|-----------|-----------|
+| ![FrostPunk](https://imagehost7.online-image-editor.com/oie_upload/images/251425192j8Ro1/25152515XAdsrNGx.jpg "FrostPunk") | ![Northgard](https://imagehost7.online-image-editor.com/oie_upload/images/25142615cnSrvfBL/25152610KKwJJSFU.jpg "Northgard") |
 ##### plates-formes :
 Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
+| Celeste | The end is Nigh |
+|---------|-----------------|
+| ![Celeste](https://imagehost7.online-image-editor.com/oie_upload/images/25142738xcoOB01b/25152733Hu6NFTuV.jpg "Celeste") | ![The end is nigh](https://imagehost7.online-image-editor.com/oie_upload/images/251429190N0qt9c/25152915NZvQKIGV.jpg "The end is Nigh") |
 ##### 4X:
 Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
+| Stellaris | Civilization VI |
+|-----------|-----------------|
+| ![Stellaris](https://imagehost7.online-image-editor.com/oie_upload/images/25143127xja4hae/25153122bGX2Z3W3.jpg "Stellaris") | ![Civilization VI](https://imagehost7.online-image-editor.com/oie_upload/images/25143314km0cdTSQT8/25153310zwQJBIy0.jpg "Civilization VI") |
 ##### horreur :
 Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
+| Alien Isolation | Amnesia: A Machine for Pigs |
+|-----------------|---------|
+| ![Alien Isolation](https://imagehost7.online-image-editor.com/oie_upload/images/25143514U188ZD2PI/25153587lD4igUJ.jpg "Alien Isolation") | ![Amnesia](https://imagehost7.online-image-editor.com/oie_upload/images/25143838p2b8ZbD8/25153832GQaLRbfU.jpg "Amnesia") |
 ##### survival :
 Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
+| Subnautica | Green Hell |
+|------------|-----------|
+| ![Subnautica](https://imagehost7.online-image-editor.com/oie_upload/images/25144139Avkn0/25154133Uv3gFDwS.jpg "Subnautica") | ![Green Hell](https://imagehost7.online-image-editor.com/oie_upload/images/2514441719v7J/25154312uYTXLJ5i.jpg "Green Hell") |
 ##### idle games :
 Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont un genre de jeux dont la mécanique de jeu principale consiste en de simples actions à l'interactivité volontairement limitée : il peut s'agir de cliquer à répétition ou bien de simplement laisser le jeu s'exécuter, le "joueur" n'ayant alors rien à faire. Le plus souvent, cette mécanique de jeu entraîne une progression monétaire virtuelle permettant d'améliorer certaines caractéristiques afin encore une fois d'accélérer l'acquisition monétaire.
 ##### course :

@@ -14,15 +14,19 @@ agréable a regarder. En 2010, YouTube a diffusé une conversation en direct ave
 
 Douyu : 
 DouYu est un service de streaming vidéo chinois en direct. Le site est le plus grand du genre au monde avec 163,6 millions d'utilisateurs actifs mensuels en 2019 plus que les 140 millions d'utilisateurs actifs mensuels de Twitch. 
+![](https://upload.wikimedia.org/wikipedia/en/a/aa/DouYu_logo.png)
 
 Twitch :
 Twitch a été créé afin d'avoir un site consacré à la branche jeux vidéo de Justin.tv, qui était la partie la plus populaire du service. Le nouveau site va alors surpasser son parent, qui ferme en août 2014, pour que l'entreprise se concentre essentiellement sur Twitch. Dans le monde sans la Chine Twitch est la plateforme de streaming la plus connu et la plus utilisé.
+![](https://blog.twitch.tv/assets/uploads/twitch-generic-email-1-1-1-1.jpg)
 
 Facebooklive : 
 La plateforme de streaming de facebook, qui a récament racheter mixeur, qui était la plateforme de streaming de microsoft.
+![](https://2.bp.blogspot.com/-3NGNOyhi-DU/VwUWhjXxdbI/AAAAAAAAYwg/SQOcrthG3JAiYM-LXWtMQP_vnUlMqr0AA/w1200-h630-p-k-no-nu/facebook-live-video-logo.png)
 
 Youtubelive : 
 La plateforme de streaming de youtube qui connait une grande popularité 
+![](https://www.numerama.com/content/uploads/2017/04/youtube_live.png)
 
 
 
