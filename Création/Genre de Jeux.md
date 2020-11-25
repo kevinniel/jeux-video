@@ -46,7 +46,8 @@ Les *Trading Card Game* ou Jeu de cartes à collectionner en français, sont la 
 ##### auto battler :
 Aussi connu sous le nom *Auto Chess*, l'auto battler est un sous-genre des jeux de stratégies qui contient des caractéristiques pouvant faire penser à un plateau d'échec: le joueur place des personnages sur une grille, qui servira de champ de bataille, pour se préparer à l'affrontement d'un autre joueur. Les personnages s'affrontent alors sans intervention de la part des joueurs. Les matchs sont généralements à 8 joueurs, en *FFA* et s'affrontent en 1 contre 1 de manière aléatoire à chaque round. au début de chaque round, le joueur peuvent acheter des unités pour créer des versions améliorés d'une même unité. il y a généralement un système de synergie si certains types d'unités sont en même temps sur le champ de bataille. Pendant l'affrontement, chaque unité a pour but de faire des dégats aux unités adverses, et quand toute les unités d'un camp ont été vaincu, le joueur perdant perd un nombre de point de vie proportionnel aux nombres et à la force des unités restantes sur le terrain de l'adversaire.
 ##### Party games :
+Littéralement *Jeu vidéo de soirée*, un party game est un jeu censé rassembler de nombreux joueurs autour d'un concept simple, amusant et accessible. Généralement le party game est composé de plusieurs sous-parties proposant des phases de mini-jeux en alternance, où les différents joueurs s'affrontent directement ou indirectement. Le genre a pour but de mélanger les joueurs avec des niveaux parfois très disparates, c'est pourquoi l'élimination d'un joueur est rarement existente dans ces jeux.
+##### jeu de combat:
 
-    -jeu de combat
     -battleroyale
     -coop
