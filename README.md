@@ -60,7 +60,7 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Prix des meilleurs JV](Histoire/Prix_des_meilleurs_JV.md)
 - [Rétrogaming](Histoire/Retrogaming.md)
 
-### 4.6 - Acteurs(Acteurs)
+### 4.6 - [Acteurs](Acteurs)
 - [Plateformes](Acteurs/plateformes.md)
 - [Studio, Editeur et Constructeur](Acteurs/studioEditeurConstructeur.md)
 - [Les métiers du jeu vidéo](Acteurs/MetiersDuJeuVideo.md)
