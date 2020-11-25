@@ -1,1 +1,10 @@
-### Playstation
+### Matériel
+- nintendo
+- windows/linux
+- playstation
+- android/IOS
+- commodore
+- gamecube
+- Xbox
+- atari
+- PC
