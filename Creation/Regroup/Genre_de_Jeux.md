@@ -43,6 +43,9 @@ Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui
 | ![Shadow of The Colossus](https://imagehost7.online-image-editor.com/oie_upload/images/25141550csDCJ2/25151543S9gg4p6B.jpg "Shadow of The Colossus") | ![Doom](https://imagehost7.online-image-editor.com/oie_upload/images/25141651lkwGMw/25151646JL6KKB6Y.jpg "Doom") |
 ##### simulation : 
 Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
+| SimCity | Microsoft Flight Simulator |
+|---------|----------------------------|
+| ![Simcity](https://imagehost7.online-image-editor.com/oie_upload/images/251418215Q3i2b11l/25151816qO4GtQKg.jpg "Simcity") | ![Flight Simulator](https://pic.clubic.com/v1/images/1747500/raw?width=1200&fit=max&hash=34e9f216b14790ab42d416e6f2b6786208ecbd69 "Flight Simulator") |
 ##### stratégie :
 Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
 ##### plates-formes :
