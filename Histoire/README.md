@@ -2,9 +2,9 @@
 
 ## **_1_ -** [Evolution des jeux vidéos](Evolution_JV.md)
 
-- Le début avec les consoles de salon et les bornes d'arcades
+- **Le début avec les consoles de salon et les bornes d'arcades**
 
-- Les premiers jeux PC et l'avenir avec Steam & CO
+- **Les premiers jeux PC et l'avenir avec Steam & CO**
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
@@ -37,8 +37,21 @@
   - *Types de jeux*
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
-- 
-- 
+- **I. Le marché des consoles**
+  - *Consoles de salon*
+  - *Consoles portables*
+  - *Téléphones mobiles*
+  - *PC*
+
+- **II. Types de distribution**
+  - Distribution physique
+  - Distribution dématérialisée 
+
+- **III. Modèles de revenus**
+  - *Vente lors du téléchargement*
+  - *Abonnement*
+  - *Publicité* 
+  - *Financement participatif*
 
 ## **_4_ -** [Influence du jeu vidéo](Influence_JV_Culture.md)
 - Introduction
