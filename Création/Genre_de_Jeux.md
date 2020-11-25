@@ -2,8 +2,14 @@
 
 ##### point and click : 
 Les jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
+| The Dig | Gabriel Knight |
+|---------|----------------|
+| ![The Dig](https://classicreload.com/sites/default/files/dosx-the-dig-screenshot.png "The Dig")| ![Gabriel Knight](https://1.bp.blogspot.com/-FzFkQYOAY4A/VtZQd_hSS-I/AAAAAAAAFz4/reMsaU8cdfE/s1600/GK%2BVoodoo%2BMuseum%2BOriginal.png "Gabriel Knight")
 ##### metroidvania : 
 Les jeux qui se sont inspirés des séries *Metroid* et *Castlevania*, et comportent des cartes et des mondes connectés entre eux que le joueur peut explorer mais certaines ne sont pas accessible car fermées ou inatteignables, qu'il pourra ensuite parcourir une fois des compétences débloquées. Cela se traduit souvent par la mécanique de "backtrack" qui consiste à devoir souvent revenir sur ses pas pour explorer à nouveau une zone, une fois un nouveau pouvoir débloqué.
+| Hollow Knight | Blasphemous |
+|---------------|-------------|
+|![Hollow Knight](https://cdn.radiofrance.fr/s3/cruiser-production/2018/06/6d387c00-491e-4e5a-9ee9-742d3038ec9d/1136_20180615230750_1.jpg "Hollow Knight") | ![Blasphemous](https://imagehost7.online-image-editor.com/oie_upload/images/25131224fo5jt5Chy/25141153m7cN9CQ0.jpg "Blasphemous")
 ##### roguelike :
 Les jeux à exploration d'un donjon rempli d'ennemi à combattre pour gagner des compétences, des trésors et des niveaux. Le genre est caractérisé par la génération procédurale des niveaux et la mort permanente, ce qui induit une grande rejouabilité.
 ##### sandbox : 
