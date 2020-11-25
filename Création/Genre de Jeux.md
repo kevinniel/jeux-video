@@ -41,9 +41,10 @@ Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la prem
 Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
 ##### rts :
 RTS, où *Real Time Strategie*, Jeu de stratégie en temps réel en français, est genre de jeu vidéo de stratégie particulier qui notamment et par opposition au jeu de stratégie en tour par tour n'utilise pas un découpage arbitraire du temps en tours de jeu. Le principe de base est "récolter construire détruire": le joueur doit généralement gérer des ressources, développer des bases et créer des unités pour combattre un adversaire. Plusieurs faction sont en général disponible, chacune disposant de spécificités et d'un arbre technologique. L'action se déroulant en temps réel, le joueur ne dispose que d'un temps limité pour gérer ses ressources et ses bases et contrôler ses unités, ce qui introduit les notions de rapidité et de micromanagement et macromanagement en plus de la dimension stratégique et explique que le contrôel à la souris et au clavier soit généralement privilégié.
-##### tour par tour: 
-    -tcg
-    -autobattle
+##### -tcg :
+Les *Trading Card Game* ou Jeu de cartes à collectionner en français, sont la version virtuelle de leurs homologue papier. il s'agit de jeux  qui utilisent des cartes conçues spécialement pour les jeux en question. Ils diffèrent des jeux de cartes classiques par la grande variété de cartes et l'utilisation par les joueurs de paquets personnalisés. Les cartes ont en général des effets très variés sur le jeu. Une carte contient souvent un dessin et un texte décrivant l'effet de la carte. Le jeu se dérouel souvent dans un monde cohérent, de fantasy, de science-fiction ou autre ; il s'agit parfois d'univers déja connus par exemples venant d'autres jeux. La plupart du temps le jeu consiste à gagner des points ou à en faire perdre à l'adversaire.
+##### autobattle :
+
     -party games
     -jeu de combat
     -battleroyale
