@@ -1,4 +1,4 @@
-# **UN JOUEUR**  
+# **Jeu vidéo à un joueur :**  
  
  
 ### **_1. Description_**
@@ -25,7 +25,7 @@ pour lancer une partie. Unreal Tournament, et les FPS multijoueurs en sont un ex
  
  
  
-# **DEUX JOUEUR**
+# **Jeu vidéo à deux joueurs :**
  
  
 ### **_1. Description_**
@@ -41,7 +41,7 @@ au deuxième joueur d'aider le premier avec un pointeur, mais aussi les jeux de 
  
  
  
-# **MULTIJOUEUR**
+# **Jeu vidéo en multijoueur :**
  
  
 ### **_1. Description_**
@@ -70,7 +70,7 @@ comme par exemple **Call Of Duty**, un **jeu de guerre** où l'on incarne un sol
  
  
  
-# **JEU EN ÉQUIPE**
+# **Jeu vidéo de coopération**
  
  
 ### **_1. Description_**
@@ -93,7 +93,7 @@ pour pour détruire la base de l'adversaire. Il est le jeux ayant la scène comp
  
  
  
-# **MASSIVEMENT MULTIJOUEUR**
+# **Jeu vidéo massivement multijoueur :**
    
    
 ### **_1. Description_**
@@ -130,7 +130,7 @@ Le genre **massivement multijoueur** est essentiellement représenté par des je
  
  
  
-# **ESCARMOUCHE**
+# **Jeu vidéo d'escarmouche :**
  
  
 ### **_1. Description_**

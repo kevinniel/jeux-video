@@ -6,7 +6,7 @@
 
 > Pour illustrer ce qu'est une mécanique on peut utiliser les briques de gameplay.
 > C'est un ensemble d'illustration qui représente bien différentes gameplay :
->>> https://sebastiennavarro.wordpress.com/2017/11/13/comprendre-les-mecanismes-des-jeux-video/
+>>> **[Comprendre les mécanismes des jeux vidéo](https://sebastiennavarro.wordpress.com/2017/11/13/comprendre-les-mecanismes-des-jeux-video/)**
 
 	Gérer
 	Déplacer
@@ -25,18 +25,15 @@
 
 >> -La sélection des personnages : Certain jeux vont vous proposez de créer votre propre personnage ( avec plus ou moins de profondeur / d'options de création en fonction du jeu) (ex : Mass Effect / Divinity ), tandis que d'autres vont vous en imposez un déjà fait ( Uncharted, The witcher, et les derniers vont vous proposez une liste de personnages avec leur propre caractéristiques ( Overwatch, Super smash brawl, League of Legend )
 
-
 > Parmis les mécaniques de jeux beaucoup plus rare, qu'on ne trouve que dans quelques jeux, on peut citer :
 
 >>> - Le fait de pouvoir grimper sur ses énnemis afin de pouvoir les attaquer ( Monster hunter, Shadow of the colossus, darksider 2 )
 
->>> - L'histoire en coopération, je pense a "A WAY OUT", un jeu coopératif naratif où les deux joueurs joue un personnage différent, **SPOILER ALERTE** et qui les fait se combattre a la fin.
-
->>> - Dans "Doki Doki Literature club" il faut aller dans le fichier du jeu et supprimer un fichier afin de pouvoir continuer dans l'histoire, et c'est voulus.
+>>> - L'histoire en coopération, un jeu coopératif naratif où les deux joueurs joue un personnage différent.
 
 >>> - Le choix d'un jeu a l'autre, La trilogie Mass effect par exemple, si vous avez jouer au 1 et que vous jouez au 2, le jeu va détecter le premier jeu et va aller fouiller dans les fichiers pour savoir les choix fait afin de modifier en partie son histoire.
 
->>> - L'arbre de talents amovible dans Wolcen, "Wolcen Lors of Mayhem" est un hack'n Slahs qui possède un arbre de talent qui est formé en rond (Comme pour Path of Exile), sauf que les développeurs ont eu l'idée de diviser le cercle de l'arbre de talent en 3 partie, et de permettre aux joueurs de déplacer ses parties, leur permettant de créer une très grande quantité de build (manière de jouer).
+>>> - L'arbre de talents amovible dans Wolcen, est un hack'n Slahs qui possède un arbre de talent qui est formé en rond (Comme pour Path of Exile), sauf que les développeurs ont eu l'idée de diviser le cercle de l'arbre de talent en 3 partie, et de permettre aux joueurs de déplacer ses parties, leur permettant de créer une très grande quantité de build (manière de jouer).
 
 > Parmis les différentes mécaniques d'un jeu on trouve aussi celle qui sont pour le modèle économique du jeu :
 
