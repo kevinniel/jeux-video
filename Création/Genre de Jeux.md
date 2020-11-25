@@ -24,8 +24,9 @@ Les jeux dont le but est de réaliser un objectif connu augmenter sa domination 
 Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
 ##### 4X:
 Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
-##### die and retry:
-    -horreur
+##### horreur :
+Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
+##### survival :
     -idle games
     -course
 
