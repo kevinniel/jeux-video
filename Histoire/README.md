@@ -19,7 +19,7 @@
 - Démographie
 - Social ou Antisocial ?
 - Implications sociales des jeux vidéo
-- L'apparition de sous-culture
+- Apparition de sous-culture
 
 ## **_5_ -** [Prix des meilleurs jeux vidéo](Prix_des_meilleurs_JV.md)
 - Prix basés sur les jeux vidéo les plus vendus
