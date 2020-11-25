@@ -48,6 +48,7 @@ Aussi connu sous le nom *Auto Chess*, l'auto battler est un sous-genre des jeux 
 ##### Party games :
 Littéralement *Jeu vidéo de soirée*, un party game est un jeu censé rassembler de nombreux joueurs autour d'un concept simple, amusant et accessible. Généralement le party game est composé de plusieurs sous-parties proposant des phases de mini-jeux en alternance, où les différents joueurs s'affrontent directement ou indirectement. Le genre a pour but de mélanger les joueurs avec des niveaux parfois très disparates, c'est pourquoi l'élimination d'un joueur est rarement existente dans ces jeux.
 ##### jeu de combat:
+C'est un genre opposant un nombre limité de personnages (deux le plus souvent), où les joueurs s'affrontent directement pour essayer de faire tomber les points de vie du joueur adverse à zéro. Les principes du jeu de combat sont généralement : les opposants ont chacun une barre d'énergie, qui baisse lorsqu'un coup est reçu. Il est possible de parer les coups de l'adversaire, pour annuler ou minimiser les dégâts infligés. Il y a aussi la possibilité d'esquiver sur certains jeux de combat. Certains coups, appelés parfois "Coup Spéciaux", nécessitent une manipulation donnée effectuée en un certain timing (généralement une combinaison de touches, ou un mélange touches/joystick lorsqu'il est présent). Les matchs sont divisé en *rounds* définis à l'avance (dans la plupart des cas 2 *rounds* gagnant).
+##### battleroyale:
 
-    -battleroyale
     -coop
