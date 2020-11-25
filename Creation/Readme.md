@@ -1,11 +1,11 @@
-# [Différentes mécaniques](Differentes_mecaniques.md)
+# [Différentes mécaniques](Regroup/Differentes_mecaniques.md)
 
-# [Genre de Jeux](Genre_de_Jeux.md)
+# [Genre de Jeux](Regroup/Genre_de_Jeux.md)
 
-# [Inspirations](Inspirations.md)
+# [Inspirations](Regroup/Inspirations.md)
 
-# [Musique](Musique.md)
+# [Musique](Regroup/Musique.md)
 
-# [Scenario](Scenario.md)
+# [Scenario](Regroup/Scenario.md)
 
-# [Styles graphiques](Styles_graphiques.md)
+# [Styles graphiques](Regroup/Styles_graphiques.md)
