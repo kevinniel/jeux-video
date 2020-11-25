@@ -47,10 +47,9 @@ Système d’exploitation, processeur, carte graphique, mémoire vive, carte son
 Il existe un éventail très large dans les coûts de développement des jeux vidéo sur PC, pouvant aller de l’ordre de la **centaine de milliers** d’euros jusqu’à **des millions** d’euros. Le souci majeur rencontré par les développeurs est celui du **piratage informatique** par le téléchargement illégal via Internet, malgré tous les moyens de protection mis en place. Il est en effet plus facile de pirater un jeu pour une utilisation sur un ordinateur que pour une console.  
 De nouveaux modèles de distribution et de revenus ont donc vu le jour à la suite du développement massif d'Internet. Malgré la bonne intégration des consoles sur le marché des jeux vidéo, le PC reste la plateforme de jeu la plus utilisée au monde, en grande partie grâce au développement d’Internet et donc des jeux *«Online»*.  
 
-_Chronologie et durée de commercialisation des consoles de jeu :_
-
-| Chronologie et durée de commercialisation des consoles de jeu |
-| ![Chronologie et durée de commercialisation des consoles de jeu](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png) |
+| _Chronologie et durée de commercialisation des consoles de jeu :_ |
+| ----------------------------------------------------------------- |
+|   ![Image Chronologie](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png) |
 
 
 # **II. Types de distribution :**
