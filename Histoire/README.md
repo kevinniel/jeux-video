@@ -7,6 +7,7 @@
 - Les premiers jeux PC et l'avenir avec Steam & CO
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
+<<<<<<< HEAD
 
 - Un joueur
  - Description
@@ -35,9 +36,32 @@
 - Escarmouche
  - Description
  - Types de jeux
+=======
+- 
+- 
+>>>>>>> 18639606cae95a56bbb4e498a99b1be8c90e0755
 
 ## **_3_ -** [Evolution des moyens](Evolution_des_moyens.md)
+- 
+- 
+
 ## **_4_ -** [Influence du jeu vidéo](Influence_JV_Culture.md)
+- Introduction
+- Démographie
+- Social ou Antisocial ?
+- Implications sociales des jeux vidéo
+- L'apparition de sous-culture
+
 ## **_5_ -** [Prix des meilleurs jeux vidéo](Prix_des_meilleurs_JV.md)
+- Prix basés sur les jeux vidéo les plus vendus
+
 ## **_6_ -** [Retrogaming](Retrogaming.md)
+- Introduction
+- Définition
+- Démocratisation
+- Populaire en 2020 ?
+
 ## **_7_ -** [Top flop](Top_flop.md)
+- Top
+- Flop
+- Facteurs de popularité
