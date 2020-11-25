@@ -1,7 +1,7 @@
 ### solo:
 
-    -point and click
-    -metroidvania
+    -point and click : sont des jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
+    -metroidvania 
     -roguelike
     -sandbox
     -rpg
