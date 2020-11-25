@@ -1,6 +1,5 @@
 # **SOMMAIRE**
 
-<<<<<<< HEAD
 ## **_1_ -** [Evolution des jeux vidéos](https://github.com/kevinniel/jeux-video/blob/master/Histoire/Evolution_JV.md)_
 
   -Le début avec les consoles de salon et les bornes d'arcades
