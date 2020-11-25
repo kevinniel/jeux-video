@@ -2,9 +2,9 @@
 
 ## **_1_ -** [Evolution des jeux vidéos](Evolution_JV.md)
 
-- [Consoles de salon & bornes d'arcade](Evolution_JV.md#consoles-de-salon-&-bornes-darcade-)
+- [Consoles de salon & bornes d'arcade](Evolution_JV.md#consoles-de-salon-bornes-darcade-)
 
-- [Premiers jeux PC / Avenir avec Steam & Co](Evolution_JV.md#pc-steam-&-co-)
+- [Premiers jeux PC / Avenir avec Steam & Co](Evolution_JV.md#pc-steam-co-)
 
 ## **_2_ -** [Evolution des modes](Evolution_des_modes.md)
 
@@ -22,7 +22,7 @@
   - *Historique*
   - *Types de jeux*
 
-- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-en-coopération-)
+- [Jeu vidéo en coopération](Evolution_des_modes.md#jeu-vidéo-de-coopération-)
   - *Description*
   - *Historique*
   - *Types de jeux*
