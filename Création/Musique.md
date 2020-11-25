@@ -1,6 +1,6 @@
 # Musique / Atmosphère
 
-La musique de jeu vidéo est la bande son ou tout morceau musical composé pour un jeu vidéo. Son histoire, qui remonte aux années 1970, est notamment marquée par un accroissement continu de la qualité sonore des jeux vidéo, grâce aux progrès technologiques et surtout à l'augmentation de la mémoire disponible. Auparavant limitées à des sonorités minimalistes, ces musiques peuvent aujourd'hui être enregistrées par de véritables orchestres, même si les compositeurs continuent à avoir recours à des synthétiseurs pour leurs travaux, par choix ou pour limiter les coûts de production.
+La musique de jeu vidéo est la bande son où tout morceau musical est composé pour un jeu vidéo. Son histoire, qui remonte aux années 1970, est notamment marquée par un accroissement continu de la qualité sonore des jeux vidéo, grâce aux progrès technologiques et surtout à l'augmentation de la mémoire disponible. Auparavant limitées à des sonorités minimalistes, ces musiques peuvent aujourd'hui être enregistrées par de véritables orchestres, même si les compositeurs continuent à avoir recours à des synthétiseurs pour leurs travaux, par choix ou pour limiter les coûts de production.
 
 D'un simple "bip" dans les années 70 aux partitions pour orchestres symphoniques aujourd'hui, la musique des jeux vidéo est devenue aussi importante que les bandes originales de films.
 
