@@ -1,4 +1,4 @@
-### solo:
+# solo:
 
 ##### point and click : 
 Les jeux qui se jouent uniquement avec la souris, où généralement le joueur clique pour interagir avec les personnages, le décor, les objets et son inventaire pour faire avancer l'histoire.
@@ -17,23 +17,34 @@ Les jeux dont l'intérêt prédominant se focalise sur la narration plutôt que 
 ##### action : 
 Les jeux dont le gameplay est fondé sur les interactions en temps réels et qui fait essentiellement appel à l'habileté et aux réflexes du joueur. Désigne généralement des Oeuvres de confrontation violentes comme les jeux de combat ou les fps (first person shooter), son genre peut cependant être étendu à des types de jeux très variés, des casses briques aux jeux de sport. Il s'agit du genre de jeu le plus représenté.
 ##### simulation : 
-    -stratégie
-    -plateforme
-    -4X
-    -die and retry
-    -horreur
-    -idle games
-    -course
+Les jeux qui reproduisent une activité ou une action dans divers environnements. Les plus populaires sont les *jeux de gestion*. Le genre désigne aussi les jeux de conduite ou de pilotage virtuels d'engins de toutes natures ( avion, voiture moto, navette spaciale etc). Le domaine étant très vaste, il peut parfois croiser d'autres genres.
+##### stratégie :
+Les jeux dont le but est de réaliser un objectif connu augmenter sa domination spatiale, combattre un ou plusieurs ennemis sur un terrain de jeu, faire prospérer une entité… L'accent n'est pas mis sur l'adresse du joueur mais sur la planification de l'action (tactique ou stratégique). On a tendance à appeler *jeu de stratégie* tout jeu faisant appel à la réflexion.
+##### plates-formes :
+Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
+##### 4X:
+Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
+##### horreur :
+Jeux dans lequel le joueur dirige un personnage qui évolue et doit survivre dans un environnement hostile, sombre, violent et oppressant, peuplé de monstres et autres créatures surnaturelles. L'oppression et la peur font partie de l'atmosphère du jeu d'horreur. Le gameplay fait généralement en sorte que le joueur ne se sente pas aussi puissant qu'il le serait typiquement dans un jeu d'action, et ce en limitant par exemple la quantité de munitions, d'énergie, ou la vitesse. Le joueur doit parfois chercher certains objets pour avoir accès à un passage vers une nouvelle zone, et résoudre des énigmes à certains moments.
+##### survival :
+Sous-genre du jeu d'action où le joueur démarre généralement avec un minimum de ressources dans un monde ouvert hostile, et a pour mission de collecter des ressources, fabriquer des outils, des armes, s'abriter, afin de survivre le plus longtemps possible. Beaucoup de jeux de survie sont basés sur une génération procédurale ou aléatoire d'un environnement persistant, avec plus récemment des sorties de jeux de survie jouable en ligne et multijoueur plutôt que seul, dans un monde persistant. Les jeux de survie sont en général de type Sandbox, sans objectif précis.
+##### idle games :
+Les idle games, appelés **jeu Incrémental** ou encore **Clicker game**, sont un genre de jeux dont la mécanique de jeu principale consiste en de simples actions à l'interactivité volontairement limitée : il peut s'agir de cliquer à répétition ou bien de simplement laisser le jeu s'exécuter, le "joueur" n'ayant alors rien à faire. Le plus souvent, cette mécanique de jeu entraîne une progression monétaire virtuelle permettant d'améliorer certaines caractéristiques afin encore une fois d'accélérer l'acquisition monétaire.
+##### course :
+Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou atteindre le point d'arrivée le premier. Il tient généralement le rôle d'un coureur ou d'un pilote de machine.
 
-### en ligne:
+# en ligne:
 
-    -jeu de tir
-    -moba
-    -rts
-    -battleroyale
-    -tour par tour
+##### jeu de tir :
+Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la première ou troisième personne) affronte, souvent en équipe, d'autres joueurs, avec pour but de les toucher avec les armes à leur disposition.
+##### moba :
+Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
+##### rts :
+RTS, où *Real Time Strategie*, Jeu de stratégie en temps réel en français, est genre de jeu vidéo de stratégie particulier qui notamment et par opposition au jeu de stratégie en tour par tour n'utilise pas un découpage arbitraire du temps en tours de jeu. Le principe de base est "récolter construire détruire": le joueur doit généralement gérer des ressources, développer des bases et créer des unités pour combattre un adversaire. Plusieurs faction sont en général disponible, chacune disposant de spécificités et d'un arbre technologique. L'action se déroulant en temps réel, le joueur ne dispose que d'un temps limité pour gérer ses ressources et ses bases et contrôler ses unités, ce qui introduit les notions de rapidité et de micromanagement et macromanagement en plus de la dimension stratégique et explique que le contrôel à la souris et au clavier soit généralement privilégié.
+##### tour par tour: 
     -tcg
     -autobattle
     -party games
     -jeu de combat
+    -battleroyale
     -coop
