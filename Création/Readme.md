@@ -1,6 +1,6 @@
-# [Differentes_mecaniques](Differentes_mecaniques.md)
+# [Différentes mécaniques](Differentes_mecaniques.md)
 
-# [Genre_de_Jeux](Genre_de_Jeux.md)
+# [Genre de Jeux](Genre_de_Jeux.md)
 
 # [Inspirations](Inspirations.md)
 
@@ -8,4 +8,4 @@
 
 # [Scenario](Scenario.md)
 
-# [Styles_graphiques](Styles_graphiques.md)
+# [Styles graphiques](Styles_graphiques.md)
