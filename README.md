@@ -66,7 +66,7 @@ A chaque fois qu'un sujet est créé ou terminé, alors l'équipe devra intégre
 - [Les métiers du jeu vidéo](Acteurs/MetiersDuJeuVideo.md)
 - [Les "NoLife"](Acteurs/nolife.md)
 
-### 4.7 - [L'humain dans les JV](Humain)
+### 4.7 - [L'humain dans les Jeux Vidéo](Humain)
 - [Accessibilité pour les consommateur](Humain/Accessibilite_pour_les_consommateurs.md)
 - [Addiction](Humain/Addiction.md)
 - [Communication vidéoludique](Humain/Communication_videoludique.md)
