@@ -53,6 +53,9 @@ Les jeux dont le but est de réaliser un objectif connu augmenter sa domination 
 | ![FrostPunk](https://imagehost7.online-image-editor.com/oie_upload/images/251425192j8Ro1/25152515XAdsrNGx.jpg "FrostPunk") | ![Northgard](https://imagehost7.online-image-editor.com/oie_upload/images/25142615cnSrvfBL/25152610KKwJJSFU.jpg "Northgard") |
 ##### plates-formes :
 Les jeux de plates-formes sont un sous-genre du jeu d'action. Le joueur contrôle un avatar qui doit sauter sur des plates-formes supsendues dans les airs et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a le contrôle sur la hauteur et la distance des sauts. D'autres manoeuvres acrobatiques peuvent venir modifier le gameplay, comme un grappin, un double saut, une roulade etc.
+| Celeste | The end is Nigh |
+|---------|-----------------|
+| ![Celeste](https://imagehost7.online-image-editor.com/oie_upload/images/25142738xcoOB01b/25152733Hu6NFTuV.jpg "Celeste") | ![The end is nigh](https://imagehost7.online-image-editor.com/oie_upload/images/251429190N0qt9c/25152915NZvQKIGV.jpg "The end is Nigh") |
 ##### 4X:
 Sous-genre des jeux de stratégie dans lequel le joueur contrôle un empire et dont le gameplay est fondé sur 4 principes: **Exploration**, **Expansion**, **Exploitation**, **Extermination** (le terme 4X viennent de la prononciation anglaise de ses principes). Parfois aussi considérés comme des jeux de gestions, les 4X sont réputés pour leur profondeur et leur système de jeu complexe. L'accent est mis sur le développement économique et technologique d'un empire virtuel que le joueur doit mener à la suprématie. Jouer une partie complète dure en général très longtemps, car la gestion d'un empire étendu demande beaucoup de micromanagement.
 ##### horreur :
