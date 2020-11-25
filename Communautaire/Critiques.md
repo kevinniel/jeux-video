@@ -10,6 +10,6 @@ La critique communautaire est un avis des joueurs qui elle est très souvent fai
 Quand une critique  est suivie d'une note moyenne, la communauté est très souvent faussée à cause de certaines perssones aimant un jeu concurrent et faisant leur possible pour dénigrer celui-ci.
 
 Quand les jeux de mode Battle Royal ont vu le jour il y a eu beaucoup de conccurence ce qui a amené les joueurs à s'accaparer un seul jeu et être en discord avec les joueurs d'un autre jeu ou d'une autre communauté.
-Par exemple quand Apex Legends est sorti il y a beaucoup de joueurs Fortnite qui ont délaissé celui ci pour aller sur Apex Legends ce qui a créer des conflits.
+Par exemple quand Apex Legends est sorti il y a  beaucoup de joueurs Fortnite qui ont délaissé celui ci pour aller sur Apex Legends ce qui a créer des conflits.
 
 
