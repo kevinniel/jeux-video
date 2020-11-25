@@ -13,13 +13,13 @@
 	1. Définir les personnages principaux, créer le monde et une intrigue générale.
 	
 	2. Créer le méchant ainsi que les personnages secondaire. Ensuite se concentrer sur les détails des personnages, physique comme psychologique
- (qui pourront aider au scénario ou rendre plus évident les rapports entre les personnages) 
+	(qui pourront aider au scénario ou rendre plus évident les rapports entre les personnages) 
  
 	3. Développer la géographie (carte du monde). en faisant cela avant le création du scénario on pourra avoir une ligne directice plus clair pour
- le déroulement de l'aventure. Il faudra penser à ajouter des lieux et leurs spécificité.
+	le déroulement de l'aventure. Il faudra penser à ajouter des lieux et leurs spécificité.
  
 	4. Créer des quête principales et secondaires. c'est une étape difficile car il faut faire de nombreuse petites quêtes permettant aux personnages
- de s'améliorer mais sans perdre de vue la quête principale.
+	de s'améliorer mais sans perdre de vue la quête principale.
  
 	5. Disperser les quêtes sur la carte du monde pour organiser le déroulement de l'histoire.
 	
@@ -31,7 +31,8 @@
 -Selon les jeux le scénario à un place plus ou moins importante, certain vont vouloir développer un maximum leur scénario quand d'autre ne se focaliseront
  que sur le gameplay par exemple. Le scénario n'est donc pas essentiel.
 
-Il existe des scénario linéaire et d'autre non linéaire :
+**Les scénarios linéaire et non linéaire :**
+
 -scénario linéaire : scénario classique avec une suite chronologique, un événement se produit et par lien de cause à effet, un autre événement se produira.
 Le lien de causualité est un bon moyen de mise en oeuvre d'une histoire, et l'enchaînement logique d'événements est un bon outil pour développer l'arc dramatique d'un personnage. 
 
