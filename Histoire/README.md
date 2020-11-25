@@ -7,30 +7,10 @@
 -Les premiers jeux PC et l'avenir avec Steam & CO
 -Avec leurs évolutions chronologique
 
-
-
-<<<<<<< HEAD
-=======
-    -Avec leurs évolutions chronologique
-
-
->>>>>>> 7b94a09744f67ff15da3b71db1a86eafe85a2dd5
-
-
-
-
-<<<<<<< HEAD
-
-
-
-
-=======
-
 #### Table of contents
 
 =======
 METHODE DE SOMMAIRE:
->>>>>>> 7b94a09744f67ff15da3b71db1a86eafe85a2dd5
 
 [Histoire](Histoire)
 - [Evolution du jeu vidéo](Evolution_JV.md)
