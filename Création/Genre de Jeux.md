@@ -39,11 +39,12 @@ Les jeux de courses sont un genre dans lequel le joueur doit finir un circuit ou
 Un jeu de tir est un jeu dans lequel le joueur (généralement en vue à la première ou troisième personne) affronte, souvent en équipe, d'autres joueurs, avec pour but de les toucher avec les armes à leur disposition.
 ##### moba :
 Le Moba, qui correspond aux initiales de *Multiplayer Online Battle Arena*, est un genre qui se joue généralement avec deux équpes de cinq joueurs. L'objectif puor chaque équipe est de détruire la structure principale de l'équipe adverse, au moyen des personnages contrôlés par chaque joueur et avec l'aide des unités contrôlées par l'ordinateur. C'est un genre en constante progression.
-    -rts
-    -battleroyale
-    -tour par tour
+##### rts :
+RTS, où *Real Time Strategie*, Jeu de stratégie en temps réel en français, est genre de jeu vidéo de stratégie particulier qui notamment et par opposition au jeu de stratégie en tour par tour n'utilise pas un découpage arbitraire du temps en tours de jeu. Le principe de base est "récolter construire détruire": le joueur doit généralement gérer des ressources, développer des bases et créer des unités pour combattre un adversaire. Plusieurs faction sont en général disponible, chacune disposant de spécificités et d'un arbre technologique. L'action se déroulant en temps réel, le joueur ne dispose que d'un temps limité pour gérer ses ressources et ses bases et contrôler ses unités, ce qui introduit les notions de rapidité et de micromanagement et macromanagement en plus de la dimension stratégique et explique que le contrôel à la souris et au clavier soit généralement privilégié.
+##### tour par tour: 
     -tcg
     -autobattle
     -party games
     -jeu de combat
+    -battleroyale
     -coop
