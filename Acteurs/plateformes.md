@@ -63,5 +63,6 @@ Le service vend des jeux classiques sur PC, mis à jour afin de fonctionner sans
 Depuis les années 2010, la plate-forme s'oriente ostensiblement vers la scène du jeu vidéo indépendant en proposant régulièrement des titres issus de cette mouvance.
 
 *Il existe aussi des plateformes de distribution de jeux-vidéos pour console.*
-Par exemple nous avons : Uplay, Activision, playstation +, Epic Games, etc...
-Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...
+*Par exemple nous avons : Uplay, playstation +, Epic Games, etc...*
+*Mais à présent chaque jeu vidéo disponible sur console peut-être obtenus*
+*sur ordinateur grâce à Stadia, Uplay+, Playstation Now, etc...*
