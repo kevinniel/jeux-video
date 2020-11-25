@@ -10,20 +10,20 @@
 
 ## Les différentes étapes pour faire un scénario :
 
-	1. Définir les personnages principaux, créer le monde et une intrigue générale.
+- 1 : Définir les personnages principaux, créer le monde et une intrigue générale.
 	
-	2. Créer le méchant ainsi que les personnages secondaire. Ensuite se concentrer sur les détails des personnages, physique comme psychologique
-	(qui pourront aider au scénario ou rendre plus évident les rapports entre les personnages) 
+- 2 : Créer le méchant ainsi que les personnages secondaire. Ensuite se concentrer sur les détails des personnages, physique comme psychologique
+(qui pourront aider au scénario ou rendre plus évident les rapports entre les personnages) 
  
-	3. Développer la géographie (carte du monde). en faisant cela avant le création du scénario on pourra avoir une ligne directice plus clair pour
-	le déroulement de l'aventure. Il faudra penser à ajouter des lieux et leurs spécificité.
+- 3 : Développer la géographie (carte du monde). en faisant cela avant le création du scénario on pourra avoir une ligne directice plus clair pour
+le déroulement de l'aventure. Il faudra penser à ajouter des lieux et leurs spécificité.
  
-	4. Créer des quête principales et secondaires. c'est une étape difficile car il faut faire de nombreuse petites quêtes permettant aux personnages
-	de s'améliorer mais sans perdre de vue la quête principale.
+- 4 : Créer des quête principales et secondaires. c'est une étape difficile car il faut faire de nombreuse petites quêtes permettant aux personnages
+de s'améliorer mais sans perdre de vue la quête principale.
  
-	5. Disperser les quêtes sur la carte du monde pour organiser le déroulement de l'histoire.
+- 5 : Disperser les quêtes sur la carte du monde pour organiser le déroulement de l'histoire.
 	
-	6. Ecrire le script à l'aide de tout ce qui a été fait lors des précédentes étapes.
+- 6 : Ecrire le script à l'aide de tout ce qui a été fait lors des précédentes étapes.
 
 ## Le scénario par rapport au jeu :
 
