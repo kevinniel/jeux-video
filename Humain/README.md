@@ -20,13 +20,8 @@
 ### Pour plus d'information [Here](./Education.md)
 
 ## **4.7.7 Jeux vidéo thérapeuthique - Jeux vidéo au quotidien**
-<<<<<<< HEAD
-### Pour plus d'information sur les jeux vidéo au quotidien [Here](./Jeux_video_therapeutique.md)
-### Pour plus d'information sur les jeux vidéo au quotidien [Here](./Jeux_video_au_quotidien.md)
-=======
 ### Pour plus d'information sur les jeux vidéo au thérapeuthique [Here](./Jeux_video_therapeutique.md)
 ### Pour plus d'information sur les jeux vidéo au quotidien [Here](./Jeux_video_au_quotidien.md)
->>>>>>> 35a6aa0fec312eb608a96df41dafee7455450cbd
 
 ## **4.7.8 Réalité Virtuelle**
 ### Pour plus d'information [Here](./Realite_Virtuelle.md)
