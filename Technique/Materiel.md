@@ -171,7 +171,7 @@ _Principales ventes de consoles :_
 Sur PC on retrouve divers système d'exploitation dont trois principaux : Linux, MacOS et Windows.
 
 ### 3.1 Linux
-![Logo Linux](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+![Logo Linux](https://www.extrem-network.com/wp-content/uploads/2018/10/Linux-logo-without-version-number-banner-sized.jpg)
 
 
 
@@ -180,7 +180,7 @@ Sur PC on retrouve divers système d'exploitation dont trois principaux : Linux,
 
 
 ### 3.2 MacOS
-![Logo MacOS](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+![Logo MacOS](http://francois.nus.free.fr/images2/logo-mac-os.png)
 
 
 
@@ -190,7 +190,7 @@ Sur PC on retrouve divers système d'exploitation dont trois principaux : Linux,
 
 
 ### 3.3 Windows
-![Logo Windows](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+![Logo Windows](https://stratmarques.com/wp-content/uploads/2019/03/Windows_rgb_Blue_D.png)
 
 
 
