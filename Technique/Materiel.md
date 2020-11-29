@@ -73,6 +73,7 @@ En **mars 1976**, **Breakout** est un nouveau hit en salle d'arcade. En **octobr
 | Atari Corporation (1984 - 1996) | ST - STF - Mega ST - Stacy - STE - Mega STE - ST Book - TT - Falcon030 | Atari 5200 è Atari 7800 - Lynx - Lynx II - Jaguar - Jaguar CD - Atari XEGS | / |
 | Atari Interactive - Atari Inc. - Atari SA (1998) | / | Atari Flashback - Atari VCS | / |
 
+
 ### 2.2 Nintendo
 ![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
