@@ -6,7 +6,7 @@ Sur téléphone on retrouve deux systèmes d'exploitation principaux : Android d
 ### 1.1 Android
 ![Logo Android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7GYnHkPj_kwfCKYHYknvrLt0L3slfTuJJQ&usqp=CAU)
 
-Android est un système d'exploitation mobile fondé sur le noyau **Linux** et développé par **Google**.
+**Android** est un système d'exploitation mobile fondé sur le noyau **Linux** et développé par **Google**.
 Lancé en **juin 2007**, le système avait d'abord été conçu pour les smartphones et tablettes tactiles, puis s'est diversifié dans les objets connectés et ordinateurs comme les télévisions, les voituresn les Chromebook et les smartwatch.  
 En **2015** Android est le système d'exploitation le plus utilisé dans le monde, devant **iOS** d'**Apple**, avec plus de **80 %** de parts de marché dans les smartphones pour l'ensemble de ses versions et adaptations.  
 Android est diffusé sous trois formes :
@@ -37,7 +37,7 @@ _Popularité des différentes versions - 10 avril 2020 :_
 ### 1.2 iOS
 ![Logo Apple](https://seeklogo.com/images/I/ios-logo-6E4FB144E1-seeklogo.com.png)
 
-iOS est un système d'exploitation mobile fondé développé par Apple. Il est dérivé de macOS dont il partage les fondations.  
+**iOS** est un système d'exploitation mobile fondé développé par Apple. Il est dérivé de macOS dont il partage les fondations.  
 En **2005**, quand Steve Jobs a commencé à travailler sur l'iPhone, il s'est donné deux choix :  
 « réduire le Mac, ce qui serait un exploit épique pour l'ingénierie, ou agrandir l'iPod ».  
 Il s'est tourné vers la première approche. Il a alors organisé une compétition entre les équipes Macintosh, dirigée par Scott Forstall, et iPod, dirigée par Tony Fadell. Forstall a alors gagné en créant iPhone OS.  
@@ -54,10 +54,12 @@ _Popularité des différentes versions - 27 janvier 2020 :_
 
 ## 2. Console
 
+À partir des années 1970 les consoles de jeux vidéo ont commencé à se démocratiser.
+
 ### 2.1 Atari
 ![Logo Atari](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
 
-Atari est une entreprise américaine fondée en **1972** par Nolan Bushnell et Ted Dabney. Elle est considérée comme pionnière et fondatrice de l'industrie du jeu vidéo, devenue française en **2003** par son rachat par Infogrames.  
+**Atari** est une entreprise américaine fondée en **1972** par Nolan Bushnell et Ted Dabney. Elle est considérée comme pionnière et fondatrice de l'industrie du jeu vidéo, devenue française en **2003** par son rachat par Infogrames.  
 Elle est spécialisée dans le développement de jeux vidéo et fabrique des bornes d'arcade, des consoles de jeux et des ordinateurs personnels des années **1970** et **1990**.  
 Le **29 novembre 1972**, Atari commercialise sa première borne d'arcade, **Pong**, qui devient un énorme succès grâce à la vente de **35 000** unités au total.
 Le second jeu de la société, **Space Race**, est lancé le **16 juillet 1973**.
@@ -74,7 +76,7 @@ En **mars 1976**, **Breakout** est un nouveau hit en salle d'arcade. En **octobr
 ### 2.2 Nintendo
 ![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
-Nintendo est une entreprise japonaise fondée en **1889** par Fusajirō Yamauchi.  
+**Nintendo** est une entreprise japonaise fondée en **1889** par Fusajirō Yamauchi.  
 Elle est spécialisée dans la fabrication de consoles de jeu vidéo, comme la **Nintendo Entertainment System** (**NES**), la **Nintendo 64**, la **Wii** et la **Nintendo DS**, ainsi que dans la conception de jeux vidéo tels que **Super Mario** ou **The Legend of Zelda**.
 
 _Principales ventes de consoles :_
@@ -125,7 +127,7 @@ _Jeux vidéo célèbres :_
 | Pikmin | 2001 |
 | Mario and Luigi | 2003 |
 | Mario vs. Donkey Kong | 2004 |
-| Programme d'entraînement cérébral du Dr Kawashima : Quel âge a votre cerveau ? |
+| Programme d'entraînement cérébral du Dr Kawashima : Quel âge a votre cerveau ? | 2005 |
 | Wii | 2006 |
 | Mario et Sonic aux Jeux olympiques | 2007 |
 | Xenoblade Chronicles | 2010 |
@@ -133,10 +135,10 @@ _Jeux vidéo célèbres :_
 | Splatoon | 2015 |
 
 
-### 2.3 Sony Interactive Entertainment
+### 2.3 PlayStation
 ![Logo PlayStation](https://www.dafont.com/forum/attach/orig/2/3/230829.gif)
 
-Sony Interactive Entertainment est une filiale japonaise de Sony spécialisée dans l'industrie vidéoludique. La compagnie développe, produit et commercialise des consoles de jeu et des jeux vidéo. Le succès de la gamme PlayStation en fait l'un des principaux acteurs du marché.
+**Sony Interactive Entertainment** est une filiale japonaise de **Sony** spécialisée dans l'industrie vidéoludique. La compagnie développe, produit et commercialise des consoles de jeu et des jeux vidéo. Le succès de la gamme **PlayStation** en fait l'un des principaux acteurs du marché.
 
 _Principales ventes de consoles :_
 | Console | Ventes | Date de parution |
@@ -147,17 +149,26 @@ _Principales ventes de consoles :_
 | PlayStation 3 | 87.41 millions | 11 novembre 2006 |
 | PlayStation Vita | 30.64 millions | 17 décembre 2011 |
 | PlayStation 4 | 112.3 millions | 15 novembre 2013 |
-| PlayStation 5 | / | 12 novembre 2020
+| PlayStation 5 | / | 12 novembre 2020 |
+
 
 ### 2.4 Xbox
 ![Logo Xbox](https://thumbs.videogamer.com/3NjQAZTSWi2zkSCLFQBq7ZGPizQ=/640x360/smart/https://s.videogamer.com/meta/5d03/14541963-6c35-4b5f-8741-7c6f50a61fc9_Xbox2020Announce_HERO.jpg)
 
+**Xbox** est une marque vidéoludique créée et appartenant à **Microsoft**. La marque est principalement connue pour la commercialisation d'une série de consoles de jeux vidéo de salon développées par Microsoft : la **Xbox**, la **Xbox 360** et la **Xbox One**. La **Xbox Series** sortira fin **2020**. La marque représente aussi des applications (jeu vidéo) et des services de streaming par le biais de son service Xbox Live. La marque est introduite sur le marché le **15 novembre 2001** aux États-Unis, le jour du lancement de la première console de la série.
 
-
-
+_Principales ventes de consoles :_
+| Console | Ventes | Date de parution |
+| :-----: | :----: | :--------------: |
+| Xbox | 48.12 millions | 15 novembre 2001 |
+| Xbox 360 | 173.56 millions | 22 novembre 2005 |
+| Xbox One | 89.95 millions | 22 novembre 2013 |
+| Xbox Series | / | 10 novembre 2020 |
 
 
 ## 3. Ordinateur
+
+Sur PC on retrouve divers système d'exploitation dont trois principaux : Linux, MacOS et Windows.
 
 ### 3.1 Linux
 ![Logo Linux](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
