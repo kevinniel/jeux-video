@@ -1,9 +1,9 @@
 # Matériel
 
-## Téléphone
+## 1. Téléphone
 Sur téléphone on retrouve deux systèmes d'exploitation principaux : Android de Google et iOS d'Apple.
 
-### Android
+### 1.1 Android
 Android est un système d'exploitation mobile fondé sur le noyau **Linux** et développé par **Google**.
 Lancé en **juin 2007**, le système avait d'abord été conçu pour les smartphones et tablettes tactiles, puis s'est diversifié dans les objets connectés et ordinateurs comme les télévisions, les voituresn les Chromebook et les smartwatch.  
 En **2015** Android est le système d'exploitation le plus utilisé dans le monde, devant **iOS** d'**Apple**, avec plus de **80 %** de parts de marché dans les smartphones pour l'ensemble de ses versions et adaptations.  
@@ -33,7 +33,7 @@ _Popularité des différentes versions - 10 avril 2020 :_
 
 ![Logo Android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7GYnHkPj_kwfCKYHYknvrLt0L3slfTuJJQ&usqp=CAU)
 
-### iOS
+### 1.2 iOS
 iOS est un système d'exploitation mobile fondé développé par Apple. Il est dérivé de macOS dont il partage les fondations.  
 En **2005**, quand Steve Jobs a commencé à travailler sur l'iPhone, il s'est donné deux choix :  
 « réduire le Mac, ce qui serait un exploit épique pour l'ingénierie, ou agrandir l'iPod ».  
@@ -51,12 +51,28 @@ _Popularité des différentes versions - 27 janvier 2020 :_
 
 ![Logo Apple](https://seeklogo.com/images/I/ios-logo-6E4FB144E1-seeklogo.com.png)
 
-## Console
-### Nintendo
-### PlayStation
-### GameCube
-### Xbox
-### Atari
+## 2. Console
+
+### 2.1 Atari
+
+
+### 2.2 GameCube
+
+
+### 2.3 PlayStation
+
+
+### 2.4 Xbox
+
+
+### 2.5 Nintendo
+
+
+![Logo Nintendo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F689121180463365413%2F&psig=AOvVaw3ZVErnkjYtpCOeJTwkVYja&ust=1606751276843000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD2m4yNqO0CFQAAAAAdAAAAABAx)
+
+
+
+
 
 ## Ordinateur
 ### Windows
