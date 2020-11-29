@@ -13,12 +13,13 @@ Android est diffusé sous trois formes :
 * Android existe sous la forme de différentes versions alternatives également appelées ROM Custom.
 
 | _Popularité des différentes versions - 10 avril 2020 :_ |
-| Version | Nom de code | Date de sortie | Version API |  %  |
 | :-----: | :---------: | :------------: | :---------: | :-: |
+| Version | Nom de code | Date de sortie | Version API |  %  |
 | 2.3.3 - 2.3.7 | Gingerbread | 6 décembre 2010 | 10 | 0.1% |
 | 4.0.3 - 4.0.4 | Ice Cream Sandwich | 19 octobre 2011 | 15 | 0.2% |
-| 4.1.X - 4.2.X - 4.3 | Jelly Bean | 9 juillet 2012 - 13 novembre 2012 - 24 juillet 2013 | 16 - 17 - 18 | 0.6% |
-
+| 4.1.X |            | 9 juillet 2012 | 16 | 0.6% |
+| 4.2.X | Jelly Bean | 13 novembre 2012 | 17 | 0.8% |
+| 4.3 | |            | 24 juillet 2013 | 18 | 0.3% |
 
 
 
