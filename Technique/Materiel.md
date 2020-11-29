@@ -43,7 +43,7 @@ Le système d'exploitation a été révélé avec le premier iPhone à la Macwor
 
 _Popularité des différentes versions - 27 janvier 2020 :_
 | Version | Nom de code | Date de sortie |  %  |
-| :-----: | :---------: | :------------: | :---------: | :-: |
+| :-----: | :---------: | :------------: | :-: |
 | 11.X et antérieur | iOS 11 (et antérieur) | 5 juin 2017 | 6% |
 | 12.X | iOS 12 | 17 septembre 2018 | 17% |
 | 13.X | iOS 13 | 19 septembre 2019 | 77% |
