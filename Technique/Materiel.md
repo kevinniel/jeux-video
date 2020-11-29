@@ -173,31 +173,29 @@ Sur PC on retrouve divers système d'exploitation dont trois principaux : Linux,
 ### 3.1 Linux
 ![Logo Linux](https://www.extrem-network.com/wp-content/uploads/2018/10/Linux-logo-without-version-number-banner-sized.jpg)
 
-
-
-
-
+Linux ou GNU/Linux est une famille de système d'exploitation open source de type Unix fondé sur le noyau Linux, créé en **1991** par Linus Torvalds.  
+Le système Unix a été créé par **AT&T** au début des années **1970** et s'est notamment répandu dans le monde universitaire. Dès la fin de l'année **1977**, des chercheurs de l'université de Californie apportèrent de nombreuses améliorations au système Unix et le distribuèrent sous le nom de **Berkeley Software Distribution** (**BSD**). Finalement, les distributions BSD furent purgées du code AT&T, et librement disponibles en **1991**. La distribution de BSD a toutefois été l'objet d'une procédure judiciaire d'AT&T au début des années **1990**.  
+En **1983**, Richard Stallman annonce son projet de développer un système d'exploitation libre compatible UNIX appelé **GNU4**, en invitant la communauté hacker à le rejoindre et participer à son développement. Dès **1985**, certaines pièces maîtresses sont opérationnelles, dont le compilateur GCC finalisé dès **juin 1984**. Le projet GNU commence vers **1990** à travailler sur le noyau Hurd, mais son développement prendra plus de **10 ans**.
+**Minix** est un système d'exploitation de type Unix fondé sur un micro-noyau. Il a créé en **1987** par le professeur Andrew Stuart Tanenbaum à des fins pédagogiques. La licence de Minix était bon marché afin d'être accessible aux étudiant, mais Minix n'était pas librement distribuable. Linus Torvalds était un étudiant qui utilisait et appréciait Minix.
+En **1991**, Linus Torvalds indisposé par la faible disponibilité du serveur informatique Unix de l'université d'Helsinki, entreprend le développement d'un noyau de système d'exploitation, qui prendra le nom de **noyau Linux**.  
+Le **25 août 1991**, il annonce sur le forum Usenet le développement du noyau Linux. Il choisit rapidement de publier son noyau sous licence GNU GPL. Cette décision rend compatibles juridiquement les systèmes GNU et Linux.
 
 
 ### 3.2 MacOS
 ![Logo MacOS](http://francois.nus.free.fr/images2/logo-mac-os.png)
 
-
-
-
-
-
+**macOS** est un système d’exploitation partiellement propriétaire développé et commercialisé par **Apple** depuis **1998**, dont la version la plus récente est **macOS Big Sur** (version 11) lancée le **12 novembre 2020**. Avec **iOS**, **iPadOS**, **watchOS** et **tvOS**, il fait partie des systèmes d'exploitation d'Apple.  
+macOS est le successeur du système **Mac OS**, principal système d'exploitation d'Apple depuis **1984**. Contrairement à ses prédécesseurs, macOS fait partie de la famille des systèmes d'exploitation **UNIX**, fondé sur les technologies développées par **NeXT** depuis le milieu des années **1980** jusqu'au rachat de la société par Apple en **1997**. La première version du système est Mac OS X Server 1.0, commercialisée en **1999**, suivie par une version orientée pour le grand public en **mars 2001**.  
+La **version serveur** de macOS est architecturalement identique à la **version grand public**, mais incorpore des logiciels facilitant la mise en place et l'**administration de réseau informatique**, de **serveur de messagerie électronique** et de **serveur de fichiers Samba**, entre autres. À partir d'**OS X 10.8**, la version serveur d'OS X fut une simple extension du système de base, téléchargeable depuis le **Mac App Store**.
 
 
 ### 3.3 Windows
 ![Logo Windows](https://stratmarques.com/wp-content/uploads/2019/03/Windows_rgb_Blue_D.png)
 
-
-
-
-
-
-
-
-
-
+**Windows** est au départ une interface graphique unifiée produite par **Microsoft**, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.  
+Ils existent différentes branches techniques de Windows :
+* **16 bits**, apparue en **1985**, elle fonctionne uniquement sur compatibles PC, en mode 16 bits.
+* **Windows NT**, apparue en **1993**, elle est destinée aux ordinateurs personnels, aux serveurs et à des ordinateurs non compatibles PC.
+* **Windows 9x**, apparue en **1995**, elle avait pour vocation de remplacer la première branche, c'est la première branche compatible 32 bits.
+* **Windows CE**, apparue en **1996**, elle est destinée aux systèmes embarqués et matériels légers et portables.
+* **Windows RT**, apparue en **2012**, elle est conçue exclusivement pour les processeurs ARM.
