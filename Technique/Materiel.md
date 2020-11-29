@@ -74,8 +74,80 @@ En **mars 1976**, **Breakout** est un nouveau hit en salle d'arcade. En **octobr
 ### 2.2 Nintendo
 ![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
-### 2.3 PlayStation
+Nintendo est une entreprise japonaise fondée en **1889** par Fusajirō Yamauchi.  
+Elle est spécialisée dans la fabrication de consoles de jeu vidéo, comme la **Nintendo Entertainment System** (**NES**), la **Nintendo 64**, la **Wii** et la **Nintendo DS**, ainsi que dans la conception de jeux vidéo tels que **Super Mario** ou **The Legend of Zelda**.
+
+_Principales ventes de consoles :_
+| Console | Ventes |
+| :-----: | :----: |
+| Nintendo DS | 154.02 millions |
+| Game Boy | 118.63 millions |
+| Wii | 101.63 millions |
+| Game Boy Advance | 81.51 millions |
+| Nintendo 3DS | 75.94 millions |
+| Nintendo Switch | 68.3 millions |
+| NES / Famicom | 61.91 millions |
+| Super Nintendo | 49.1 milions |
+| Game and Watch | 43 millions |
+| Nintendo 64 | 32.93 millions |
+| GameCube | 21.74 millions |
+| Wii U | 13.56 millions |
+| Virtual Boy | 770 000 |
+
+_Jeux vidéo célèbres :_
+| Console | Date de parution |
+| :-----: | :--------------: |
+| Game and Watch | 1980 |
+| Donkey Kong | 1981 |
+| Super Mario | 1983 |
+| Punch-Out!! | 1984 |
+| Metroid | 1986 |
+| The Legend of Zelda | 1986 |
+| Mother | 1989 |
+| Dr. Mario | 1990 |
+| Fire Emblem | 1990 |
+| F-Zero | 1990 |
+| Mario Golf | 1991 |
+| Mario Kart | 1992 |
+| Kirby | 1992 |
+| Star Fox | 1993 |
+| Wario | 1994 |
+| Yoshi | 1995 |
+| Mario Tennis | 1995 |
+| Pokémon | 1996 |
+| Mario Party | 1998 |
+| Super Smash Bros. | 1999 |
+| Paper Mario | 2000 |
+| Luigi's Mansion | 2001 |
+| Golden Sun | 2001 |
+| Advance Wars | 2001 |
+| Animal Crossing | 2001 |
+| Pikmin | 2001 |
+| Mario and Luigi | 2003 |
+| Mario vs. Donkey Kong | 2004 |
+| Programme d'entraînement cérébral du Dr Kawashima : Quel âge a votre cerveau ? |
+| Wii | 2006 |
+| Mario et Sonic aux Jeux olympiques | 2007 |
+| Xenoblade Chronicles | 2010 |
+| Hyrule Warriors | 2014 |
+| Splatoon | 2015 |
+
+
+### 2.3 Sony Interactive Entertainment
 ![Logo PlayStation](https://www.dafont.com/forum/attach/orig/2/3/230829.gif)
+
+Sony Interactive Entertainment est une filiale japonaise de Sony spécialisée dans l'industrie vidéoludique. La compagnie développe, produit et commercialise des consoles de jeu et des jeux vidéo. Le succès de la gamme PlayStation en fait l'un des principaux acteurs du marché.
+
+_Principales ventes de consoles :_
+| Console | Ventes | Date de parution |
+| :-----: | :----: | :--------------: |
+| PlayStation | 104.25 millions | 3 décembre 1994 |
+| PlayStation 2 | 155 millions | 4 mars 2000 |
+| PlayStation Portable | 154.81 millions | 12 décembre 2004 |
+| PlayStation 3 | 87.41 millions | 11 novembre 2006 |
+| PlayStation Vita | 30.64 millions | 17 décembre 2011 |
+| PlayStation 4 | 112.3 millions | 15 novembre 2013 |
+| PlayStation 5 | / | 12 novembre 2020
 
 ### 2.4 Xbox
 ![Logo Xbox](https://thumbs.videogamer.com/3NjQAZTSWi2zkSCLFQBq7ZGPizQ=/640x360/smart/https://s.videogamer.com/meta/5d03/14541963-6c35-4b5f-8741-7c6f50a61fc9_Xbox2020Announce_HERO.jpg)
