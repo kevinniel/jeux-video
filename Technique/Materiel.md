@@ -4,6 +4,8 @@
 Sur téléphone on retrouve deux systèmes d'exploitation principaux : Android de Google et iOS d'Apple.
 
 ### 1.1 Android
+![Logo Android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7GYnHkPj_kwfCKYHYknvrLt0L3slfTuJJQ&usqp=CAU)
+
 Android est un système d'exploitation mobile fondé sur le noyau **Linux** et développé par **Google**.
 Lancé en **juin 2007**, le système avait d'abord été conçu pour les smartphones et tablettes tactiles, puis s'est diversifié dans les objets connectés et ordinateurs comme les télévisions, les voituresn les Chromebook et les smartwatch.  
 En **2015** Android est le système d'exploitation le plus utilisé dans le monde, devant **iOS** d'**Apple**, avec plus de **80 %** de parts de marché dans les smartphones pour l'ensemble de ses versions et adaptations.  
@@ -31,9 +33,10 @@ _Popularité des différentes versions - 10 avril 2020 :_
 | 9 | Pie | 1 décembre 2018 | 28 | 31.3% |
 | 10 | Android 10 | 3 septembre 2019 | 29 | 8.2% |
 
-![Logo Android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7GYnHkPj_kwfCKYHYknvrLt0L3slfTuJJQ&usqp=CAU)
 
 ### 1.2 iOS
+![Logo Apple](https://seeklogo.com/images/I/ios-logo-6E4FB144E1-seeklogo.com.png)
+
 iOS est un système d'exploitation mobile fondé développé par Apple. Il est dérivé de macOS dont il partage les fondations.  
 En **2005**, quand Steve Jobs a commencé à travailler sur l'iPhone, il s'est donné deux choix :  
 « réduire le Mac, ce qui serait un exploit épique pour l'ingénierie, ou agrandir l'iPod ».  
@@ -49,31 +52,69 @@ _Popularité des différentes versions - 27 janvier 2020 :_
 | 13.X | iOS 13 | 19 septembre 2019 | 77% |
 
 
-![Logo Apple](https://seeklogo.com/images/I/ios-logo-6E4FB144E1-seeklogo.com.png)
-
 ## 2. Console
 
 ### 2.1 Atari
+![Logo Atari](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+
+Atari est une entreprise 
+
+|     | Informatique | Consoles | Jeux vidéo |
+| :-: | :----------: | :------: | :--------: |
+| Atari Inc. (1972 - 1984) | Atari 400 - Atari 800 - Atari 1200XL - Atari 600XL - Atari 800XL - Atari 65XE - Atari 130XE - Atari 800XE | Atari 2600 - Atari 5200 - Atari Video Pinball - Atari Stunt Cycle - Atari Game Brain | Astreoids - Battlezone - Breakout - Centipede - Gran Trak 10 - I, Robot - Lunar Lander - Major Havoc - Missile Command - Night Driver - Pong - Star Wars - Tempest |
+| Atari Games (1984 - 2000) | / | / | APB: All Points Bulletin - Gauntlet - Hard Drivin' - Marble Madness - Parperboy - Rampart - San Francisco Rush 2019 - S.T.U.N Runner - Super Sprint - Vindicators |
+| Atari Corporation (1984 - 1996) | ST - STF - Mega ST - Stacy - STE - Mega STE - ST Book - TT - Falcon030 | Atari 5200 è Atari 7800 - Lynx - Lynx II - Jaguar - Jaguar CD - Atari XEGS | / |
+| Atari Interactive - Atari Inc. - Atari SA (1998) | / | Atari Flashback - Atari VCS | / |
+
+
 
 
 ### 2.2 GameCube
-
+![Logo GameCube](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
 
 ### 2.3 PlayStation
-
+![Logo PlayStation](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
 
 ### 2.4 Xbox
-
+![Logo Xbox](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
 
 ### 2.5 Nintendo
-
-
 ![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
 
 
 
 
-## Ordinateur
-### Windows
-### Linux
+## 3. Ordinateur
+
+### 3.1 Linux
+![Logo Linux](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+
+
+
+
+
+
+
+### 3.2 MacOS
+![Logo MacOS](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+
+
+
+
+
+
+
+
+### 3.3 Windows
+![Logo Windows](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+
+
+
+
+
+
+
+
+
+
