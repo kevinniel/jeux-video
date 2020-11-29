@@ -57,7 +57,12 @@ _Popularité des différentes versions - 27 janvier 2020 :_
 ### 2.1 Atari
 ![Logo Atari](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
 
-Atari est une entreprise 
+Atari est une entreprise américaine fondée en **1972** par Nolan Bushnell et Ted Dabney. Elle est considérée comme pionnière et fondatrice de l'industrie du jeu vidéo, devenue française en **2003** par son rachat par Infogrames.  
+Elle est spécialisée dans le développement de jeux vidéo et fabrique des bornes d'arcade, des consoles de jeux et des ordinateurs personnels des années **1970** et **1990**.  
+Le **29 novembre 1972**, Atari commercialise sa première borne d'arcade, **Pong**, qui devient un énorme succès grâce à la vente de **35 000** unités au total.
+Le second jeu de la société, **Space Race**, est lancé le **16 juillet 1973**.
+En **mars 1976**, **Breakout** est un nouveau hit en salle d'arcade. En **octobre 1976**, Nolan Bushnell revend **Atari Inc.** à **Warner Communications** pour environ **28 millions** de dollars. En **1977**, la société sort sa première console à cartouche, l'**Atari 2600*, qui s'impose comme le système leader sur le marché, avec plus de **40 millions** d'unités écoulés au total. Atari se lance ensuite dans la conception d'ordinateurs personnels avec la gamme **Atari 8-bit**.
+
 
 |     | Informatique | Consoles | Jeux vidéo |
 | :-: | :----------: | :------: | :--------: |
@@ -66,20 +71,15 @@ Atari est une entreprise
 | Atari Corporation (1984 - 1996) | ST - STF - Mega ST - Stacy - STE - Mega STE - ST Book - TT - Falcon030 | Atari 5200 è Atari 7800 - Lynx - Lynx II - Jaguar - Jaguar CD - Atari XEGS | / |
 | Atari Interactive - Atari Inc. - Atari SA (1998) | / | Atari Flashback - Atari VCS | / |
 
-
-
-
-### 2.2 GameCube
-![Logo GameCube](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+### 2.2 Nintendo
+![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
 ### 2.3 PlayStation
-![Logo PlayStation](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+![Logo PlayStation](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FPlayStation_(marque)&psig=AOvVaw3f6xsWC9yCGJONOLKb_aZx&ust=1606754032493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC7pqyXqO0CFQAAAAAdAAAAABAJ)
 
 ### 2.4 Xbox
-![Logo Xbox](https://upload.wikimedia.org/wikipedia/fr/e/e6/Atari_Inc._%282003%29_Logo_1.png)
+![Logo Xbox](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FXbox_(marque)&psig=AOvVaw2vfC7CNzofFS-AEOLtz5RZ&ust=1606754047634000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjWtLOXqO0CFQAAAAAdAAAAABAV)
 
-### 2.5 Nintendo
-![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
 
 
