@@ -78,7 +78,7 @@ En **mars 1976**, **Breakout** est un nouveau hit en salle d'arcade. En **octobr
 ![Logo PlayStation](https://www.dafont.com/forum/attach/orig/2/3/230829.gif)
 
 ### 2.4 Xbox
-![Logo Xbox](https://compass-ssl.xbox.com/assets/16/9a/169a7ffe-c2c7-463a-a77c-21239c9ac388.jpg?n=Xbox_Sharing_Xbox-2019-White-on-Green_200x200.jpg)
+![Logo Xbox](https://thumbs.videogamer.com/3NjQAZTSWi2zkSCLFQBq7ZGPizQ=/640x360/smart/https://s.videogamer.com/meta/5d03/14541963-6c35-4b5f-8741-7c6f50a61fc9_Xbox2020Announce_HERO.jpg)
 
 
 
