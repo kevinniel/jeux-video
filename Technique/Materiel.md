@@ -17,17 +17,19 @@ _Popularité des différentes versions - 10 avril 2020 :_
 | :-----: | :---------: | :------------: | :---------: | :-: |
 | 2.3.3 - 2.3.7 | Gingerbread | 6 décembre 2010 | 10 | 0.1% |
 | 4.0.3 - 4.0.4 | Ice Cream Sandwich | 19 octobre 2011 | 15 | 0.2% |
-| 4.1.X |            | 9 juillet 2012 | 16 | 0.6% |
+| 4.1.X | Jelly Bean | 9 juillet 2012 | 16 | 0.6% |
 | 4.2.X | Jelly Bean | 13 novembre 2012 | 17 | 0.8% |
-| 4.3   |            | 24 juillet 2013 | 18 | 0.3% |
-
-
-
-
-
-
-
-
+| 4.3   | Jelly Bean | 24 juillet 2013 | 18 | 0.3% |
+| 4.4 | KitKat | 31 octobre 2013 | 19 | 4% |
+| 5.0 | Lolipop | 3 novembre 2014 | 21 | 1.8% |
+| 5.1 | Lolipop | 9 mars 2015 | 22 | 7.4% |
+| 6.0 | Marshmallow | 8 octobre 2015 | 23 | 11.2% |
+| 7.0 | Nougat | 22 août 2016 | 24 | 7.5% |
+| 7.1 | Nougat | 4 octobre 2016 | 25 | 5.4% |
+| 8.0 | Oreo | 21 août 2017 | 26 | 7.3% |
+| 8.1 | Oreo | 6 décembre 2017 | 27 | 14% |
+| 9 | Pie | 1 décembre 2018 | 28 | 31.3% |
+| 10 | Android 10 | 3 septembre 2019 | 29 | 8.2% |
 
 ![Logo Android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7GYnHkPj_kwfCKYHYknvrLt0L3slfTuJJQ&usqp=CAU)
 
@@ -38,6 +40,14 @@ En **2005**, quand Steve Jobs a commencé à travailler sur l'iPhone, il s'est d
 Il s'est tourné vers la première approche. Il a alors organisé une compétition entre les équipes Macintosh, dirigée par Scott Forstall, et iPod, dirigée par Tony Fadell. Forstall a alors gagné en créant iPhone OS.  
 Cette décision a donc permis le succès de l'iPhone en tant que plate-forme pour les développeurs tiers, ce qui permettait aux développeurs Mac de travailler sur des applications iPhone plus facilement.  
 Le système d'exploitation a été révélé avec le premier iPhone à la Macworld Conference & Expo le **9 janvier 2007**.
+
+_Popularité des différentes versions - 27 janvier 2020 :_
+| Version | Nom de code | Date de sortie |  %  |
+| :-----: | :---------: | :------------: | :---------: | :-: |
+| 11.X et antérieur | iOS 11 (et antérieur) | 5 juin 2017 | 6% |
+| 12.X | iOS 12 | 17 septembre 2018 | 17% |
+| 13.X | iOS 13 | 19 septembre 2019 | 77% |
+
 
 ![Logo Apple](https://seeklogo.com/images/I/ios-logo-6E4FB144E1-seeklogo.com.png)
 
