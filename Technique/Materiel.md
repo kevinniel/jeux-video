@@ -68,7 +68,7 @@ _Popularité des différentes versions - 27 janvier 2020 :_
 ### 2.5 Nintendo
 
 
-![Logo Nintendo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.1min30.com%2Flogo%2Flogo-nintendo-1287490672&psig=AOvVaw3ZVErnkjYtpCOeJTwkVYja&ust=1606751276843000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCOD2m4yNqO0CFQAAAAAdAAAAABCtAQ)
+![Logo Nintendo](https://upload.wikimedia.org/wikipedia/commons/2/29/NintendoLogo.png)
 
 
 
