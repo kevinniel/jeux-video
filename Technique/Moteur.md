@@ -13,16 +13,16 @@ L'Unreal Engine est programmé en **C++** et dans un **langage de script**, bapt
 Unity est programmé en **C#** sur la plate-forme « **.NET** » avec l'implémentation **Mono**. À partir de la version 2018.1, il est basé sur **Visual Studio Community**, permettant toujours d'utiliser du code Mono en ayant l'avantage d'être multi-plateforme et multi-architecture, et de générer du code intermédiaire **C++** afin de pouvoir générer des binaires natifs.
 
 ## Leurs avantages et inconvénients :
-Le site CANARDPC donne son avis sur les différent moteur graphique que vous pouvez voir en cliquand [ici](https://www.canardpc.com/hs22/unreal-engine).
+Le site CANARDPC donne son avis sur les différent moteurs graphiques que vous pouvez voir en cliquant [ici](https://www.canardpc.com/hs22/unreal-engine).
 | Moteur Graphique | Avantages | Inconvénients |
 | :---------------: |:---------------:| :-----:|
-| Unreal engine | Bonne qualité graphique et bonne puissance | Pas le plus simple à utiliser |
-| Unity | Bonne qualité et permet de faire à peu près tout | dépendant de l'unité et de sa limite |
-| Lumberyard | ... | En retard par rapport à la concurrence |
-| GameMaker | Beaucoups de possibilité pour faire des jeux 2 D | ... |
-| RPG Maker | Bon pour créer des rpg en 2D | Moteur de niche |
+| Unreal Engine | Bonne qualité graphique et bonne puissance | Pas le plus simple à utiliser |
+| Unity | Bonne qualité et permet de faire à peu près tout | Dépendant de l'unité et de sa limite |
+| Amazon Lumberyard | / | En retard par rapport à la concurrence |
+| GameMaker | Beaucoup de possibilité pour faire des jeux 2D | / |
+| RPG Maker | Bon pour créer des RPG en 2D | Moteur de niche |
 
-Si vous avez du mal pour vous décider, nous vous laisson examiner les critères pour choisir son moteur graphique [ici](https://videogamecreation.fr/choisir-le-meilleur-moteur-de-jeu/).
+Si vous avez du mal pour vous décider, nous vous laissons examiner les critères pour choisir son moteur graphique [ici](https://videogamecreation.fr/choisir-le-meilleur-moteur-de-jeu/).
 
 ## Explications sur les moteurs graphiques :
 - **Amazon Lumberyard** est un moteur graphique qui a permis de créer les jeux suivants : New World, Star Citizen, Crucible, everywhere, DRG Initiative.
