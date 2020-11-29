@@ -13,7 +13,7 @@ Android est diffusé sous trois formes :
 * Android existe sous la forme de différentes versions alternatives également appelées ROM Custom.
 
 | _Popularité des différentes versions - 10 avril 2020 :_ |
-| :-----: | :---------: | :------------: | :---------: | :-: |
+| :-----------------------------------------------------: |
 | Version | Nom de code | Date de sortie | Version API |  %  |
 | :-----: | :---------: | :------------: | :---------: | :-: |
 | 2.3.3 - 2.3.7 | Gingerbread | 6 décembre 2010 | 10 | 0.1% |
@@ -25,7 +25,6 @@ Android est diffusé sous trois formes :
 
 
 
-| ![Image Chronologie](https://upload.wikimedia.org/wikipedia/fr/timeline/a2ec00d22b45935f1b1ee379d3e8bcb8.png)     |
 
 
 
