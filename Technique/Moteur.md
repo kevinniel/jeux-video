@@ -24,7 +24,7 @@ Le site CANARDPC donne son avis sur les différent moteur graphique que vous pou
 
 Si vous avez du mal pour vous décider, nous vous laisson examiner les critères pour choisir son moteur graphique [ici](https://videogamecreation.fr/choisir-le-meilleur-moteur-de-jeu/).
 
-## explication sur les Moteurs :
+## Explications sur les moteurs graphiques :
 - **Amazon Lumberyard** est un moteur graphique qui a permis de créer les jeux suivants : New World, Star Citizen, Crucible, everywhere, DRG Initiative.
 - **CryEngine** est un moteur graphique qui a permis de créer les jeux suivants : Far Cry, Aion: The Tower of Eternity, Crysis, ArcheAge, Evolve.
 - **Frostbite Engine** est un moteur graphique qui a permis de créer les jeux suivants : Battlefield, Need for Speed, FIFA, Mass Effect, Star Wars: Squadrons.
